@@ -13,16 +13,17 @@ def mkdir_cmd():												#making dir and file (not worked yet, lazyyy)
   my_file = open('snake.txt', 'w')
 """
 
-def new_mass(addr_beg, addr_end):										# [all st], [all endd]
+def new_mass(addr_beg, addr_end):									# [all st], [all endd]
   #addr = ['11.53.128.0', '11.53.159.255']
 
   print ("[List of ip\'s: ]")
 
   for i in range(col):
-    begin = list(map(int,addr_beg[i].split('.')))				# 5.1.20.0 -> split('.') -> '5','1','20','0' -> map(int) -> 5,1,20,0 -> list() -> [5, 1, 20, 0]
-    end = list(map(int,addr_end[i].split('.')))					# 5.1.20.255 -> [5, 1, 20, 255]
+    begin = list(map(int,addr_beg[i].split('.')))					# 5.1.20.0 -> split('.') -> '5','1','20','0' -> map(int) -> 5,1,20,0 -> list() -> [5, 1, 20, 0]
+    end = list(map(int,addr_end[i].split('.')))						# 5.1.20.255 -> [5, 1, 20, 255]
     
-    res = list(zip(begin, end))									        # begin = [5, 1, 20, 0] end = [5, 1, 20, 255] ----> zip(begin, end) ----> [(5, 5), (1, 1), (20, 20), (0, 255)]
+    # obj"zip" -> to -> list required!
+    res = list(zip(begin, end))										# begin = [5, 1, 20, 0] end = [5, 1, 20, 255] ----> zip(begin, end) ----> [(5, 5), (1, 1), (20, 20), (0, 255)]
 
     if (res[2][0] == res[2][1]):
       for k in range(res[0][0], res[0][1]+1):						# for .. in range ([5], [6])
@@ -31,7 +32,7 @@ def new_mass(addr_beg, addr_end):										# [all st], [all endd]
                   for n in range(res[3][0], res[3][1]+1):			# for .. in range ([0], [255])
                      print('.'.join(list(map(str,[k,L,m,n]))))		# print [5,1,2,0] -> int made to (str) with map() -> '5,1,2,0' -> join with separator[.] at the beginning
 
-    else:															                  # [(31, 31), (43, 43), (128, 154), (0, 255)]
+    else:															# [(31, 31), (43, 43), (128, 154), (0, 255)]
       for k in range(res[0][0], res[0][1]+1):						# for .. in range ([31], [32])
           for L in range(res[1][0], res[1][1]+1):					# for .. in range ([43], [43])
               for m in range(res[2][0], res[2][1]+1):				# for .. in range ([128], [154])
@@ -39,11 +40,12 @@ def new_mass(addr_beg, addr_end):										# [all st], [all endd]
                      print('.'.join(list(map(str,[k,L,m,n]))))
 
 def get_ips():                          			#sources
-  path = 'folder_ips/ip.txt'						      #get directory
-  regex_num = re.compile('(.*)\-')					  #precompile regex expressions
+  print("Enter path to file with IP range: ")
+  path = input()									#get directory
+  regex_num = re.compile('(.*)\-')					#precompile regex expressions
   regex_num_end = re.compile('\-(.*)')
 
-  with open(path, 'r') as p:						      #read strings from file
+  with open(path, 'r') as p:						#read strings from file
     str_original = p.read()
     #print(type (str_original))
 
@@ -54,7 +56,7 @@ def get_ips():                          			#sources
   
   print("[length of massive of start values]")
   global col
-  col = len(st)										            #length of start values
+  col = len(st)										#length of start values
   print (col)
   print("\n")
 
