@@ -5,7 +5,7 @@ import shutil
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
-binary = FirefoxBinary('/usr/bin/firefox')
+binary = FirefoxBinary('C:\\Program Files\\Mozilla Firefox\\firefox.exe')
 
 def mkdir_cmd():
     if not os.path.exists(r".\results"):
