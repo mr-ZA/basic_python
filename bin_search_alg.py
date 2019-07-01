@@ -1,22 +1,25 @@
-def binary_search(list, item):      #принимаем на вход [список, число для поиска]
-	low = 0							              #наименьшее
-	high = len(list)-1 				        # элементов в списке как-бы [5], но в списке элементы начинаются с [0]
-	
-	
-	while low <= high:				        #пока low <= high входим 
-		index = (low + high)		        #среднее, [4+0, 3+0, 2+0, 1+0]
-		guess = list[index]			        #берем элементы list[4]=9, list[3]=7, list[2]=5, list[1]=3
-		
-		
-		if guess == item:			          #9!=3, 7!=3, 5!=3, 3==3
-			return index			            #если нашли, то вернуть номер элемента в списке
-		
-		if guess > item:			          #9>3, 7>3, 5>3
-			high = index - 1		          #high=3, 2, 1
-		else:
-			low = index + 1			          #заглушка в случе если попадется значение не в отсортированном виде, будет low > high
+def get_secret(list, secret):
 
-	return "встретилось неотсортированное значение.."
-	
-my_list = [1, 3, 5, 7, 9]
-print (binary_search(my_list, 3))
+    low = step = 0
+    high = len(list) - 1       # 0..4      # 0..6
+
+    while low <= high:
+        index = int((low + high) / 2)
+        guess = list[index]
+
+        if guess == secret:
+            return guess, step
+
+        if guess > secret:        #если guess уже больше secret, а массив отсортирован(следующие числа больше чем текущее и они никак не могут быть меньше)
+            high = index - 1
+            step = step + 1
+
+        else:
+            low = index + 1
+            step = step + 1
+
+    return "Error"
+
+
+my_list = [1, 3, 5, 7, 9, 10, 11]
+print(get_secret(my_list, 5))
