@@ -1,8 +1,10 @@
 
+
 mass = ['one', 'two', 3]
 
 if isinstance(mass, list):
     # перебираем элементы
+    print("\n")
     for m in mass:
         print(m)
 
@@ -30,7 +32,7 @@ if isinstance(mass, list):
     for x, z in enumerate(mass):
         print("Индекс: {}".format(x))
         print("Значение: {}\n".format(z))
-        dictd.update({x : z})               #один словарь в другой
+        dictd.update({x : z})               #один словарь в другой {0} : {'one'} ...
 
         if x == 2:
             print("По индексу <{}> находится элемент <{}>\n".format(x,z))
