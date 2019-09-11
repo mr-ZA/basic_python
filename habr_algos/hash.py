@@ -25,9 +25,6 @@ def push (name, type_a):
     global table
     table[hashNumber] = [type_a]
 
-    #info_a = Info(name, type_a, table)
-    #info_a.show()
-
 
 def find(name):
     hash_f_Number = hash(name)
@@ -47,6 +44,7 @@ def main():
     find(name)
 
 table = [None] * 100000
+
 print("Enter name and type of the animal to hash it: ")
 name = input()
 type_a = input()

@@ -44,25 +44,20 @@ class List():
         return self.memory
 
     def shift (self):
+        mass_num = []
+        mass_val = []
+
         self.unshift("x")
-        num_l = []
-        val_l = []
-        for num, value in enumerate (self.memory):
 
-            num_l.append(num)
-            val_l.append(value)
+        for num, val in  enumerate(self.memory):
+            mass_num.append(num)
+            mass_val.append(val)
 
-            print (num, value)
-        print ("\n")
+        for i in  range (len (mass_val) - 1):
+            self.memory[i] = self.memory[i+1]
 
-        rez = list (zip (num_l, val_l))
-        num_l = list (map(int, num_l))          # map() doesn't return a list, it returns a map object. You need to call list(map) if you want it to be a list again.
-        print (rez)
-
-        for n in range (len (num_l) -  1):
-            self.memory[n] = self.memory[n+1]
         self.pop()
-        return (self.memory)
+        return self.memory
 
 obj_1 = List()
 obj_1.memory = ['one', 'two', 'three']
