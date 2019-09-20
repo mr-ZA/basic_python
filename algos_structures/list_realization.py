@@ -69,6 +69,6 @@ obj_1.memory = ['one', 'two', 'three']
 
 #print(obj_1.pop())
 
-#obj_1.unshift('NEW_NEW')
+print (obj_1.unshift('NEW_NEW'))
 
-print (obj_1.shift())
+#print (obj_1.shift())
