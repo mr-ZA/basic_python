@@ -1,3 +1,10 @@
+"""
+Login via automate
+    required: selenium, webdriver_Chrome
+    website: https://github.com
+    author: D3coy
+"""
+
 import selenium
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
