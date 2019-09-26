@@ -5,6 +5,8 @@ import numpy
 from sklearn.externals import joblib
 from statistics import mode
 
+# -*- coding: utf-8 -*-
+
 # получение тестовой и проверка на ней
 def get_values(raw_image):
     mass = []   # массив для вырез букв
@@ -42,6 +44,7 @@ def get_values(raw_image):
     sorted (contours, key = cv2.contourArea, reverse = True)
 
     # для каждого контура из массива кроме контура листа[1:]
+    i = 0
     for c in contours[1:]:
 
         #выстраивание квадратов вокруг каждого (получение координат)
@@ -53,7 +56,9 @@ def get_values(raw_image):
         # возьми картинку контура и вырежи его из общей картинки (от координаты вверхней-левой и нижней правой - вектор)
         roi = tresh[y:y+h, x:x+w]
 
-        cv2.imshow ("tests", roi)
+        # показать название картинки
+        cv2.imshow (f"Тестовая {i}", roi)
+        i += 1
         key = cv2.waitKey()
 
         # enter
@@ -67,7 +72,7 @@ def get_values(raw_image):
     return  mass, coord
 
 
-# Обучение nearest
+# Обучение knearest
 def get_num_rects (chrims, s_list, r_list):
     knn = cv2.ml.KNearest_create()
 
@@ -85,7 +90,7 @@ def get_num_rects (chrims, s_list, r_list):
         ret, results, neighbours, dist = knn.findNearest(smpl, 3)
 
         print(chr(results))
-        return chr(results)     # возврат букв после обучения
+    return chr(results)     # возврат букв после обучения
 
 # Обучение на изображении
 def number_of_pages_determination (raw_image):
@@ -151,9 +156,10 @@ def number_of_pages_determination (raw_image):
         temp_s = numpy.empty((1, 150))  # для изображений
 
     # обучение выборкой
+    i = 0
     for m in mass:
-        cv2.imshow('', m)
-
+        cv2.imshow(f'Обучающая {i}', m)
+        i += 1
         key = cv2.waitKey()
         if key == 27:
             break
@@ -189,7 +195,8 @@ def main():
     s_list = joblib.load("letter.pkl")
 
     bukv = get_num_rects(test_imgs, s_list, r_list)        # передача эскизов всех букв (test_imgs), s_list (матрицы букв),
-    create_text(coordin, bukv)
+
+    # create_text(coordin, bukv)
 
 if __name__ == '__main__':
     main()
