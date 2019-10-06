@@ -1,17 +1,29 @@
-def sort(mass):
-    for m in range (1, len (mass)):
-        insertion_value = mass[m]   # value for insert in the beginning
-        j = m - 1       # link on previous element
 
-        # if previous elements from the beggining are larger
-        while j >= 0 and mass[j] > insertion_value:
-            mass[j + 1] = mass[j]       # [9, 9, 5, 22, 4], j= 0, insertion_value = mass[m]
+def findSmallest(arr):
+    smallest = arr[0]       # default - 4
+    smallest_index = 0      # default - arr[0]
 
-            j = j - 1
-        mass[j + 1] = insertion_value   # [1, 9, 5, 22, 4]
+    for i in range(1, len(arr)):
+        if arr[i] < smallest:
+            smallest = arr[i]
+            smallest_index = i
 
-    return mass
+    return smallest_index
+
+def selectionSort(arr):
+    newArr = []
+
+    # 0..4 < 5
+    for i in range(len(arr)):
+        smallest = findSmallest(arr)
+        newArr.append(arr.pop(smallest))        # pop delete element by index, and return it to append method.
+
+    return newArr
+
+def main ():
+    mass = [4, 1, 9, 24, 2]
+
+    print(selectionSort(mass))
 
 if __name__ == '__main__':
-
-    mass = [9, 1, 5, 22, 4]
+    main()
