@@ -12,7 +12,7 @@ def deque(elems):
     del (elems[len(elems) - 1])
 
     # print(elems)          #returns : ['ALICE', 'BOB', 'KATE']
-    return frst, elems
+    return poped, n_list
 
 def search_people(names):
     searched = []
@@ -31,7 +31,7 @@ def search_people(names):
             else:
                 search_queue = n_list       # just check, that del() from deque function deletes value globally
                 searched.append(person)
-                print(searched)
+                #print(searched)
 
 def main():
     graph = {}
