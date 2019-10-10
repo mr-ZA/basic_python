@@ -29,7 +29,7 @@ def new_mass(addr_beg, addr_end):									# [all st], [all endd]
       for k in range(res[0][0], res[0][1]+1):						# for .. in range ([5], [6])
           for L in range(res[1][0], res[1][1]+1):					# for .. in range ([1], [2])
               for m in range(res[2][0], res[2][1]+1):				# for .. in range ([20], [21])
-                  for n in range(res[3][0], res[3][1]+1):			# for .. in range ([0], [255])
+                  for n in range(res[3][0], res[3][1]+1):			# for .. in range ([0], [256])
                      print('.'.join(list(map(str,[k,L,m,n]))))		# print [5,1,2,0] -> int made to (str) with map() -> '5,1,2,0' -> join with separator[.] at the beginning
 
     else:															# [(31, 31), (43, 43), (128, 154), (0, 255)]
