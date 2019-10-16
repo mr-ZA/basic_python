@@ -1,35 +1,34 @@
-import selectors
-import socket
+import socket, threading
+class ClientThread(threading.Thread):
+    def __init__(self, clientAddress, clientsocket):
+        threading.Thread.__init__(self)
+        self.csocket = clientsocket
+        print ("New connection added: ", clientAddress)
 
-def accept_wrapper(sock):
-    conn, addr = sock.accept()
-    print ("Accept connection from: ", addr)
-    conn.setblocking (False)
-    data = types.SimpleNameSpace (addr = addr, inb = b'', out = b'')
-    events = selectors.EVENT_READ | selectors.EVENT_WRITE
-    sel.register (conn, events, data=data)
+    def run(self):
+        print ("Connection from : ", self.csocket)
+        #self.csocket.send(bytes("Hi, This is from Server..",'utf-8'))
+        msg = ''
+        while True:
+            data = self.csocket.recv(2048)
+            msg = data.decode()
+            if msg=='bye':
+                break
+            print ("from client", msg)
+            self.csocket.send(bytes(msg,'UTF-8'))
 
-def initialize():
-    sel = selectors.DefaultSelector()
-    host = "127.0.0.1"
-    port = 9999
+            print ("Client at ", self.csocket, " disconnected...")
+LOCALHOST = "127.0.0.1"
+PORT = 8080
+server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+server.bind((LOCALHOST, PORT))
 
-    lsock = socket.socket (socket.AF_INET, socket.SOCK_STREAM)  # initialize socket object
-    lsock.bind ((host, port))   # set it to concrete ip and port
-    lsock.listen()      # set to listen
-    print("listening on: ", (host,port))
-    lsock.setblocking (False)   # no blocking after connection, we can wait for events on one or more sockets and then read and write data when it’s ready.
-    sel.register(lsock, selectors.EVENT_READ, data=None)    # registers the socket to be monitored with sel.select(). For I/O events
+print("Server started")
+print("Waiting for client request..")
 
-    while True:
-        events = sel.select(timeout=None)   # blocks until there are sockets ready for I/O. Returns a list of (key, event)
-                                            # key - fileobj attribute (socket), mask - event mask of ready operations
-        for key, mask in events:
-                                            # if socket sends some data - so it's already accepted socket, so we call service_connection, if new - accept_wrapper
-            if key.data is None:
-                accept_wrapper(key.fileobj)
-            else:
-                service_connection(key, mask)
-
-if __name__ == '__main__':
-    initialize()
+while True:
+    server.listen(1)
+    clientsock, clientAddress = server.accept()
+    newthread = ClientThread(clientAddress, clientsock)
+    newthread.start()
