@@ -5,15 +5,15 @@ password = ""
 ip = ""
 new_list = []
 
-engine = db.create_engine(f'postgresql://{username}:{password}@{ip}/')
+engine = db.create_engine(f'postgresql://{username}:{password}@{ip}/')      # after [/] may be a databasse to get in automatically
 connection = engine.connect()                       # conneect with creds
 if connection:print('[INFO] Successfully connected')
 metadata = db.MetaData()                            # get poles, cells, etc...
 
-#queries = ["SELECT datname FROM pg_database;"]      # query RAW
+#query = ["SELECT datname FROM pg_database;"]      # query RAW
 table_init = db.Table("pg_database", metadata, autoload=True, autoload_with=engine)
-queries = db.select([db.text("datname"), table_init])   # select [what] from [where] like in RAW
-qw = connection.execute(queries)
+query = db.select([db.text("datname"), table_init])   # select [what] from [where] like in RAW
+qw = connection.execute(query)
 
 q_dcit = qw.fetchall()      # receive data from query
 print("{}{}".format("Default stdout from db >> ", q_dcit))
