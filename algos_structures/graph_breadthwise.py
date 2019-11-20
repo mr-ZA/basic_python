@@ -12,7 +12,7 @@ def deque(elems):
     del (elems[len(elems) - 1])
 
     # print(elems)          #returns : ['ALICE', 'BOB', 'KATE']
-    return poped, n_list
+    return frst, elems
 
 def search_people(names):
     searched = []
