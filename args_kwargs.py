@@ -8,10 +8,11 @@ def myFunc_args (*args):
 
 def myFunc_kwargs (**kwargs):
     if not kwargs:
-        print (("Функция <{}()>, {}: {}\n").format("myFunc_kwargs", "принимает словарь", kwargs))
+        print (("В функцию <{}()>, {}\n").format("myFunc_kwargs", "не переданы аргументы"))
     else:
+        print (("Функция <{}()>, {}: {}\n").format("myFunc_kwargs", "принимает словарь", kwargs))
         for k, v in kwargs.items():
-            print (k, v)
+            print (k + ",", v)
 
         print("\n")
         print ("{} {}".format("Первый элемент словаря: ", kwargs['kw_1']))
