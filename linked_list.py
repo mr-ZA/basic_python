@@ -1,11 +1,12 @@
 class Node:
     def __init__(self, current = None, next = None):
 
-        # Defining Node type properties
+        # Defining Node type properties for all nodes in intialize of every node (node -> node.current + node.next)
         self.current = current
         self.next = next
 
     def __str__(self):
+        # Making node.current = type String
         return str(self.current)
 
 # Вывод элементов связного списка по ссылкам от первого элемента
@@ -75,7 +76,7 @@ print("Remove second element from the list of nodes: ")
 
 remove_second(node1)
 
-# Translate Node undefined type to concrete text
+# Translate Node undefined type to concrete <str> thx to __str__
 node1.next = node2.current
 node2.next = node3.current
 
