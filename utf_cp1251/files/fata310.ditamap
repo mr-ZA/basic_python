@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Аннотации</title>
+<topicref navtitle="Аннотации"> 
+<topicref  href="fata310_apontamentos.dita"> 
+</topicref>
+<topicref  href="fata310_adl.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata310_tabelas.dita"> 
+</topicref>
+<topicref  href="fata310_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Экспорт бухгалтерских транзакций в формат TXT</title>
+<topicref navtitle="Экспорт бухгалтерских транзакций в формат TXT"> 
+<topicref  href="ctba420_exp_txt_mov_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba420_configuracao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba420_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba420_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Многопоточные кубы</title>
+<topicref navtitle="Многопоточные кубы"> 
+<topicref  href="pcoa301_cubos_multi_thread.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa301_tabelas.dita"> 
+</topicref>
+<topicref  href="pcoa301_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

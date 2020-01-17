@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Производственный отчет</title>
+<topicref navtitle="Производственный отчет"> 
+<topicref  href="sfca310_apontamento_producao.dita"> 
+</topicref>
+<topicref  href="sfca310_regras_negocio.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="sfca310_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

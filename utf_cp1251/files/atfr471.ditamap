@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Отчет о стоимости кредита</title>
+<topicref navtitle="Отчет о стоимости кредита"> 
+<topicref  href="atfr471_dem_custo_emprestimo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfr471_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

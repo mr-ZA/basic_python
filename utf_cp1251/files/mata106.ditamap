@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Создание предварительного запроса</title>
+<topicref navtitle="Создание предварительного запроса"> 
+<topicref  href="mata106_gera_pre_requisicao.dita"> 
+</topicref>
+<topicref  href="mata106_acompanhamento_de_compras.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata106_parametros.dita"> 
+</topicref>
+<topicref  href="mata106_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

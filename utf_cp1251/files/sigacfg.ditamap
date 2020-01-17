@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="ru">
+    <booktitle>
+        <mainbooktitle><ph conref="shared_content/r_modules_list.dita#r_modules_list/SIGACFG"/></mainbooktitle>
+        
+        
+    </booktitle>
+   
+    <frontmatter>
+        <keydef keys="module_name">
+            <!--Вид документа-->
+            <topicmeta>
+                <keywords>
+                    <keyword>Конфигуратор</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <notices><!-- placeholder --></notices>
+        <booklists>
+            <toc/>
+        </booklists>
+        <preface><!-- placeholder --></preface>
+</frontmatter>
+    
+<chapter navtitle="О модуле" href="modules/sigacfg/sigacfg.dita"/>
+    <chapter  href="modules/sigacfg/sigacfg_roteiro_de_operacao.dita"/> 
+
+    <chapter  href="modules/sigacfg/sigacfg_tabelas_do_dicionario.dita"/> 
+
+    <chapter  href="modules/sigacfg/sigacfg_int_by_you_ecm.dita"/> 
+
+    <chapter  href="modules/sigacfg/sigacfg_acessos_x_rotinas.dita"/> 
+
+    <chapter  href="modules/sigacfg/sigacfg_embedded_audit_trail.dita"/> 
+
+    <chapter  href="modules/sigacfg/sigacfg_parametros.dita"/> 
+
+    
+  
+    <chapter navtitle="Функции"> 
+        <mapref href="./eai.ditamap" format="ditamap"/>
+    </chapter>
+    
+    
+    <chapter navtitle="Настройки"> 
+<topicref navtitle="Модуль"> 
+<mapref href="./cfgx012.ditamap" format="ditamap"/>
+<mapref href="./cfgx013.ditamap" format="ditamap"/>
+<mapref href="./cfgx016.ditamap" format="ditamap"/>
+<mapref href="./cfgx017.ditamap" format="ditamap"/>
+<mapref href="./cfgx019.ditamap" format="ditamap"/>
+<mapref href="./cfgx048.ditamap" format="ditamap"/>
+<mapref href="./profmgr.ditamap" format="ditamap"/>
+<mapref href="./tmkxmid.ditamap" format="ditamap"/>
+<mapref href="./cfgx503b.ditamap" format="ditamap"/>
+<mapref href="./cfga030.ditamap" format="ditamap"/>
+<mapref href="./cfga040.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Mile"> 
+<mapref href="./cfga600.ditamap" format="ditamap"/>
+<mapref href="./cfga650.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Рабочий процесс"> 
+<mapref href="./wfc003.ditamap" format="ditamap"/>
+<mapref href="./wfa000.ditamap" format="ditamap"/>
+<mapref href="./wfc008.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="График"> 
+<mapref href="./cfga010.ditamap" format="ditamap"/>
+   
+<mapref href="./cfga020.ditamap" format="ditamap"/>
+<mapref href="./apcfg020a.ditamap" format="ditamap"/>
+    
+</topicref>
+<topicref navtitle="Эл. почта/прокси"> 
+<mapref href="./cfgsetmail.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Собственный индикатор"> 
+<mapref href="./dwwizard.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="TOTVS ECM"> 
+<mapref href="./cfgxwf.ditamap" format="ditamap"/>
+<mapref href="./cfgxged.ditamap" format="ditamap"/>
+<mapref href="./cfga110.ditamap" format="ditamap"/>
+<mapref href="./cfga115.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Параметризация"> 
+<mapref href="./msambiente.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Компании"> 
+<mapref href="./cfgx032.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Экстрактор BI"> 
+<mapref href="./cfgbixc8.ditamap" format="ditamap"/>
+<mapref href="./cfgsetctag.ditamap" format="ditamap"/>
+<mapref href="./bixagentcfg.ditamap" format="ditamap"/>
+<mapref href="./bixquerycfg.ditamap" format="ditamap"/>
+<mapref href="./bixunifier.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Встроенный журнал аудита"> 
+<mapref href="./cfga700.ditamap" format="ditamap"/>
+<mapref href="./cfga710.ditamap" format="ditamap"/>
+<mapref href="./cfgr700.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Пользователи"> 
+    <topicref navtitle="Пароли"> 
+    <mapref href="./cfga500.ditamap" format="ditamap"/>
+    <mapref href="./cfga510.ditamap" format="ditamap"/>
+    <mapref href="./cfga520.ditamap" format="ditamap"/>
+    <mapref href="./cfga530.ditamap" format="ditamap"/>
+    <mapref href="./cfga540.ditamap" format="ditamap"/>
+    </topicref>
+    <topicref navtitle="Рабочая роль"> 
+    <mapref href="./cfga550.ditamap" format="ditamap"/>
+    <mapref href="./cfga560.ditamap" format="ditamap"/>
+    </topicref>
+    <topicref navtitle="Аудит"> 
+    <mapref href="./cfgx025.ditamap" format="ditamap"/>
+    <mapref href="./cfgx052.ditamap" format="ditamap"/>
+    <mapref href="./cfgx053.ditamap" format="ditamap"/>
+    </topicref>
+</chapter>
+    <chapter navtitle="База данных"> 
+<topicref navtitle="Словарь"> 
+<mapref href="./cfgx034.ditamap" format="ditamap"/>
+<mapref href="./cfgx031.ditamap" format="ditamap"/>
+<mapref href="./cfgx037.ditamap" format="ditamap"/>
+<mapref href="./cfgx051.ditamap" format="ditamap"/>
+<mapref href="./hlpmanange.ditamap" format="ditamap"/>
+<mapref href="./cfgscript.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Целостность"> 
+<mapref href="./apcfg60a.ditamap" format="ditamap"/>
+<mapref href="./apcfg60.ditamap" format="ditamap"/>
+<mapref href="./apcfg60d.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Управление модулями"> 
+<topicref  href="modules/sigacfg/sigacfg_gestao_ambientes.dita"> 
+</topicref>
+<topicref  href="modules/sigacfg/sigacfg_aplicacao_pacote_atual.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Аудит"> 
+<mapref href="./apcfgr10.ditamap" format="ditamap"/>
+<mapref href="./apcfgr20.ditamap" format="ditamap"/>
+<mapref href="./apcfgr30.ditamap" format="ditamap"/>
+<mapref href="./apcfgr40.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+    <chapter navtitle="Прочее"> 
+<topicref navtitle="Файлы"> 
+<mapref href="./cfgx047.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Поиск Protheus"> 
+<mapref href="./protheussearch.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+
+</bookmap>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Снятие блокировки запроса на склад</title>
+<topicref navtitle="Снятие блокировки запроса на склад"> 
+<topicref  href="mata107_liberacao_sa.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata107_tabelas.dita"> 
+</topicref>
+<topicref  href="mata107_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

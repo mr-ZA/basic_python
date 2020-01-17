@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Расчет дохода</title>
+<topicref navtitle="Расчет дохода"> 
+<topicref  href="ctba211_apuracao_de_resultados.dita"> 
+</topicref>
+<topicref  href="ctba211_conceitos.dita"> 
+</topicref>
+<topicref  href="ctba211_considera_entidades.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba211_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba211_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

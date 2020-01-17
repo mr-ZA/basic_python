@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Исключение в календаре</title>
+<topicref navtitle="Исключение в календаре"> 
+<topicref  href="mata640_excecoes_ao_calendario.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata640_parametros_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

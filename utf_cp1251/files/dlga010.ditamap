@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Грузовые единицы</title>
+<topicref navtitle="Грузовые единицы"> 
+<topicref  href="dlga010_unitizadores.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlga010_Tables.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

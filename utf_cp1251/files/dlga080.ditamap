@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Задачи x действия</title>
+<topicref navtitle="Задачи x действия"> 
+<topicref  href="dlga080_tarefas_x_atividades.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlga080_parametros.dita"> 
+</topicref>
+<topicref  href="dlga080_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

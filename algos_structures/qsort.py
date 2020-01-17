@@ -1,3 +1,5 @@
+import timeit
+
 def sort(array):
     less = []
     equal = []
@@ -18,8 +20,11 @@ def sort(array):
     else:
         return array
 
-array = [12, 4, 5, 6, 7, 3, 1, 15]
-print (sort(array))
+def start():
+    array = [12, 4, 5, 6, 7, 3, 1, 15]
+    print (sort(array))
+
+print(timeit.timeit("start()", setup="from __main__ import start", number=1))
 
                                 # [ [4, 5, 6, 7, 3, 1], [12], [15] ]
 # less                                                                      # greater

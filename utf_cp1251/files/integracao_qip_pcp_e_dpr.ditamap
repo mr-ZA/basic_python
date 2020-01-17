@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Интеграция QIP - PCP и DPR</title>
+<topicref navtitle="Интеграция QIP - PCP и DPR"> 
+<topicref  href="integracao_qip_pcp_dpr_introducao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="integracao_qip_pcp_dpr_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

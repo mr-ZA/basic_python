@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Производство ПКП - шаблон 2</title>
+<topicref navtitle="Производство ПКП - шаблон 2"> 
+<topicref  href="mata681_producao_pcp_modelo_2.dita"> 
+</topicref>
+<topicref  href="mata681_estornar_producao_pcp_mod2.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata681_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

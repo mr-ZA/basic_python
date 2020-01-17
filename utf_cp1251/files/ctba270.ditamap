@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Офлайн-распределение</title>
+<topicref navtitle="Офлайн-распределение"> 
+<topicref  href="ctba270_rateio_off-line.dita"> 
+</topicref>
+<topicref  href="ctba270_area_cabecalho.dita"> 
+</topicref>
+<topicref  href="ctba270_area_origem.dita"> 
+</topicref>
+<topicref  href="ctba270_area_partida.dita"> 
+</topicref>
+<topicref  href="ctba270_area_contra_partida.dita"> 
+</topicref>
+<topicref  href="ctba270_area_rodape.dita"> 
+</topicref>
+<topicref  href="ctba278_facilitadores_do_cadastro.dita"> 
+</topicref>
+<topicref  href="ctba270_como_e_feito_o_lancamento.dita"> 
+</topicref>
+<topicref  href="ctba270_validacao_de_entidades.dita"> 
+</topicref>
+<topicref navtitle="Понятия"> 
+<topicref  href="ctba270_conceitos.dita"> 
+</topicref>
+<topicref  href="ctba270_metodos_de_rateio.dita"> 
+</topicref>
+<topicref  href="ctba270_centro_de_custo.dita"> 
+</topicref>
+<topicref  href="ctba270_custo_departamental.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Другие действия"> 
+<topicref  href="ctba120_importar.dita"> 
+</topicref>
+<topicref  href="ctba120_log_proc.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba270_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

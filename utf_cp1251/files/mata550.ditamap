@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Сетки продуктов</title>
+<topicref navtitle="Сетки продуктов"> 
+<topicref  href="mata550_grades_de_produtos.dita"> 
+</topicref>
+<topicref  href="mata550_para_utilizar_grades_de_produtos.dita"> 
+</topicref>
+<topicref  href="mata550_botao_pesquisar.dita"> 
+</topicref>
+<topicref  href="mata550_botao_curvas_de_caracteristicas.dita"> 
+</topicref>
+<topicref  href="mata550_uso_de_grade_de_produtos_em_conjunto_com_curva_de_caract.dita"> 
+</topicref>
+<topicref  href="mata550_uso_de_grade_na_ordem_de_producao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata550_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Договоры</title>
+<topicref navtitle="Договоры"> 
+<topicref  href="cnta300_contratos.dita"> 
+</topicref>
+<topicref  href="cnta300_revisoes.dita"> 
+</topicref>
+<topicref navtitle="Ведомости"> 
+<topicref  href="cnta300_planilha_recorrente.dita"> 
+</topicref>
+<topicref  href="cnta300_Planilha_Semifixa.dita"> 
+</topicref>
+</topicref>
+<topicref  href="cnta300_entidades_contabeis.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta300_parametros.dita"> 
+</topicref>
+<topicref  href="cnta300_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

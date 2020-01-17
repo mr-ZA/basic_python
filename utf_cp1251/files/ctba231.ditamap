@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Настроенная консолидация</title>
+<topicref navtitle="Настроенная консолидация"> 
+<topicref  href="ctba231_consolidacao_configurada.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba231_parametros_utilizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

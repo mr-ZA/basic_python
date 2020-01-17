@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Код клиента x код логистического оператора</title>
+<topicref navtitle="Код клиента x код логистического оператора"> 
+<topicref  href="dlga270_int.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlga270_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="dlga270_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

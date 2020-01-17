@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Счета-фактуры х внутренние операции</title>
+<topicref navtitle="Счета-фактуры х внутренние операции"> 
+<topicref  href="matr324_notas_fiscais_x_mov_interno.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="matr324_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

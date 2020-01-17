@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Создание уведомления о доставке</title>
+<topicref navtitle="Создание уведомления о доставке"> 
+<topicref  href="mata462an_int.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata462an_tabelas.dita"> 
+</topicref>
+<topicref  href="mata462an_lancamentos_padronizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в содержание)"> 
+<topicref  href="mata462an_pedidos_de_venda.dita"> 
+</topicref>
+</topicref>
+</map>

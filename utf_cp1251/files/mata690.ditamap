@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Загрузка оборудования</title>
+<topicref navtitle="Загрузка оборудования"> 
+<topicref  href="mata690_carga_maquina.dita"> 
+</topicref>
+<topicref  href="mata690_criacao_ord_prod_visando_carga_maq.dita"> 
+</topicref>
+<topicref  href="mata690_como_carga_maq_entende_ordens_prod.dita"> 
+</topicref>
+<topicref  href="mata690_como_o_sistema_calcula_o_crp.dita"> 
+</topicref>
+<topicref  href="mata690_integra_chao_fabrica.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata690_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata690_pelo_fim.dita"> 
+</topicref>
+<topicref  href="mata690_pelo_inicio.dita"> 
+</topicref>
+</topicref>
+</map>

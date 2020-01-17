@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Дополнительные средства</title>
+<topicref navtitle="Дополнительные средства"> 
+<topicref  href="mata256_opcionais.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata256_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

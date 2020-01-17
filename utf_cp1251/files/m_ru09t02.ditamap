@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/RU09T02"/></title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/RU09T02"/></navtitle>   
+        </topicmeta>
+        <topicref href="transactions/ru09t02/c_ru09t02.dita">
+        <topicref href="transactions/ru09t02/t_ru09t02_1.dita"/>
+        <topicref href="transactions/ru09t02/t_ru09t02_2.dita"/>
+        <topicref href="transactions/ru09t02/t_ru09t02_several_invoices.dita"/>
+            <topicref href="transactions/ru09t02/t_ru09t02_ru09t03_by_hand.dita"/>
+        <topicref href="transactions/ru09t02/t_ru09t02_invoice_number.dita"/>
+        <topicref href="transactions/ru09t02/t_ru09t02_print_form.dita"/>
+            <topicref navtitle="Технические данные">
+                <topicref href="transactions/ru09t02/r_ru09t02_tables.dita"/>
+                <topicref href="transactions/ru09t02/r_ru09t02_parameters.dita"/>
+            </topicref>        
+    </topicref>
+    </topicref>
+    </map>

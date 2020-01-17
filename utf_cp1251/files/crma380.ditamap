@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>База знаний</title>
+<topicref navtitle="База знаний"> 
+<topicref  href="crma380_banco_de_conhecimento.dita"> 
+</topicref>
+<topicref  href="crma380_incluindo_banco_de_conhecimento.dita"> 
+</topicref>
+<topicref  href="crma380_vinculando_conhecimentos.dita"> 
+</topicref>
+<topicref  href="crma380_controle_de_acesso.dita"> 
+</topicref>
+<topicref navtitle="Опции"> 
+<topicref  href="crma380_pesquisa.dita"> 
+</topicref>
+<topicref  href="crma380_atualiza.dita"> 
+</topicref>
+<topicref  href="crma380_salvar_como.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Модули человеческих ресурсов"> 
+<topicref  href="crma380_ambientes_rh.dita"> 
+</topicref>
+<topicref  href="crma380_conhecimento.dita"> 
+</topicref>
+<topicref  href="crma380_botao_preview.dita"> 
+</topicref>
+<topicref  href="crma380_botao_abrir.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma380_botao_tamanho.dita"> 
+</topicref>
+<topicref  href="crma380_botao_conhecimento.dita"> 
+</topicref>
+<topicref  href="crma380_botao_wizard.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma380_tabelas.dita"> 
+</topicref>
+<topicref  href="crma380_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="fata340_codigo_objeto.dita"> 
+</topicref>
+<topicref  href="fata340_descricao.dita"> 
+</topicref>
+<topicref  href="fata340_objeto.dita"> 
+</topicref>
+<topicref  href="fata340_palavra_chave.dita"> 
+</topicref>
+<topicref  href="fata340_principais_campos_controles.dita"> 
+</topicref>
+<topicref  href="fata340_tamanho.dita"> 
+</topicref>
+</topicref>
+</map>

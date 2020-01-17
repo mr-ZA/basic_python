@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Журнал обработки</title>
+<topicref navtitle="Журнал обработки"> 
+<topicref  href="master_data/cfga650/cfga650_log_processamento.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="master_data/cfga650/cfga650_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

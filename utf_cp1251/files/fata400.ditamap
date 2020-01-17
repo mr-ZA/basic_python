@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Партнерство</title>
+<topicref  href="fata400_contrato_de_parceria.dita"> 
+<topicref  href="fata400_contrato_de_parceria.dita"> 
+</topicref>
+<topicref  href="fata400_opcao_aprovar.dita"> 
+</topicref>
+<topicref  href="fata400_opcao_remessa.dita"> 
+</topicref>
+<topicref  href="fata400_opcao_encerrar.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata400_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="fata400_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

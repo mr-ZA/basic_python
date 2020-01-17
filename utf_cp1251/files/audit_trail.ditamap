@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Журнал аудита</title>
+<topicref navtitle="Журнал аудита"> 
+<topicref  href="audittrail_int.dita"> 
+</topicref>
+<topicref  href="audittrail_fluxo_operacional.dita"> 
+</topicref>
+<topicref  href="audittrail_procedimentos.dita"> 
+</topicref>
+</topicref>
+</map>

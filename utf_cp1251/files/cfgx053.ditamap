@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос к журналу</title>
+<topicref navtitle="Запрос к журналу"> 
+<topicref  href="libraries/cfgx053/cfgx053_consulta_log.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx053/cfgx053_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

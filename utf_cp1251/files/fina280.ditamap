@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Счета-фактуры к получению</title>
+<topicref navtitle="Счета-фактуры к получению"> 
+<topicref  href="fina280_faturas_a_receber.dita"> 
+</topicref>
+<topicref  href="fina280_cancelamento_de_faturas_a_receber.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/Средства контроля"> 
+<topicref  href="fina280_valor.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fina280_tabelas.dita"> 
+</topicref>
+<topicref  href="fina280_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</topicref>
+</map>

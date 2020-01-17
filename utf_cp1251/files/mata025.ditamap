@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Приоритет адресации</title>
+<topicref navtitle="Приоритет адресации"> 
+<topicref  href="mata025_prioridade_de_enderecamento.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata025_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

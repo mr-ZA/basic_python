@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Мастер настройки</title>
+<topicref navtitle="Мастер настройки"> 
+<topicref  href="modules/sigacfg/dwwizard_wizarddeconfig.dita"> 
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Уведомление о возврате продуктов</title>
+<topicref navtitle="Уведомление о возврате продуктов"> 
+<topicref  href="mata462dn_int.dita"> 
+</topicref>
+<topicref  href="mata462dn_documento_original.dita"> 
+</topicref>
+<topicref  href="mata462dn_consultando_lotes_de_produtos.dita"> 
+</topicref>
+<topicref  href="mata462dn_notas_do_rodape.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata462dn_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata462dn_tabelas.dita"> 
+</topicref>
+<topicref  href="mata462dn_lancamentos_padronizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в содержание)"> 
+<topicref  href="mata462dn_rateio.dita"> 
+</topicref>
+</topicref>
+</map>

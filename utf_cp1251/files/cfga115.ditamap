@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Генератор процессов Fluig</title>
+<topicref navtitle="Генератор процессов Fluig"> 
+<topicref  href="master_data/cfga115/cfga115_gerador_de_processos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga115/cfga115_acoes_relacionadas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="master_data/cfga115/cfga115_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>РЧ-монитор</title>
+<topicref navtitle="РЧ-монитор"> 
+<topicref  href="cbmonfr_monitor_rf.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cbmonfr_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

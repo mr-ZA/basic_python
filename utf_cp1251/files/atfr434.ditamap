@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Отчет о выполнении проекта</title>
+<topicref navtitle="Отчет о выполнении проекта"> 
+<topicref  href="atfr434_dem_realiz_projetos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfr434_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

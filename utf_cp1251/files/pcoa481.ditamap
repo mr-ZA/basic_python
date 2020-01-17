@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Доход/затраты</title>
+<topicref navtitle="Доход/затраты"> 
+<topicref  href="pcoa481_receita_custo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa481_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

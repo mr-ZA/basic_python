@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Предложение оценки</title>
+<topicref navtitle="Предложение оценки"> 
+<topicref  href="matr025_int.dita"> 
+</topicref>
+<topicref  href="matr025_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Непротиворечивые ссылки</title>
+<topicref navtitle="Непротиворечивые ссылки"> 
+<topicref  href="master_data/apcfg60a/apcfg60a_integridade.dita"> 
+</topicref>
+<topicref  href="master_data/apcfg60a/apcfg60a_esquema.dita"> 
+</topicref>
+<topicref navtitle="Проверка"> 
+<topicref  href="master_data/apcfg60a/apcfg60a_verificacao.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="master_data/apcfg60a/apcfg60a_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Пользователи CRM</title>
+<topicref navtitle="Пользователи CRM"> 
+<topicref  href="crma210_usuarios_do_crm.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma210_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

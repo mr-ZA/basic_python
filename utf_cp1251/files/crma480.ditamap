@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Планы продаж</title>
+<topicref navtitle="Планы продаж"> 
+<topicref  href="crma480_metas_de_venda.dita"> 
+</topicref>
+<topicref  href="crma480_consultando_metas_de_vendas.dita"> 
+</topicref>
+<topicref  href="crma480_copiando_metas_de_vendas.dita"> 
+</topicref>
+<topicref  href="crma480_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma480_controle_de_acesso.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma480_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

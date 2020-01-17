@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Распределение затрат</title>
+<topicref navtitle="Распределение затрат"> 
+<topicref  href="atfa011_rateio_de_despesas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa011_tabelas.dita"> 
+</topicref>
+<topicref  href="atfa011_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

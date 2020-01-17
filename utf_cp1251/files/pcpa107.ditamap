@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>ППМ</title>
+<topicref navtitle="ППМ"> 
+<topicref  href="pcpa107_mrp.dita"> 
+</topicref>
+<topicref  href="pcpa107_calculo_do_mrp.dita"> 
+</topicref>
+<topicref  href="pcpa107_acoes_relacionadas.dita"> 
+</topicref>
+<topicref  href="pcpa107_principais_campos_controles.dita"> 
+<topicref  href="pcpa107_peridiodicidade_mrp.dita"> 
+</topicref>
+<topicref  href="pcpa107_quantidade_periodos.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_pedidos_carteira.dita"> 
+</topicref>
+<topicref  href="pcpa107_log_eventos_mrp.dita"> 
+</topicref>
+<topicref  href="pcpa107_inverter_selecao.dita"> 
+</topicref>
+<topicref  href="pcpa107_tipos_material.dita"> 
+</topicref>
+<topicref  href="pcpa107_grupos_material.dita"> 
+</topicref>
+<topicref navtitle="Параметры"> 
+<topicref  href="pcpa107_processamento_mrp.dita"> 
+</topicref>
+<topicref  href="pcpa107_geracao_scs.dita"> 
+</topicref>
+<topicref  href="pcpa107_geracao_ops_prod_interme.dita"> 
+</topicref>
+<topicref  href="pcpa107_selecao_geracao_ops_scs.dita"> 
+</topicref>
+<topicref  href="pcpa107_data_inicial_pmp_prev_ven.dita"> 
+</topicref>
+<topicref  href="pcpa107_incrementa_numeracao_ops.dita"> 
+</topicref>
+<topicref  href="pcpa107_de_ate_armazem.dita"> 
+</topicref>
+<topicref  href="pcpa107_tipo_ops_scs_geracao.dita"> 
+</topicref>
+<topicref  href="pcpa107_apaga_ops_scs_previstas.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_sabados_domingos.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_ops_suspensas.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_ops_sacramentadas.dita"> 
+</topicref>
+<topicref  href="pcpa107_recal_niveis_estruturas.dita"> 
+</topicref>
+<topicref  href="pcpa107_gera_ops_aglutinadas.dita"> 
+</topicref>
+<topicref  href="pcpa107_pedidos_venda_colocados.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_saldo_estoque.dita"> 
+</topicref>
+<topicref  href="pcpa107_atingir_estoque_maximo.dita"> 
+</topicref>
+<topicref  href="pcpa107_qtd_nossa_poder_terc.dita"> 
+</topicref>
+<topicref  href="pcpa107_qtd_terc_nosso_poder.dita"> 
+</topicref>
+<topicref  href="pcpa107_saldo_rejeitado_cq.dita"> 
+</topicref>
+<topicref  href="pcpa107_de_documento_pv_pmp.dita"> 
+</topicref>
+<topicref  href="pcpa107_saldo_bloqueado_lote.dita"> 
+</topicref>
+<topicref  href="pcpa107_considera_est_seguranca.dita"> 
+</topicref>
+<topicref  href="pcpa107_ped_venda_bloq_credito.dita"> 
+</topicref>
+<topicref  href="pcpa107_mostra_dados_resumidos.dita"> 
+</topicref>
+<topicref  href="pcpa107_detalha_lotes_vencidos.dita"> 
+</topicref>
+<topicref  href="pcpa107_pedidos_venda_faturados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcpa107_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

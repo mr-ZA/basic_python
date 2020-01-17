@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Реестр плана счетов</title>
+<topicref navtitle="Реестр плана счетов"> 
+<topicref  href="ctba020_plano_de_contas.dita"> 
+</topicref>
+<topicref  href="ctba020_conceitos_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba020_cadastro_plano_de_contas.dita"> 
+</topicref>
+<topicref  href="ctba020_integracao_cadasto_plano_contas.dita"> 
+</topicref>
+<topicref  href="ctba020_visiones_de_gestion.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="ctba020_opcao_exportar.dita"> 
+</topicref>
+<topicref  href="ctba020_opcao_importar.dita"> 
+</topicref>
+<topicref  href="ctba020_controles_contabeis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba020_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="ctba020_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Ссылочный план счетов"> 
+<topicref  href="ctba020_plano_contas_referencial.dita"> 
+</topicref>
+<topicref  href="ctba020_principais_campos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba020_tabelas_2.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Глоссарий"> 
+<topicref  href="ctba020_ativo.dita"> 
+</topicref>
+<topicref  href="ctba020_ativo_circulante.dita"> 
+</topicref>
+<topicref  href="ctba020_ativo_permanente.dita"> 
+</topicref>
+<topicref  href="ctba020_ativo_realizavel_a_longo_prazo.dita"> 
+</topicref>
+<topicref  href="ctba020_bens.dita"> 
+</topicref>
+<topicref  href="ctba020_cadastro_em_arvore.dita"> 
+</topicref>
+<topicref  href="ctba020_conta_contabil.dita"> 
+</topicref>
+<topicref  href="ctba020_despesas.dita"> 
+</topicref>
+<topicref  href="ctba020_direitos.dita"> 
+</topicref>
+<topicref  href="ctba020_obrigacoes.dita"> 
+</topicref>
+<topicref  href="ctba020_passivo.dita"> 
+</topicref>
+<topicref  href="ctba020_passivo_circulante.dita"> 
+</topicref>
+<topicref  href="ctba020_passivo_exigivel_a_longo_prazo.dita"> 
+</topicref>
+<topicref  href="ctba020_patrimonio_liquido.dita"> 
+</topicref>
+<topicref  href="ctba020_receitas.dita"> 
+</topicref>
+<topicref  href="ctba020_resultado_exercicios_futuros.dita"> 
+</topicref>
+</topicref>
+</map>

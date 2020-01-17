@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос партий с истекшим сроком годности</title>
+<topicref navtitle="Запрос партий с истекшим сроком годности"> 
+<topicref  href="wmsc020_cons_lotes_vencidos.dita"> 
+</topicref>
+<topicref  href="wmsc020_acoes_relacionadas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="wmsc020_dados_tecnicos.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

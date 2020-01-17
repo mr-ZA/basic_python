@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Обслуживание партий</title>
+<topicref navtitle="Обслуживание партий"> 
+<topicref  href="mata390_manutencao_de_lotes.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata390_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata390_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

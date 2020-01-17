@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Монитор производства</title>
+<topicref navtitle="Монитор производства"> 
+<topicref  href="acda080_monitor_da_producao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="acda080_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

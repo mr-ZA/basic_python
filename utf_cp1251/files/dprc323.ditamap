@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Сравнение продукта конкурента</title>
+<topicref navtitle="Сравнение продукта конкурента"> 
+<topicref  href="dprc323_comparar_produto_concorrente.dita"> 
+</topicref>
+<topicref  href="dprc323_principais_campos_controles.dita"> 
+<topicref  href="dprc323_produto_desenvolvido.dita"> 
+</topicref>
+<topicref  href="dprc323_versao.dita"> 
+</topicref>
+<topicref  href="dprc323_data_inicial.dita"> 
+</topicref>
+<topicref  href="dprc323_data_corte.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dprc323_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

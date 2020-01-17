@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Каталог индивидуализации</title>
+<topicref navtitle="Каталог индивидуализации"> 
+<topicref  href="master_data/cfga030/cfga030_int.dita"> 
+</topicref>
+<topicref  href="master_data/cfga030/cfga030_requisitos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga030/cfga030_procedimentos.dita"> 
+</topicref>
+</topicref>
+</map>

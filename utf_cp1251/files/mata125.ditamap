@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Партнерский договор</title>
+<topicref navtitle="Партнерский договор"> 
+<topicref  href="mata125_contrato_parceria.dita"> 
+</topicref>
+<topicref  href="mata125_opcao_legenda.dita"> 
+</topicref>
+<topicref  href="mata125_gerenciamento_projetos.dita"> 
+</topicref>
+<topicref  href="mata125_grade.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata125_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata125_cabecalho.dita"> 
+</topicref>
+<topicref  href="mata125_itens.dita"> 
+</topicref>
+<topicref  href="mata125_rodape.dita"> 
+</topicref>
+</topicref>
+</map>

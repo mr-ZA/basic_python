@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Регистрация финансового индекса.</title>
+<topicref navtitle="Регистрация финансового индекса."> 
+<topicref  href="cnta070_cadastro_indices_economicos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta070_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Учетные единицы</title>
+<topicref navtitle="Учетные единицы"> 
+<topicref  href="ctba050_entidades_cont.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba050_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

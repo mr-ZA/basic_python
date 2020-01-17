@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Показатель продукта</title>
+<topicref navtitle="Показатель продукта"> 
+<topicref  href="mata018_indicadores_de_produtos.dita"> 
+</topicref>
+<topicref  href="mata018_principais_campos_controles.dita"> 
+</topicref>
+<topicref  href="mata018_exemplo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata018_parametros.dita"> 
+</topicref>
+<topicref  href="mata018_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Пользователи х Категория заказов на продажу</title>
+<topicref navtitle="Пользователи х Категория заказов на продажу"> 
+<topicref  href="mata481_usuarios_categoria_pedidos_vendas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata481_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

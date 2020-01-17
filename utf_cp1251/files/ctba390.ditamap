@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Бюджеты</title>
+<topicref navtitle="Бюджеты"> 
+<topicref  href="ctba390_orcamentos.dita"> 
+</topicref>
+<topicref navtitle="Области"> 
+<topicref  href="ctba390_area_cabecalho.dita"> 
+</topicref>
+<topicref  href="ctba390_entidades_orcadas.dita"> 
+</topicref>
+<topicref  href="ctba390_periodo_revisao.dita"> 
+</topicref>
+<topicref  href="ctba390_periodo.dita"> 
+</topicref>
+<topicref  href="ctba390_rodape.dita"> 
+</topicref>
+<topicref  href="ctba390_valores_orcados.dita"> 
+</topicref>
+</topicref>
+<topicref  href="ctba390_botao_multiplica_por.dita"> 
+</topicref>
+<topicref  href="ctba390_gerando_saldos.dita"> 
+</topicref>
+<topicref  href="ctba390_revisando_um_orcamento.dita"> 
+</topicref>
+<topicref  href="ctba390_opcao_copiar.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba390_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

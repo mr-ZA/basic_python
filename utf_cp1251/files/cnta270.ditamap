@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>График учета</title>
+<topicref navtitle="График учета"> 
+<topicref  href="cnta270_cronograma_contabil.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta270_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

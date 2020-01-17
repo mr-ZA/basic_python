@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Связь продукта с поставщиком</title>
+<topicref  href="matr190_produto_x_fornecedor.dita"> 
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="matr190_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

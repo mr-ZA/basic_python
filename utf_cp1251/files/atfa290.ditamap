@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Регулируемые ставки</title>
+<topicref navtitle="Регулируемые ставки"> 
+<topicref  href="atfa290_taxas_regulamentadas.dita"> 
+</topicref>
+<topicref  href="atfa290_opcao_importar.dita"> 
+</topicref>
+<topicref  href="atfa290_opcao_exportar.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa290_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

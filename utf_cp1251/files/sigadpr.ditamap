@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="ru">
+    <booktitle>
+        <mainbooktitle><ph keyref="module_name"/></mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Sobieski Bruno</author>
+        <bookrights>
+            <copyrfirst>
+                <year>2019</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>2019</year>
+            </copyrlast>
+            <bookowner>
+                <organization>Национальная платформа</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <keydef keys="module_name">
+            <!--Вид документа-->
+            <topicmeta>
+                <keywords>
+                    <keyword>Разработка продукта</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <notices><!-- placeholder --></notices>
+        <booklists>
+            <toc/>
+        </booklists>
+        <preface><!-- placeholder --></preface>
+</frontmatter>
+<chapter  href="sigadpr_introducao.dita"> 
+</chapter>
+<chapter  href="sigadpr_fluxo_operacional.dita"> 
+</chapter>
+<chapter  href="sigadpr_parametros.dita"> 
+</chapter>
+<chapter  href="sigadpr_tabelas.dita"> 
+</chapter>
+<chapter navtitle="Интеграция SIGAFAT и SIGADPR"> 
+<mapref href="./integracao sigafat e sigadpr.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Интеграция SIGAQIP, SIGAPCP и SIGADPR"> 
+<mapref href="./integracao_qip_pcp_e_dpr.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Файлы"> 
+<mapref href="./dpra100.ditamap" format="ditamap"/>
+<mapref href="./dpra300.ditamap" format="ditamap"/>
+<mapref href="./sfca020.ditamap" format="ditamap"/>
+<mapref href="./sfca021.ditamap" format="ditamap"/>
+<mapref href="./sfca022.ditamap" format="ditamap"/>
+<mapref href="./sfca023.ditamap" format="ditamap"/>
+<mapref href="./sfca006.ditamap" format="ditamap"/>
+<mapref href="./sfca002.ditamap" format="ditamap"/>
+<mapref href="./sfca001.ditamap" format="ditamap"/>
+<mapref href="./dpra102.ditamap" format="ditamap"/>
+<mapref href="./dpra110.ditamap" format="ditamap"/>
+<mapref href="./dpra120.ditamap" format="ditamap"/>
+<mapref href="./dpra101.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Транзакции"> 
+<mapref href="./dpra340.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Процессы"> 
+<mapref href="./dpra341.ditamap" format="ditamap"/>
+<mapref href="./dpra342.ditamap" format="ditamap"/>
+<mapref href="./dpra350.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Качество"> 
+<mapref href="./qipa020.ditamap" format="ditamap"/>
+<mapref href="./qipa130.ditamap" format="ditamap"/>
+<mapref href="./qipa010.ditamap" format="ditamap"/>
+<mapref href="./qipa150.ditamap" format="ditamap"/>
+<mapref href="./qipa160.ditamap" format="ditamap"/>
+<mapref href="./qipa170.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Файлы"> 
+<mapref href="./sfcc101.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Процессы"> 
+<mapref href="./dprc300.ditamap" format="ditamap"/>
+<mapref href="./dprc322.ditamap" format="ditamap"/>
+<mapref href="./dprc324.ditamap" format="ditamap"/>
+<mapref href="./dprc323.ditamap" format="ditamap"/>
+<mapref href="./dprc321.ditamap" format="ditamap"/>
+</chapter>
+</bookmap>

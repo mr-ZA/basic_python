@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_csaa100" xml:lang="ru">
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/CSAA100"/></title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/CSAA100"/></navtitle>
+        </topicmeta>
+        <topicref href="master_data/csaa100/c_csaa100.dita">
+
+
+            <topicref href="master_data/csaa100/t_csaa100.dita">
+            </topicref>
+            <topicref navtitle="Технические данные">
+                <topicref href="master_data/csaa100/r_csaa100_tables.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

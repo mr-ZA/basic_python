@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Офлайн-учет</title>
+<topicref navtitle="Офлайн-учет"> 
+<topicref  href="fina370_contabilizacao_off_line_CHI.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fina370_tabelas.dita"> 
+</topicref>
+<topicref  href="fina370_tabelas_lancamentos_padronizados_PLS.dita"> 
+</topicref>
+<topicref  href="fina370_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Компоненты</title>
+<topicref navtitle="Компоненты"> 
+<topicref  href="fata540_componentes.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata540_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

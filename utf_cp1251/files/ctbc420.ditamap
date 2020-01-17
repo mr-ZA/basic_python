@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос главной книги плана счетов/фискального документа</title>
+<topicref navtitle="Запрос главной книги плана счетов/фискального документа"> 
+<topicref  href="ctbc420_consulta_razao_por_documento_.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbc420_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

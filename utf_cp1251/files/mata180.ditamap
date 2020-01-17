@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Дополнение к продукту</title>
+<topicref navtitle="Дополнение к продукту"> 
+<topicref  href="mata180_complemento_de_produto.dita"> 
+</topicref>
+<topicref  href="mata180_acompanhamento_de_compras.dita"> 
+</topicref>
+<topicref  href="mata180_principais_campos_e_controles.dita"> 
+<topicref  href="mata180_pasta_wms.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata180_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

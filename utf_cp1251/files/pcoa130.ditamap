@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Пользователи/МВЗ</title>
+<topicref navtitle="Пользователи/МВЗ"> 
+<topicref  href="pcoa130_usuarios_x_centros_de_custos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa130_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Основные активы</title>
+<topicref navtitle="Основные активы"> 
+<topicref  href="atfa012_ativo_fixo.dita"> 
+</topicref>
+<topicref  href="atfa012_como_replicar_um_ativo.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="atfa012_bloqueia_desbloq.dita"> 
+</topicref>
+<topicref  href="atfa012_depreciacao_de_bens.dita"> 
+</topicref>
+<topicref  href="atfa012_bens_de_terceiros.dita"> 
+</topicref>
+<topicref  href="atfa012_rateio_despesas.dita"> 
+</topicref>
+<topicref  href="atfa012_importar_classificacao.dita"> 
+</topicref>
+<topicref  href="atfa012_calculo_avp.dita"> 
+</topicref>
+<topicref  href="atfa012_margem_gerencial.dita"> 
+</topicref>
+<topicref  href="atfa012_excluir_lote.dita"> 
+</topicref>
+<topicref  href="atfa012_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Основные поля/элементы управления"> 
+<topicref  href="atfa012_campo_codigo_base.dita"> 
+</topicref>
+<topicref  href="atfa012_campo_item.dita"> 
+</topicref>
+<topicref  href="atfa012_campo_classificacao.dita"> 
+</topicref>
+<topicref  href="atfa012_campo_tipos_de_ativos.dita"> 
+</topicref>
+<topicref  href="atfa012_campo_correcao_e_depreciacao.dita"> 
+</topicref>
+<topicref  href="atfa012_deprec_acumulada.dita"> 
+</topicref>
+<topicref  href="atfa012_qualificacao.dita"> 
+</topicref>
+<topicref  href="atfa012_status.dita"> 
+</topicref>
+<topicref  href="atfa012_tipo_depreciacao.dita"> 
+</topicref>
+<topicref  href="atfa012_identif_utiliz_bem.dita"> 
+</topicref>
+<topicref  href="atfa012_tipo_controle.dita"> 
+</topicref>
+<topicref  href="atfa012_indice_calculo.dita"> 
+</topicref>
+<topicref  href="atfa012_atf_custo_pr.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Понятия"> 
+<topicref  href="atfa012_01aquisicao.dita"> 
+</topicref>
+<topicref  href="atfa012_02reavaliacao.dita"> 
+</topicref>
+<topicref  href="atfa012_03adiantamento.dita"> 
+</topicref>
+<topicref  href="atfa012_06_depreciacao_acelerada_esp.dita"> 
+</topicref>
+<topicref  href="atfa012_07_depreciacao_acelerada.dita"> 
+</topicref>
+<topicref  href="atfa012_08_09_deprec_incent._posit.dita"> 
+</topicref>
+<topicref  href="atfa012_depreciacao_contabil_gerenci.dita"> 
+</topicref>
+<topicref  href="atfa012_10_12__depreciacao_gerencial.dita"> 
+</topicref>
+<topicref  href="atfa012_13_adiantamento_gerencial.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa012_tabelas.dita"> 
+</topicref>
+<topicref  href="atfa012_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

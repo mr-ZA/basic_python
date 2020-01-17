@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Мастер инвентаризации</title>
+<topicref navtitle="Мастер инвентаризации"> 
+<topicref  href="acda030_mestre_inventario.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="acda030_tabelas.dita"> 
+</topicref>
+<topicref  href="acda030_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

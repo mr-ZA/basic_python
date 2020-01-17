@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Распределение транспортных средств</title>
+<topicref navtitle="Распределение транспортных средств"> 
+<topicref  href="omsa230_int.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa230_par.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

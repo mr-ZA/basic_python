@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Причина простоя</title>
+<topicref navtitle="Причина простоя"> 
+<topicref  href="sfca004_motivo_parada.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="sfca004_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

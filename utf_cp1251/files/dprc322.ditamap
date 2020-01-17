@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Цена нового продукта</title>
+<topicref navtitle="Цена нового продукта"> 
+<topicref  href="dprc322_preco_novo_produto.dita"> 
+</topicref>
+<topicref  href="dprc322_acoes_relacionadas.dita"> 
+</topicref>
+<topicref  href="dprc322_principais_campos_controles.dita"> 
+<topicref  href="dprc322_adicao_custos.dita"> 
+</topicref>
+<topicref  href="dprc322_subtracao_preco_teto.dita"> 
+</topicref>
+<topicref  href="dprc322_preco_teto.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dprc322_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

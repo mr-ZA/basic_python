@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Индивидуальный выбор тестов</title>
+<topicref navtitle="Индивидуальный выбор тестов"> 
+<topicref  href="qipa170_skip_teste_individual.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="qipa170_skip_teste.dita"> 
+</topicref>
+<topicref  href="qipa170_skip_teste_grupo.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="qipa170_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

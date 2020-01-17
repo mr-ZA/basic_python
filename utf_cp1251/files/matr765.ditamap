@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Кривая ABC по клиенту</title>
+<topicref  href="matr765_int.dita"> 
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в содержание)"> 
+<topicref  href="matr765_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

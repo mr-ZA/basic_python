@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Исходные балансы – в порядке поступления</title>
+<topicref navtitle="Исходные балансы – в порядке поступления"> 
+<topicref  href="mata221_saldos_iniciais_fifo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata221_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

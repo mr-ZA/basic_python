@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Условия оплаты</title>
+<topicref navtitle="Условия оплаты"> 
+<topicref  href="mata360_condicao_de_pgto.dita"> 
+</topicref>
+<topicref  href="mata360_opcao_simulacao_localizados.dita"> 
+</topicref>
+<topicref  href="mata360_opcao_imprimir.dita"> 
+</topicref>
+<topicref  href="mata360_principais_campos_controles.dita"> 
+<topicref  href="mata360_tipos_de_condicoes_de_pagamento.dita"> 
+<topicref  href="mata360_tipo_1.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_2.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_3.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_4.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_5.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_6.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_7.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_8.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_9.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_b.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata360_dias_cond.dita"> 
+</topicref>
+<topicref  href="mata360_porc_acresc_fin.dita"> 
+</topicref>
+<topicref  href="mata360_tp_acres.dita"> 
+</topicref>
+<topicref  href="mata360_tipo_itens.dita"> 
+</topicref>
+<topicref  href="mata360_gera_adiantamento_ang.dita"> 
+</topicref>
+<topicref  href="mata360_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata360_tabelas.dita"> 
+</topicref>
+<topicref  href="mata360_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

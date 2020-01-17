@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Кодификация</title>
+<topicref navtitle="Кодификация"> 
+<topicref  href="mata098_codificacao.dita"> 
+</topicref>
+<topicref  href="mata098_opcao_visual_grafica.dita"> 
+</topicref>
+<topicref  href="mata098_opcao_definir.dita"> 
+</topicref>
+<topicref  href="mata098_opcao_formula.dita"> 
+</topicref>
+<topicref  href="mata098_grade.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata098_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

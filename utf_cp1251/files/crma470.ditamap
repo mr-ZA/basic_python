@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Контакты</title>
+<topicref navtitle="Контакты"> 
+<topicref  href="crma470_contatos.dita"> 
+</topicref>
+<topicref  href="crma470_vinculando_contato.dita"> 
+</topicref>
+<topicref  href="crma470_opcao_especialidade.dita"> 
+</topicref>
+<topicref  href="crma470_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref  href="crma470_atividades.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma470_anotacoes.dita"> 
+</topicref>
+<topicref  href="crma470_conexoes.dita"> 
+</topicref>
+<topicref  href="crma470_controle_de_acesso.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma470_parametros.dita"> 
+</topicref>
+<topicref  href="crma470_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

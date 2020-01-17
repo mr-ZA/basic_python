@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Файл бизнес-блока</title>
+<topicref navtitle="Файл бизнес-блока"> 
+<topicref  href="fata510_cadastro_unidade_negocio.dita"> 
+</topicref>
+<topicref  href="fata510_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref navtitle="Другие функции"> 
+<topicref  href="fata510_anotacoes.dita"> 
+</topicref>
+<topicref  href="fata510_conexoes.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata510_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

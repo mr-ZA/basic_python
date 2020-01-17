@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Модели</title>
+<topicref navtitle="Модели"> 
+<topicref  href="fata620_cadastro_de_modelos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata620_tabelas.dita"> 
+</topicref>
+<topicref  href="fata620_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

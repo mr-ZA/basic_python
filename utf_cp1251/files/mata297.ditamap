@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Предложение по покупке</title>
+<topicref navtitle="Предложение по покупке"> 
+<topicref  href="mata297_sugestao_de_compras.dita"> 
+</topicref>
+<topicref navtitle="Команды в меню"> 
+<topicref navtitle="Подтвердить"> 
+<topicref  href="mata297_efetivar.dita"> 
+</topicref>
+<topicref  href="mata297_area_superior.dita"> 
+</topicref>
+<topicref  href="mata297_area_central.dita"> 
+</topicref>
+<topicref  href="mata297_area_inferior.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata297_cancelar_efetiv.dita"> 
+</topicref>
+<topicref  href="mata297_imprimir.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Настройка предложения о покупке"> 
+<topicref  href="mata297_parametros_inclusao.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata297_parametros.dita"> 
+</topicref>
+<topicref  href="mata297_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata297_parametros_pedido_compras.dita"> 
+</topicref>
+</topicref>
+</map>

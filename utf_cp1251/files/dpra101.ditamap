@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Цена конкурирующего продукта</title>
+<topicref navtitle="Цена конкурирующего продукта"> 
+<topicref  href="dpra101_preco_produto_concorrente.dita"> 
+</topicref>
+<topicref  href="dpra101_principais_campos_controles.dita"> 
+<topicref  href="dpra101_prod_desenv.dita"> 
+</topicref>
+<topicref  href="dpra101_cnpj_concorr.dita"> 
+</topicref>
+<topicref  href="dpra101_desc_produto.dita"> 
+</topicref>
+<topicref  href="dpra101_preco_concorr.dita"> 
+</topicref>
+<topicref  href="dpra101_criterio.dita"> 
+</topicref>
+<topicref  href="dpra101_valor_criter.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dpra101_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

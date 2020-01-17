@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Группы</title>
+<topicref navtitle="Группы"> 
+<topicref  href="master_data/cfga520/cfga520_grupos_de_usuarios.dita"> 
+</topicref>
+<topicref  href="master_data/cfga520/cfga520_indicadores_performance.dita"> 
+</topicref>
+</topicref>
+</map>

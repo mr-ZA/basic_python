@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проект основных активов</title>
+<topicref navtitle="Проект основных активов"> 
+<topicref  href="atfa430_projeto_imobilizado.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="atfa430_conhecimento.dita"> 
+</topicref>
+<topicref  href="atfa430_log_proc.dita"> 
+</topicref>
+<topicref  href="atfa430_imp_csv_exp_csv.dita"> 
+</topicref>
+<topicref  href="atfa430_bloqueio_desbloqueio.dita"> 
+</topicref>
+<topicref  href="atfa430_efetivar_realizacao.dita"> 
+</topicref>
+<topicref  href="atfa430_realizar.dita"> 
+</topicref>
+<topicref  href="atfa430_encerrar.dita"> 
+</topicref>
+<topicref  href="atfa430_revisar_avp.dita"> 
+</topicref>
+<topicref  href="atfa430_revisar.dita"> 
+</topicref>
+<topicref  href="atfa430_enc_etapa.dita"> 
+</topicref>
+<topicref  href="atfa430_atualizar.dita"> 
+</topicref>
+<topicref  href="atfa430_excluir.dita"> 
+</topicref>
+<topicref  href="atfa430_alterar.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Параметры"> 
+<topicref  href="atfa430_etapa.dita"> 
+</topicref>
+<topicref  href="atfa430_configuracao_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa430_parametros.dita"> 
+</topicref>
+<topicref  href="atfa430_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Агрегатор записей</title>
+<topicref navtitle="Агрегатор записей"> 
+<topicref  href="crma580_agrupador_de_registros.dita"> 
+<topicref  href="crma580_fluxo_operacional.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma580_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

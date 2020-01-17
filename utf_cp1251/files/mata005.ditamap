@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Группы филиалов</title>
+<topicref navtitle="Группы филиалов"> 
+<topicref  href="mata005_grupos_de_filiais.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata005_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

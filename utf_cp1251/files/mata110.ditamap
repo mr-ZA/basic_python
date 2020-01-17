@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос на покупку</title>
+<topicref navtitle="Запрос на покупку"> 
+<topicref  href="mata110_solicitacoes_de_compras.dita"> 
+</topicref>
+<topicref  href="mata110_grade.dita"> 
+</topicref>
+<topicref  href="mata110_legenda.dita"> 
+</topicref>
+<topicref  href="mata110_opcao_aprovacao.dita"> 
+</topicref>
+<topicref  href="mata110_opcao_projetos.dita"> 
+</topicref>
+<topicref  href="mata110_transferencia_da_scs_para_comp.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="mata110_campo_unidade_de_medida.dita"> 
+</topicref>
+<topicref  href="mata110_campo_ordem_de_producao.dita"> 
+</topicref>
+<topicref  href="mata110_campo_fornecedor_loja_padrao.dita"> 
+</topicref>
+<topicref  href="mata110_tipo_op.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata110_parametros.dita"> 
+</topicref>
+<topicref  href="mata110_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

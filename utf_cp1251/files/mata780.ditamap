@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Календари</title>
+<topicref navtitle="Календари"> 
+<topicref  href="mata780_calendarios.dita"> 
+<topicref  href="mata780_conceitos_especificos_acervos.dita"> 
+</topicref>
+<topicref  href="mata780_mnt.dita"> 
+</topicref>
+<topicref  href="mata780_qip.dita"> 
+</topicref>
+<topicref  href="mata780_sga.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata780_parametros.dita"> 
+</topicref>
+<topicref  href="mata780_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata780_sga.dita"> 
+</topicref>
+<topicref  href="mata780_conceitos_especificos_acervos.dita"> 
+</topicref>
+<topicref  href="mata780_qip.dita"> 
+</topicref>
+<topicref  href="mata780_mnt.dita"> 
+</topicref>
+<topicref  href="mata780_fontes_geradoras_de_residuos.dita"> 
+</topicref>
+</topicref>
+</map>

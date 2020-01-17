@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Балансовая стоимость</title>
+<topicref navtitle="Балансовая стоимость"> 
+<topicref  href="atfa020_valores_contabeis.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa020_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

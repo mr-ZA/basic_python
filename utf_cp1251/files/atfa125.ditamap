@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Списание или запрос на передачу</title>
+<topicref navtitle="Списание или запрос на передачу"> 
+<topicref  href="atfa125_solicitacao_baixa_ativo_fixo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa125_parametros.dita"> 
+</topicref>
+<topicref  href="atfa125_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

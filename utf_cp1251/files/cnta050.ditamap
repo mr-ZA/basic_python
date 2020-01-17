@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Штрафы/премии</title>
+<topicref navtitle="Штрафы/премии"> 
+<topicref  href="cnta050_multas_bonificacoes.dita"> 
+</topicref>
+<topicref  href="cnta050_elaborando_formulas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta050_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

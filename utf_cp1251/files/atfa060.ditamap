@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Передачи</title>
+<topicref navtitle="Передачи"> 
+<topicref  href="atfa060_transferencias.dita"> 
+</topicref>
+<topicref  href="atfa060_transferencia_automatica.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="atfa060_tracker_contabil.dita"> 
+</topicref>
+<topicref  href="atfa060_canc_transf.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa060_tabelas_utilizadas.dita"> 
+</topicref>
+<topicref  href="atfa060_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

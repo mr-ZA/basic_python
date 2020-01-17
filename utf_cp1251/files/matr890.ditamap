@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Мониторинг операций</title>
+<topicref  href="matr890_acompanhamento_de_operacoes.dita"> 
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="matr890_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

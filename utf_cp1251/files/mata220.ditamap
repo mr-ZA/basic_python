@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Исходные балансы</title>
+<topicref navtitle="Исходные балансы"> 
+<topicref  href="mata220_saldos_iniciais.dita"> 
+</topicref>
+<topicref  href="mata220_informar_lote.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata220_tabelas.dita"> 
+</topicref>
+<topicref  href="mata220_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Мастер WF</title>
+<topicref navtitle="Мастер WF"> 
+<topicref  href="modules/sigacfg/cfgxwf_wizard_wf.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgxwf_envio_de_relatorios.dita"> 
+        <topicref  href="modules/sigacfg/cfgxwf_envio_para_pasta_particular.dita"> 
+</topicref>
+        <topicref  href="modules/sigacfg/cfgxwf_envio_para_pasta_de_um_grupo.dita"> 
+</topicref>
+        <topicref  href="modules/sigacfg/cfgxwf_visualizacao_dos_relatorios.dita"> 
+</topicref>
+        <topicref  href="modules/sigacfg/cfgxwf_download_de_relatorio.dita"> 
+</topicref>
+        <topicref  href="modules/sigacfg/cfgxwf_exclusao_de_relatorio.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+    <topicref  href="modules/sigacfg/cfgxwf_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

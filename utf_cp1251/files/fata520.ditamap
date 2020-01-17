@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Учетные записи торгового представителя</title>
+<topicref navtitle="Учетные записи торгового представителя"> 
+<topicref  href="fata520_contas_vendedor.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata520_tabelas.dita"> 
+</topicref>
+<topicref  href="fata520_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

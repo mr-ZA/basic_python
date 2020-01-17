@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Центральная компания</title>
+<topicref navtitle="Центральная компания"> 
+<topicref  href="pcpa106_empresa_centralizadora.dita"> 
+</topicref>
+<topicref  href="pcpa106_principais_campos_controles.dita"> 
+<topicref  href="pcpa106_empresa.dita"> 
+</topicref>
+<topicref  href="pcpa106_filial.dita"> 
+</topicref>
+<topicref  href="pcpa106_empresas_central.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcpa106_tabelas.dita"> 
+</topicref>
+<topicref  href="pcpa106_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

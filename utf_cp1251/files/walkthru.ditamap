@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Walk-Thru</title>
+<topicref navtitle="Walk-Thru"> 
+<topicref  href="walkthru_introducao.dita"> 
+</topicref>
+<topicref navtitle="Доступ к Walk-Thru"> 
+<topicref  href="walkthru_acessando.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

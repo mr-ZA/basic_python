@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Группа фондов</title>
+<topicref navtitle="Группа фондов"> 
+<topicref  href="pcoa461_grupo_de_verbas.dita"> 
+</topicref>
+<topicref  href="pcoa461_formulas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa461_tabelas_utilizadas.dita"> 
+</topicref>
+<topicref  href="pcoa461_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

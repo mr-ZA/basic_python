@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Создание компаний</title>
+<topicref navtitle="Создание компаний"> 
+<topicref  href="libraries/cfgx032/cfgx032_criacao_de_empresas.dita"> 
+</topicref>
+<topicref navtitle="Группа компаний"> 
+<topicref  href="libraries/cfgx032/cfgx032_incluindo_grupo_de_empresas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Компании"> 
+<topicref  href="libraries/cfgx032/cfgx032_empresas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Подразделение"> 
+<topicref  href="libraries/cfgx032/cfgx032_unidade_de_negocio.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Филиал"> 
+<topicref  href="libraries/cfgx032/cfgx032_filial.dita"> 
+</topicref>
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_pasta_endereco_fiscal_entrega.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_pasta_endereco_de_cobranca.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_pasta_dados_gerais.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_wizard_de_configuracao.dita"> 
+</topicref>
+<topicref navtitle="Авторизация компании"> 
+<topicref  href="libraries/cfgx032/cfgx032_liberacao_de_uso.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_liberacao_emergencial.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx032/cfgx032_aut_uso_totvs.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="libraries/cfgx032/cfgx032_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

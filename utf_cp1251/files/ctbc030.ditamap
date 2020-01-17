@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Статистика баланса</title>
+<topicref navtitle="Статистика баланса"> 
+<topicref  href="ctbc030_estatisticas_de_saldos.dita"> 
+</topicref>
+<topicref  href="ctbc030_botoes_da_barra_de_ferramentas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbc030_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

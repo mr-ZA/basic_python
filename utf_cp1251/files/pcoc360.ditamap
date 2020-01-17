@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Административное представление по кубу</title>
+<topicref navtitle="Административное представление по кубу"> 
+<topicref  href="pcoc360_visao_gerencial_por_cubo_saldos_por_periodo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoc360_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+    <map xml:lang="ru">
+    <title>Компании</title>
+        
+        <topicref href="modules/sigacfg/c_sigacfg_companies.dita">
+        <topicref href="modules/sigacfg/c_sigacfg_companies_conception.dita"/>
+        
+            <topicref href="master_data/apcfg200ru/t_apcfg200ru.dita"/>
+            <topicref href="master_data/apcfg210ru/t_apcfg210ru.dita"/>
+            <topicref href="master_data/apcfg220ru/t_apcfg220ru.dita"/>
+            <topicref href="master_data/apcfg230/t_apcfg230.dita"/>
+            
+            <topicref navtitle="Технические данные">
+            <!--          <topicref href="master_data/apcfg200ru/r_apcfg200ru_tables.dita"/>    -->
+                <topicref href="master_data/apcfg200ru/r_apcfg200ru_parameters.dita"/>
+            </topicref>
+        </topicref>
+          
+    </map>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Правила скидок</title>
+<topicref navtitle="Правила скидок"> 
+<topicref  href="fata080_regras_de_desconto.dita"> 
+</topicref>
+<topicref  href="fata080_copiando_regras_de_desconto.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/Средства контроля"> 
+<topicref  href="fata080_principais_campos_e_controles.dita"> 
+</topicref>
+<topicref  href="fata080_tabela_de_precos.dita"> 
+</topicref>
+<topicref  href="fata080_condicoes_de_pagamento.dita"> 
+</topicref>
+<topicref  href="fata080_faixa_de_valor.dita"> 
+</topicref>
+<topicref  href="fata080_forma_de_pagamento.dita"> 
+</topicref>
+<topicref  href="fata080_tipo_de_horario.dita"> 
+</topicref>
+<topicref  href="fata080_percentual_de_desconto.dita"> 
+</topicref>
+<topicref  href="fata080_valor_de_desconto.dita"> 
+</topicref>
+<topicref  href="fata080_faixa.dita"> 
+</topicref>
+<topicref  href="fata080_desc_prox_comp.dita"> 
+</topicref>
+<topicref  href="fata080_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata080_tabelas.dita"> 
+</topicref>
+<topicref  href="fata080_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

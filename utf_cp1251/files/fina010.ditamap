@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Классы</title>
+<topicref navtitle="Классы"> 
+<topicref  href="fina010_naturezas.dita"> 
+</topicref>
+<topicref  href="fina010_principais_campos_controles.dita"> 
+<topicref  href="fina010_uso_da_nat.dita"> 
+</topicref>
+<topicref  href="fina010_conta_contabil.dita"> 
+</topicref>
+<topicref  href="fina010_exemplos.dita"> 
+</topicref>
+<topicref  href="fina010_tipo.dita"> 
+</topicref>
+<topicref  href="fina010_cod_natureza_pai.dita"> 
+</topicref>
+<topicref  href="fina010_escritorio.dita"> 
+</topicref>
+<topicref  href="fina010_perm_mov_bco.dita"> 
+</topicref>
+<topicref  href="fina010_comprovante.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fina010_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="fina010_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

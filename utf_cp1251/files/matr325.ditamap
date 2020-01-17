@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Хронологический отчет о ценах</title>
+<topicref navtitle="Хронологический отчет о ценах"> 
+<topicref  href="matr325_relatorio_historico_precos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="matr325_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

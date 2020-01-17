@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>График</title>
+<topicref navtitle="График"> 
+<topicref  href="cnta110_cronograma.dita"> 
+</topicref>
+<topicref  href="cnta110_cronograma_fisico.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta110_parametros.dita"> 
+</topicref>
+<topicref  href="cnta110_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

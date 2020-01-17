@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Таблицы</title>
+<topicref navtitle="Таблицы"> 
+<topicref  href="libraries/cfgx016/cfgx016_tabelas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx016/cfgx016_incluir.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx016/cfgx016_editar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx016/cfgx016_excluir.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx016/cfgx016_pesquisar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx016/cfgx016_visualizar.dita"> 
+</topicref>
+</topicref>
+</map>

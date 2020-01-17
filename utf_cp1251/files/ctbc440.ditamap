@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос главной книги центра затрат</title>
+<topicref navtitle="Запрос главной книги центра затрат"> 
+<topicref  href="ctbc440_consulta_razao_centro_de_custo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbc440_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

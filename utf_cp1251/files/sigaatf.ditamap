@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="ru">
+    <booktitle>
+        <mainbooktitle><ph keyref="module_name"/></mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Sobieski Bruno</author>
+        <bookrights>
+            <copyrfirst>
+                <year>2019</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>2019</year>
+            </copyrlast>
+            <bookowner>
+                <organization>Национальная платформа</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <keydef keys="module_name">
+            <!--Вид документа-->
+            <topicmeta>
+                <keywords>
+                    <keyword>Основные активы</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <notices><!-- placeholder --></notices>
+        <booklists>
+            <toc/>
+        </booklists>
+        <preface><!-- placeholder --></preface>
+</frontmatter>
+    <chapter  href="./master_data/sigaatf/sigaatf_ativo_fixo.dita"> 
+</chapter>
+<chapter navtitle="Операционный поток"> 
+<topicref  href="sigaatf_fluxo_operacional.dita"> 
+</topicref>
+<topicref  href="sigaatf_fluxo_operacional_2.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Понятия"> 
+<topicref  href="sigaatf_glossario.dita"> 
+</topicref>
+<topicref  href="sigaatf_depreciacao_de_bens_do_ativo_imobilizado.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Методы административной амортизации"> 
+<topicref  href="sigaatf_metodos_deprec_gerencial_bra.dita"> 
+</topicref>
+<topicref  href="sigaatf_linear_ou_quotas_constantes.dita"> 
+</topicref>
+<topicref  href="sigaatf_soma_dos_digitos.dita"> 
+</topicref>
+<topicref  href="sigaatf_reducao_de_saldos.dita"> 
+</topicref>
+<topicref  href="sigaatf_unidades_produzidas.dita"> 
+</topicref>
+<topicref  href="sigaatf_horas_traballhadas.dita"> 
+</topicref>
+<topicref  href="sigaatf_linear_com_vlr_max_deprec.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Учет"> 
+<topicref  href="sigaatf_contabilizacao.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Интеграция с планированием бюджета и контролем"> 
+<topicref  href="sigaatf_integracao_pco.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Конфигурации"> 
+<topicref  href="sigaatf_configuracoes.dita"> 
+</topicref>
+<topicref navtitle="Параметры"> 
+<topicref  href="sigaatf_parametros.dita"> 
+</topicref>
+<topicref navtitle="Описание"> 
+<topicref  href="sigaatf_a.dita"> 
+</topicref>
+<topicref  href="sigaatf_b.dita"> 
+</topicref>
+<topicref  href="sigaatf_c.dita"> 
+</topicref>
+<topicref  href="sigaatf_d.dita"> 
+</topicref>
+<topicref  href="sigaatf_g.dita"> 
+</topicref>
+<topicref  href="sigaatf_i.dita"> 
+</topicref>
+<topicref  href="sigaatf_l.dita"> 
+</topicref>
+<topicref  href="sigaatf_m.dita"> 
+</topicref>
+<topicref  href="sigaatf_n.dita"> 
+</topicref>
+<topicref  href="sigaatf_p.dita"> 
+</topicref>
+<topicref  href="sigaatf_r.dita"> 
+</topicref>
+<topicref  href="sigaatf_s.dita"> 
+</topicref>
+<topicref  href="sigaatf_t.dita"> 
+</topicref>
+<topicref  href="sigaatf_u.dita"> 
+</topicref>
+<topicref  href="sigaatf_v.dita"> 
+</topicref>
+<topicref  href="sigaatf_z.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="sigaatf_tabelas.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Функции"> 
+<mapref href="./eai.ditamap" format="ditamap"/>
+</chapter>
+<chapter navtitle="Обновления"> 
+<topicref navtitle="Реестры"> 
+<mapref href="./atfa012.ditamap" format="ditamap"/>
+<mapref href="./ctba020.ditamap" format="ditamap"/>
+<mapref href="./ctba080.ditamap" format="ditamap"/>
+<mapref href="./mata090.ditamap" format="ditamap"/>
+<mapref href="./ctba055.ditamap" format="ditamap"/>
+<mapref href="./atfa011.ditamap" format="ditamap"/>
+<mapref href="./ctba180.ditamap" format="ditamap"/>
+<mapref href="./atfa160.ditamap" format="ditamap"/>
+<mapref href="./atfa210.ditamap" format="ditamap"/>
+<mapref href="./atfa240.ditamap" format="ditamap"/>
+<mapref href="./atfa260.ditamap" format="ditamap"/>
+<mapref href="./mata020.ditamap" format="ditamap"/>
+<mapref href="./tmka070.ditamap" format="ditamap"/>
+<mapref href="./cfgx019.ditamap" format="ditamap"/>
+<mapref href="./atfa300.ditamap" format="ditamap"/>
+<mapref href="./atfa270.ditamap" format="ditamap"/>
+<mapref href="./atfa275.ditamap" format="ditamap"/>
+<mapref href="./fata340.ditamap" format="ditamap"/>
+<mapref href="./apda020.ditamap" format="ditamap"/>
+<mapref href="./atfa190.ditamap" format="ditamap"/>
+<mapref href="./atfa290.ditamap" format="ditamap"/>
+<mapref href="./atfa001.ditamap" format="ditamap"/>
+<mapref href="./atfa025.ditamap" format="ditamap"/>
+<mapref href="./atfa310.ditamap" format="ditamap"/>
+<mapref href="./atfa320.ditamap" format="ditamap"/>
+<mapref href="./atfa321.ditamap" format="ditamap"/>
+<mapref href="./atfa430.ditamap" format="ditamap"/>
+<mapref href="./atfa490.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Транзакции"> 
+<mapref href="./atfa036.ditamap" format="ditamap"/>
+<mapref href="./atfa125.ditamap" format="ditamap"/>
+<mapref href="./atfa126.ditamap" format="ditamap"/>
+<mapref href="./atfa040.ditamap" format="ditamap"/>
+<mapref href="./atfa060.ditamap" format="ditamap"/>
+<mapref href="./atfa150.ditamap" format="ditamap"/>
+<mapref href="./atfa155.ditamap" format="ditamap"/>
+<mapref href="./atfa251.ditamap" format="ditamap"/>
+<mapref href="./atfa250.ditamap" format="ditamap"/>
+<mapref href="./atfa440.ditamap" format="ditamap"/>
+<mapref href="./atfa110.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Орган"> 
+<mapref href="./atfa002.ditamap" format="ditamap"/>
+<mapref href="./atfa003.ditamap" format="ditamap"/>
+<mapref href="./atfa004.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Запросы"> 
+<topicref navtitle="Реестры"> 
+<mapref href="./mpview.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Активы"> 
+<mapref href="./atfc040.ditamap" format="ditamap"/>
+<mapref href="./atfc010.ditamap" format="ditamap"/>
+<mapref href="./atfa020.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Отчеты"> 
+<topicref navtitle="Файлы"> 
+<mapref href="./atfr010.ditamap" format="ditamap"/>
+<mapref href="./atfr300.ditamap" format="ditamap"/>
+<mapref href="./atfr030.ditamap" format="ditamap"/>
+<mapref href="./atfr033.ditamap" format="ditamap"/>
+<mapref href="./atfr095.ditamap" format="ditamap"/>
+<mapref href="./atfr320.ditamap" format="ditamap"/>
+<mapref href="./atfr310.ditamap" format="ditamap"/>
+<mapref href="./atfr326.ditamap" format="ditamap"/>
+<mapref href="./atfr432.ditamap" format="ditamap"/>
+<mapref href="./atfr431.ditamap" format="ditamap"/>
+<mapref href="./atfr434.ditamap" format="ditamap"/>
+<mapref href="./atfr490.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Транзакции"> 
+<mapref href="./atfr050.ditamap" format="ditamap"/>
+<mapref href="./atfr070.ditamap" format="ditamap"/>
+<mapref href="./atfr080.ditamap" format="ditamap"/>
+<mapref href="./atfr072.ditamap" format="ditamap"/>
+<mapref href="./atfr073.ditamap" format="ditamap"/>
+<mapref href="./atfr074.ditamap" format="ditamap"/>
+<mapref href="./atfr090.ditamap" format="ditamap"/>
+<mapref href="./atfr100.ditamap" format="ditamap"/>
+<mapref href="./atfr110.ditamap" format="ditamap"/>
+<mapref href="./atfr120.ditamap" format="ditamap"/>
+<mapref href="./atfr130.ditamap" format="ditamap"/>
+<mapref href="./atfr150.ditamap" format="ditamap"/>
+<mapref href="./atfr170.ditamap" format="ditamap"/>
+<mapref href="./atfr180.ditamap" format="ditamap"/>
+<mapref href="./atfr200.ditamap" format="ditamap"/>
+<mapref href="./atfr190.ditamap" format="ditamap"/>
+<mapref href="./atfr270.ditamap" format="ditamap"/>
+<mapref href="./atfr280.ditamap" format="ditamap"/>
+<mapref href="./atfr210.ditamap" format="ditamap"/>
+<mapref href="./atfr101.ditamap" format="ditamap"/>
+<mapref href="./atfr250.ditamap" format="ditamap"/>
+<mapref href="./atfr260.ditamap" format="ditamap"/>
+<mapref href="./atfr051.ditamap" format="ditamap"/>
+<mapref href="./atfr410.ditamap" format="ditamap"/>
+<mapref href="./atfr031.ditamap" format="ditamap"/>
+<mapref href="./atfr411.ditamap" format="ditamap"/>
+<mapref href="./atfr325.ditamap" format="ditamap"/>
+<mapref href="./atfr433.ditamap" format="ditamap"/>
+<mapref href="./atfr450.ditamap" format="ditamap"/>
+<mapref href="./atfr471.ditamap" format="ditamap"/>
+<mapref href="./atfr470.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Прочее"> 
+<topicref navtitle="Обработка"> 
+<mapref href="./atfa050.ditamap" format="ditamap"/>
+<mapref href="./atfa070.ditamap" format="ditamap"/>
+<mapref href="./atfa200.ditamap" format="ditamap"/>
+<mapref href="./atfa080.ditamap" format="ditamap"/>
+<mapref href="./atfa171.ditamap" format="ditamap"/>
+<mapref href="./atfa175.ditamap" format="ditamap"/>
+<mapref href="./atfa330.ditamap" format="ditamap"/>
+<mapref href="./atfa450.ditamap" format="ditamap"/>
+<mapref href="./atfa460.ditamap" format="ditamap"/>
+<mapref href="./ctbaatf.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Корректировки"> 
+<mapref href="./atfa120.ditamap" format="ditamap"/>
+<mapref href="./atfa090.ditamap" format="ditamap"/>
+<mapref href="./atfa100.ditamap" format="ditamap"/>
+<mapref href="./atfa220.ditamap" format="ditamap"/>
+<mapref href="./atfa230.ditamap" format="ditamap"/>
+<mapref href="./atfa130.ditamap" format="ditamap"/>
+<mapref href="./atfa140.ditamap" format="ditamap"/>
+<mapref href="./atfa380.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Рабочий поток"> 
+<mapref href="./wfc001.ditamap" format="ditamap"/>
+<mapref href="./wfc002.ditamap" format="ditamap"/>
+<mapref href="./wfataskrmt.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Мастер производительности"> 
+<mapref href="./wizperf.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+</bookmap>

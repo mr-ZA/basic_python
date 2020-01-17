@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>События</title>
+<topicref navtitle="События"> 
+<topicref  href="crma340_eventos.dita"> 
+</topicref>
+<topicref  href="crma340_lista_de_presenca.dita"> 
+</topicref>
+<topicref  href="crma340_finalizacao_do_evento.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma340_anotacoes.dita"> 
+</topicref>
+<topicref  href="crma340_controle_de_acesso.dita"> 
+</topicref>
+</topicref>
+<topicref  href="tmka340_principais_campos_controles.dita"> 
+<topicref  href="crma340_capacidade_da_sala.dita"> 
+</topicref>
+<topicref  href="crma340_ocupacao_atual.dita"> 
+</topicref>
+<topicref  href="crma340_margem_de_seguranca.dita"> 
+</topicref>
+<topicref  href="crma340_status_grade_do_evento.dita"> 
+</topicref>
+<topicref  href="crma340_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma340_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

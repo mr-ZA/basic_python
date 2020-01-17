@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Утверждающие лица</title>
+<topicref navtitle="Утверждающие лица"> 
+<topicref  href="mata095_aprovadores.dita"> 
+</topicref>
+<topicref  href="mata095_consulta_de_saldos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata095_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata095_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

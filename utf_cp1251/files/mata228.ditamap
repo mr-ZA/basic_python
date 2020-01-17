@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Исходные балансы – FIFO (в порядке поступления)/LIFO (в порядке, обратном поступлению)</title>
+<topicref navtitle="Исходные балансы – FIFO (в порядке поступления)/LIFO (в порядке, обратном поступлению)"> 
+<topicref  href="mata228_saldos_iniciais_fifo_lifo.dita"> 
+</topicref>
+<topicref  href="mata228_fifo.dita"> 
+</topicref>
+<topicref  href="mata228_lifo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata228_parametros.dita"> 
+</topicref>
+<topicref  href="mata228_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/CFGA510"/></title>
+    
+    <topicref navtitle="Пользователи">
+        
+        <topicref href="master_data/cfga510/c_cfga510.dita"/> 
+      
+      
+      
+    <!-- Учетная запись-->
+    <topicref  href="master_data/cfga510/cfga510_cadastro_de_senhas.dita"/> 
+     
+    
+    <!-- Схема OAuth-авторизации -->
+    <topicref  href="master_data/cfga510/cfga510_fluxo_de_autenticacao_por_oaut.dita"/> 
+
+
+    <topicref navtitle="Вкладки">
+
+    <!-- Вкладка «Пользователь» -->
+    <topicref  href="master_data/cfga510/cfga510_usuario.dita"/> 
+
+    <!-- Вкладка «Ограничение доступа» -->
+    <topicref  href="master_data/cfga510/cfga510_restricao_acesso.dita"/> 
+
+    <!-- Вкладка «Параметризация» -->
+    <topicref  href="master_data/cfga510/cfga510_parametrizacao.dita"/> 
+
+    </topicref>
+    
+    <!-- Просмотр событий -->
+    <topicref  href="master_data/cfga510/cfga510_event_viewer.dita"/> 
+
+    <!-- Показатели эффективности
+   
+    возможно, неактуально: https://redmine.npl4m.ru/issues/828
+    <topicref  href="master_data/cfga510/cfga510_indi_performance.dita"/> 
+    -->
+    
+    <topicref navtitle="Режим для людей с ограниченными возможностями"> 
+            <topicref  href="master_data/cfga510/cfga510_acesso_visual.dita"/>
+            <topicref  href="master_data/cfga510/t_cfga510_acesso_visual.dita"/>    
+
+</topicref>
+<topicref navtitle="Технические данные"> 
+    <topicref  href="master_data/cfga510/cfga510_parametros.dita"/> 
+
+</topicref>
+</topicref>
+    
+</map>

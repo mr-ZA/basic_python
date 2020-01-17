@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Кампании</title>
+<topicref navtitle="Кампании"> 
+<topicref  href="crma360_campanhas.dita"> 
+</topicref>
+<topicref  href="crma360_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref  href="crma360_atividades.dita"> 
+</topicref>
+<topicref  href="crma360_visoes_e_graficos.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma360_anotacoes.dita"> 
+</topicref>
+<topicref  href="crma360_controle_de_acesso.dita"> 
+</topicref>
+<topicref  href="crma360_conexoes.dita"> 
+</topicref>
+<topicref  href="crma360_cadastro_de_resposta_de_campan.dita"> 
+</topicref>
+<topicref  href="crma360_adicionar_listas_de_marketing.dita"> 
+</topicref>
+<topicref  href="crma360_membros_da_campanha.dita"> 
+</topicref>
+<topicref  href="crma360_distribuir_atividades_da_campa.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma360_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

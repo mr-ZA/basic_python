@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Реестр связей групп и поставщиков</title>
+<topicref navtitle="Реестр связей групп и поставщиков"> 
+<topicref  href="mata065_cadastro_de_grupos_x_fornecedores.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata065_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

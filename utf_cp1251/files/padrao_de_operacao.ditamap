@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Microsiga Protheus®</title>
+<topicref navtitle="Microsiga Protheus®"> 
+<topicref  href="padrao_de_operacao_apresentacao.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_convencoes_graficas.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_microsiga.dita"> 
+</topicref>
+<topicref navtitle="Линия продуктов Microsiga Protheus®"> 
+<topicref  href="padrao_de_operacao_o_advanced_protheus.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_recursos_operacionais.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_estrutura.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_atualizacoes.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_atualizacao_remote.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_aplicativos.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Операция стандартная"> 
+<topicref  href="padrao_de_operacao_introducao.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_acessando_o_mdi.dita"> 
+</topicref>
+<topicref navtitle="Использование интерфейса MDI"> 
+<topicref  href="padrao_de_operacao_iniciando_o_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_painel_de_gestao.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_conhecendo_o_menu_funcional.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_split_de_janelas.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_enchoicebar.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_utilizando_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_acesso_rapido_da_rotina.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_consultando_o_sistema_de_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_selecionando_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_alterando_a_data_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_reiniciando_o_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_finalizando_o_mdi.dita"> 
+<topicref  href="padrao_de_operacao_bloquear.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_botao_logoff.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_botao_finalizar.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_botao_cancelar.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Обзор Microsiga Protheus"> 
+<topicref  href="padrao_de_operacao_microsiga_protheus_browse.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Окно обслуживания – MDI"> 
+<topicref  href="padrao_de_operacao_janela_de_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_opcoes_de_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_pesquisar_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_organizando_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_visualizar_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_configuracao_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_configurando_mdi.dita"> 
+<topicref  href="padrao_de_operacao_consulta_mdi.dita"> 
+</topicref>
+</topicref>
+<topicref  href="padrao_de_operacao_incluir_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_tratando_diversos_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_alterar_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_excluir_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_salvando_ambiente.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Проверка данных"> 
+<mapref href="./mpview2.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Настройка отчета"> 
+<topicref navtitle="Стандартные отчеты"> 
+<topicref  href="padrao_de_operacao_configuracao_de_relatorio.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_pastas.dita"> 
+<topicref  href="padrao_de_operacao_ordem.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_impressao.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_dicionario.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_filtro.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_opcionais.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_personalizar.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Индивидуально настраиваемые отчеты"> 
+<topicref  href="padrao_de_operacao_configuracao_relatorio_personalizado.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_configurando_parametros_personalizados.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_grupos_de_emails.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Использование электронной таблицы Excel"> 
+<topicref  href="padrao_de_operacao_integracao_excel.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_restricoes_de_uso.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_funcoes_protheus.dita"> 
+</topicref>
+</topicref>
+<topicref  href="padrao_de_operacao_janela_de_processamento.dita"> 
+<topicref  href="padrao_de_operacao_grid_requisitos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Инструменты"> 
+<topicref  href="padrao_de_operacao_get_apply.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_spool_de_mdi.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_protheus_search.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Microsiga Protheus с визуальной доступностью"> 
+<topicref navtitle="Конфигурация"> 
+<topicref  href="padrao_de_operacao_configuracoes_acv.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_inst_config_menu.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_iniciando_o_sigagacv.dita"> 
+</topicref>
+</topicref>
+<topicref  href="padrao_de_operacao_acesso_visual.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_teclas_atalho.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_recursos.dita"> 
+</topicref>
+<topicref  href="padrao_de_operacao_rotinas_cadastro.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Сенсорный экран Smartclient"> 
+<topicref  href="padrao_de_operacao_conf_touch.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в содержание)"> 
+</topicref>
+</map>

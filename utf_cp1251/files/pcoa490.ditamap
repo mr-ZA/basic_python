@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Ведомость планирования</title>
+<topicref  href="pcoa490_planilha_planejamento.dita"> 
+<topicref  href="pcoa490_planilha_de_planejamento.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento.dita"> 
+<topicref  href="pcoa490_planejamento_receita_planilha.dita"> 
+<topicref  href="pcoa490_planejamento_receita_adicionar.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento_receita_gera_custos.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento_receita_exclui_custo.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento_receita_reajustar.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento_receita_reajustar_custo.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita.dita"> 
+<topicref  href="pcoa490_produto_planj_receita_visualiza.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_altera.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_exclui.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_gera.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_exclui_receita.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_gera_relacionada.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_exclui_relacionada.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_mov_relacionado.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_exclui_relacionado.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_gera_custo_relac.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_exclui_custro_relac.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_reajuste_receita.dita"> 
+</topicref>
+<topicref  href="pcoa490_produto_planj_receita_reajusta_custo.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_prod_relac_planejamento_de_receitas.dita"> 
+<topicref  href="pcoa490_prod_relac_planej_visualiza.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_gera.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_exclui.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_gera_custo_relacionado.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_exclui_custo_relacionado.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_reajusta_receita.dita"> 
+</topicref>
+<topicref  href="pcoa490_prod_relac_planej_reajusta_custo.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="pcoa490_planejamento_de_despesas.dita"> 
+<topicref  href="pcoa490_plan_desp_planilha.dita"> 
+<topicref  href="pcoa490_adicionar_tipo_de_despesa.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_tipo_despesa_planejamento.dita"> 
+<topicref  href="pcoa490_tipo_despesa_visualizacao_da_distribuicao.dita"> 
+</topicref>
+<topicref  href="pcoa490_tipo_despesa_excluir_tipo_de_despesa.dita"> 
+</topicref>
+<topicref  href="pcoa490_tipo_despesa_gerar_despesas_indiretas.dita"> 
+</topicref>
+<topicref  href="pcoa490_tipo_despesa_excluir_indiretas_despesas.dita"> 
+</topicref>
+<topicref  href="pcoa490_tipo_despesa_reajustar_valor_despesas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="pcoa490_planejamento_de_movimentos_nao.dita"> 
+<topicref  href="pcoa490_planejamento_nao_operacional_planilha.dita"> 
+<topicref  href="pcoa490_nao_operacional_adicao.dita"> 
+</topicref>
+<topicref  href="pcoa490_nao_operacional_reajuste.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_nao_oper_planej.dita"> 
+<topicref  href="pcoa490_nao_operac_visualiza.dita"> 
+</topicref>
+<topicref  href="pcoa490_nao_operac_exclui.dita"> 
+</topicref>
+<topicref  href="pcoa490_nao_operac_gera.dita"> 
+</topicref>
+<topicref  href="pcoa490_nao_operac_exclui_distribuicao.dita"> 
+</topicref>
+<topicref  href="pcoa490_nao_operac_reajusta.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="pcoa490_planejamento_folha.dita"> 
+<topicref navtitle="Ведомость планирования"> 
+<topicref  href="pcoa490_planejamento_adicao.dita"> 
+</topicref>
+<topicref  href="pcoa490_planejamento_reajuste.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo.dita"> 
+<topicref  href="pcoa490_planej_centro_custo_inclui.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_exclui_c_custo.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_exclui_funcao.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_gera_grupo.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_exclui_grupo.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_gera_verbas.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_exclui_verba.dita"> 
+</topicref>
+<topicref  href="pcoa490_planej_centro_custo_reajusta_valor.dita"> 
+</topicref>
+</topicref>
+<topicref  href="pcoa490_planej_funcao.dita"> 
+<topicref  href="pcoa490_funcao_visualiza.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_altera.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_exclui_funcao.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_gera_grp_salario.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_exclusao_grupo_verba.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_gera_verba.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_exclui_verba.dita"> 
+</topicref>
+<topicref  href="pcoa490_funcao_reajusta.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa490_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

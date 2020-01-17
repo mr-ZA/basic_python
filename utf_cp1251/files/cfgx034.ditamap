@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Файлы</title>
+<topicref navtitle="Файлы"> 
+<topicref navtitle="Словарь данных"> 
+<topicref  href="libraries/cfgx034/cfgx034_dicionario_de_dados.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pesquisar_arquivos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_agendar_atualizacao.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_visualizar_arquivos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_editar_arquivos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_atualizar_base_dados.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_visualizando_o_log.dita"> 
+</topicref>
+<topicref navtitle="Поля"> 
+<topicref  href="libraries/cfgx034/cfgx034_campos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_campo.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_informacao.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_opcoes.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_validacoes.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_uso.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_pasta_modulos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_ordenar_campos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_campos_reservados.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Папки"> 
+<topicref  href="libraries/cfgx034/cfgx034_pastas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_ordenar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_mover.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_preview.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Индексы"> 
+<topicref  href="libraries/cfgx034/cfgx034_indices.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_editar_indices.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_excluir_indices.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Группа полей"> 
+<topicref  href="libraries/cfgx034/cfgx034_grupo_de_campos.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx034/cfgx034_editar_grupo.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Стандартный запрос"> 
+<topicref  href="libraries/cfgx034/cfgx034_consulta_padrao_wb.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</topicref>
+</map>

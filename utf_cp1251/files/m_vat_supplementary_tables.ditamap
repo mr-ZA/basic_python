@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+    <map xml:lang="ru">
+    <title>Вспомогательные таблицы НДС</title> 
+        <topicref>
+        <topicmeta>
+            <navtitle>Вспомогательные таблицы НДС</navtitle>   
+        </topicmeta>
+        <topicref href="master_data/ru09d05/c_ru09d05.dita"/>
+        <topicref navtitle="Технические данные">
+                <topicref href="master_data/ru09d05/r_ru09d05_tables.dita"/>                
+        </topicref>  
+        </topicref>
+    </map>

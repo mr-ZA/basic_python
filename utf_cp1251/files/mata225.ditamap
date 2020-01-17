@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Балансы запасов</title>
+<topicref navtitle="Балансы запасов"> 
+<topicref  href="mata225_saldos_em_estoque.dita"> 
+</topicref>
+<topicref  href="mata225_principais_campos_e_controles.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata225_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

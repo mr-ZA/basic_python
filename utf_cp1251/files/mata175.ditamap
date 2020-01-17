@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Списания на КК</title>
+<topicref navtitle="Списания на КК"> 
+<topicref  href="mata175_baixas_do_cq.dita"> 
+</topicref>
+<topicref  href="mata175_estorno_cq.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata175_parametros.dita"> 
+</topicref>
+<topicref  href="mata175_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

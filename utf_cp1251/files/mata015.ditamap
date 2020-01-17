@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Адреса</title>
+<topicref navtitle="Адреса"> 
+<topicref  href="mata015_enderecos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata015_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata015_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

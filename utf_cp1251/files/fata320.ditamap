@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Торговые представители</title>
+<topicref navtitle="Торговые представители"> 
+<topicref  href="fata320_representantes.dita"> 
+</topicref>
+<topicref  href="fata320_workarea.dita"> 
+<topicref  href="fata320_botao_agenda.dita"> 
+</topicref>
+<topicref  href="fata320_calendario.dita"> 
+</topicref>
+<topicref  href="fata320_botao_pipeline.dita"> 
+</topicref>
+<topicref  href="fata320_botao_tarefa.dita"> 
+</topicref>
+</topicref>
+<topicref  href="fata320_programacao_de_visita.dita"> 
+</topicref>
+<topicref  href="fata320_exclusao_de_visitas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata320_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

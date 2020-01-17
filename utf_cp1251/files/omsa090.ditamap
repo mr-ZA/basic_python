@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Точки по секторам</title>
+<topicref navtitle="Точки по секторам"> 
+<topicref  href="omsa090_pontos_por_setor.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa090_tabelas.dita"> 
+</topicref>
+<topicref  href="omsa090_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Группы утверждения</title>
+<topicref navtitle="Группы утверждения"> 
+<topicref  href="mata114_grupos_de_aprovacao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata114_parametros.dita"> 
+</topicref>
+<topicref  href="mata114_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Контроль резервов</title>
+<topicref navtitle="Контроль резервов"> 
+<topicref  href="atfa490_controle_provisao.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="atfa490_excluir.dita"> 
+</topicref>
+<topicref  href="atfa490_copiar.dita"> 
+</topicref>
+<topicref  href="atfa490_atualizar.dita"> 
+</topicref>
+<topicref  href="atfa490_contabilizar.dita"> 
+</topicref>
+<topicref  href="atfa490_estorno_contabil.dita"> 
+</topicref>
+<topicref  href="atfa490_revisar.dita"> 
+</topicref>
+<topicref  href="atfa490_bloqueio_desbloq.dita"> 
+</topicref>
+<topicref  href="atfa490_realizar.dita"> 
+</topicref>
+<topicref  href="atfa490_efetivar_rlz.dita"> 
+</topicref>
+<topicref  href="atfa490_estorno_efet_rlz.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa490_tabelas.dita"> 
+</topicref>
+<topicref  href="atfa490_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

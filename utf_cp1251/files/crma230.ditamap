@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Модель эл. почты</title>
+<topicref navtitle="Модель эл. почты"> 
+<topicref  href="crma230_modelo_de_email.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma230_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

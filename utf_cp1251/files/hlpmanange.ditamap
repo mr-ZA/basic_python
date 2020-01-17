@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Обслуживание справки</title>
+<topicref navtitle="Обслуживание справки"> 
+<topicref  href="modules/sigacfg/hlpmanange_manutencao_de_help.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/hlpmanange_listar_help.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/hlpmanange_excluir_help.dita"> 
+</topicref>
+</topicref>
+</map>

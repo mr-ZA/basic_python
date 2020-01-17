@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Модель обслуживания клиентов</title>
+<topicref  href="libraries/cfgx503b/cfgx503b_modelo_atendimento.dita"> 
+<topicref  href="libraries/cfgx503b/cfgx503b_incluir.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx503b/cfgx503b_alterar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx503b/cfgx503b_apagar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx503b/cfgx503b_pesquisar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx503b/cfgx503b_visualizar.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="libraries/cfgx503b/cfgx503b_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

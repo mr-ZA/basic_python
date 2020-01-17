@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Управление производством</title>
+<topicref navtitle="Управление производством"> 
+<topicref  href="sfcc580_gerencial_producao.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="sfcc580_selecao.dita"> 
+</topicref>
+<topicref  href="sfcc580_campos.dita"> 
+</topicref>
+<topicref  href="sfcc580_parametros.dita"> 
+</topicref>
+<topicref  href="sfcc580_dimensao.dita"> 
+</topicref>
+</topicref>
+<topicref  href="sfcc580_funcionalidade.dita"> 
+<topicref  href="sfcc580_metricas_ref_retr.dita"> 
+</topicref>
+<topicref  href="sfcc580_metricas_parada.dita"> 
+</topicref>
+<topicref  href="sfcc580_metricas_apontamentos_prod.dita"> 
+</topicref>
+<topicref  href="sfcc580_metricas_indicador.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="sfcc580_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

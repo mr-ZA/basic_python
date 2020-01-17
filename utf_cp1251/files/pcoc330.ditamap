@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Балансовый отчет</title>
+<topicref navtitle="Балансовый отчет"> 
+<topicref  href="pcoc330_demontrativo_saldos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoc330_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

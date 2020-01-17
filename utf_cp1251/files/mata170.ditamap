@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Запрос для точки заказа</title>
+<topicref navtitle="Запрос для точки заказа"> 
+<topicref  href="mata170_solicitacao_por_ponto_de_pedido.dita"> 
+</topicref>
+<topicref  href="mata170_geracao_da_solic_com_aglutinacao_de_produtos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata170_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

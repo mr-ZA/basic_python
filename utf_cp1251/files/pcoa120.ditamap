@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проверки</title>
+<topicref navtitle="Проверки"> 
+<topicref  href="pcoa120_revisoes.dita"> 
+</topicref>
+<topicref  href="pcoa120_versoes.dita"> 
+</topicref>
+<topicref  href="pcoa120_lancamentos_da_revisao_orcamentaria.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa120_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

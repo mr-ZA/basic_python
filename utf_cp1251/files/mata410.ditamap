@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Заказ на продажу</title>
+<topicref navtitle="Заказ на продажу"> 
+<topicref  href="mata410_pedido_venda_loc.dita"> 
+</topicref>
+<topicref navtitle="Особые заказы на продажу"> 
+<topicref  href="mata410_pedidos_de_vendas_especificos.dita"> 
+</topicref>
+<topicref  href="mata410_pedido_para_venda_futura.dita"> 
+</topicref>
+<topicref  href="mata410_consignacao_mercantil_localizados.dita"> 
+</topicref>
+<topicref  href="mata410_pedido_de_venda_com_grade.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Команда «Штрихкод»"> 
+<topicref  href="mata410_codigo_barras.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Команда «Копировать»"> 
+<topicref  href="mata410_copiando_pedidos_venda.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Команда «Возврат»"> 
+<topicref  href="mata410_opcao_retorno.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Команда «Просмотр»"> 
+<topicref  href="mata410_opcao_visualizar.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Добавление заказа на продажу"> 
+<topicref  href="mata410_incluindo_pedido_venda.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata410_incluindo_pedido_venda_tabelas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata410_botoes_barra_ferramentas.dita"> 
+</topicref>
+<topicref  href="mata410_formas_pagamento.dita"> 
+</topicref>
+<topicref  href="mata410_planilha_financeira.dita"> 
+</topicref>
+<topicref  href="mata410_posicao_clientes.dita"> 
+</topicref>
+<topicref  href="mata410_botao_formacao_precos.dita"> 
+</topicref>
+<topicref  href="mata410_botao_estrutura_de_produto.dita"> 
+</topicref>
+<topicref  href="mata410_botao_pesquisar.dita"> 
+</topicref>
+<topicref  href="mata410_botao_beneficiamento.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Удаление заказов на продажу"> 
+<topicref  href="mata410_exclusao_pedidos_venda.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Заказ на продажу с сеткой продуктов"> 
+<topicref  href="mata410_pedido_venda_grade_produtos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Основные поля и средства контроля"> 
+<topicref  href="mata410_principais_campos_e_controles.dita"> 
+</topicref>
+<topicref  href="mata410_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref navtitle="Поля заголовка"> 
+<topicref  href="mata410_numero_do_pedido.dita"> 
+</topicref>
+<topicref  href="mata410_cliente_entrega.dita"> 
+</topicref>
+<topicref  href="mata410_transportadora.dita"> 
+</topicref>
+<topicref  href="mata410_condicao_de_pagamento.dita"> 
+</topicref>
+<topicref  href="mata410_tabela.dita"> 
+</topicref>
+<topicref  href="mata410_desconto_1_a_5.dita"> 
+</topicref>
+<topicref  href="mata410_parcela_1_a_4_venc_1_a_4.dita"> 
+</topicref>
+<topicref  href="mata410_tipo_de_frete.dita"> 
+</topicref>
+<topicref  href="mata410_frete.dita"> 
+</topicref>
+<topicref  href="mata410_volume_1_a_4.dita"> 
+</topicref>
+<topicref  href="mata410_indenizacao.dita"> 
+</topicref>
+<topicref  href="mata410_acrescimo_financeiro.dita"> 
+</topicref>
+<topicref  href="mata410_carga.dita"> 
+</topicref>
+<topicref  href="mata410_distancia_de_entrega.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Поля позиции"> 
+<topicref  href="mata410_quantidade.dita"> 
+</topicref>
+<topicref  href="mata410_preco_unitario.dita"> 
+</topicref>
+<topicref  href="mata410_quantidade_liberada.dita"> 
+</topicref>
+<topicref  href="mata410_quantidade_liberada_2a_un_medida.dita"> 
+</topicref>
+<topicref  href="mata410_segunda_um.dita"> 
+</topicref>
+<topicref  href="mata410_tp_operacao.dita"> 
+</topicref>
+<topicref  href="mata410_tipo_de_saida.dita"> 
+</topicref>
+<topicref  href="mata410_qtd_ven_2_um.dita"> 
+</topicref>
+<topicref  href="mata410_desconto.dita"> 
+</topicref>
+<topicref  href="mata410_entrega.dita"> 
+</topicref>
+<topicref  href="mata410_comissao_1_a_5_item.dita"> 
+</topicref>
+<topicref  href="mata410_preco_de_lista.dita"> 
+</topicref>
+<topicref  href="mata410_nf_original.dita"> 
+</topicref>
+<topicref  href="mata410_identificador_poder_3.dita"> 
+</topicref>
+<topicref  href="mata410_bloqueio.dita"> 
+</topicref>
+<topicref  href="mata410_grade.dita"> 
+</topicref>
+<topicref  href="mata410_lote.dita"> 
+</topicref>
+<topicref  href="mata410_opcional_pv.dita"> 
+</topicref>
+<topicref  href="mata410_endereco.dita"> 
+</topicref>
+<topicref  href="mata410_numero_de_serie.dita"> 
+</topicref>
+<topicref  href="mata410_numero_op.dita"> 
+</topicref>
+<topicref  href="mata410_sit_tributaria.dita"> 
+</topicref>
+<topicref  href="mata410_numero_contrato.dita"> 
+</topicref>
+<topicref  href="mata410_tipo_op.dita"> 
+</topicref>
+<topicref  href="mata410_revisao_estrutura.dita"> 
+</topicref>
+<topicref  href="mata410_servico.dita"> 
+</topicref>
+<topicref  href="mata410_endereco_destino.dita"> 
+</topicref>
+<topicref  href="mata410_estrutura_fisica.dita"> 
+</topicref>
+<topicref  href="mata410_contrato.dita"> 
+</topicref>
+<topicref  href="mata410_codigo_do_projeto.dita"> 
+</topicref>
+<topicref  href="mata410_potencia.dita"> 
+</topicref>
+<topicref  href="mata410_data_contabilizacao.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Принцип «Мин. сумма для продажи продукта»"> 
+<topicref  href="mata410_conceito_quant_minima.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Принцип «Цена за партию»"> 
+<topicref  href="mata410_conceito_preco_por_lote.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Контроль качества"> 
+<topicref  href="mata410_integracao_qualidade.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata410_anotacoes.dita"> 
+</topicref>
+<topicref  href="mata410_conexoes.dita"> 
+</topicref>
+<topicref  href="mata410_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Возврат товара, переданного в поставку"> 
+<topicref  href="mata410_devolucao_mercadoria_consignacao.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Подсказка"> 
+<topicref  href="mata410_legenda.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Папка «Торговые векселя»"> 
+<topicref  href="mata410_pasta_duplicatas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Папка «Счета-фактуры»"> 
+<topicref  href="mata410_pasta_nota_fiscal.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Корректировка цены"> 
+<topicref  href="mata410_reajuste_preco.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Прием товаров"> 
+<topicref  href="mata410_recebimento_mercadoria.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Поставка товара по консигнации"> 
+<topicref  href="mata410_remessa_mercadoria_consignacao.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Тип выпуска"> 
+<topicref  href="mata410_tp_liberacao.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Передача прав собственности грузоотправителю"> 
+<topicref  href="mata410_transferencia_propriedade.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Продажи"> 
+<topicref  href="mata410_venda.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Торговый представитель 1–5/Комиссия 1–5"> 
+<topicref  href="mata410_vendedor_1_a_5.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata410_parametros.dita"> 
+</topicref>
+<topicref  href="mata410_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

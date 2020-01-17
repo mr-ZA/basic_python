@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Производство</title>
+<topicref navtitle="Производство"> 
+<topicref  href="mata250_producao.dita"> 
+</topicref>
+<topicref navtitle="Производственная аннотация"> 
+<topicref  href="mata250_apontamento_de_producao.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="mata250_campo_tp_movimento.dita"> 
+</topicref>
+<topicref  href="mata250_campo_produto.dita"> 
+</topicref>
+<topicref  href="mata250_campo_quantidade.dita"> 
+</topicref>
+<topicref  href="mata250_campo_ordem_de_producao.dita"> 
+</topicref>
+<topicref  href="mata250_campo_armazem.dita"> 
+</topicref>
+<topicref  href="mata250_campo_parc_total.dita"> 
+</topicref>
+<topicref  href="mata250_perda.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="mata250_opcao_estornar.dita"> 
+</topicref>
+<topicref  href="mata250_opcao_encerrar.dita"> 
+</topicref>
+<topicref  href="mata250_opcao_assoc_lote.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata250_tabelas.dita"> 
+</topicref>
+<topicref  href="mata250_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

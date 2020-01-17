@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Настройка журнала</title>
+<topicref navtitle="Настройка журнала"> 
+<topicref  href="libraries/cfgx052/cfgx052_configuracao_de_log.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx052/cfgx052_pesquisar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx052/cfgx052_incluir.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx052/cfgx052_visualizar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx052/cfgx052_alterar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx052/cfgx052_excluir.dita"> 
+</topicref>
+</topicref>
+</map>

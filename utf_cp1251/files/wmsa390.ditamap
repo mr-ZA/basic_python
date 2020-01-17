@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Монитор объема</title>
+<topicref navtitle="Монитор объема"> 
+<topicref  href="wmsa390_monitor_volumes.dita"> 
+</topicref>
+<topicref  href="wmsa390_montagem_de_volume.dita"> 
+</topicref>
+<topicref  href="wmsa390_est_emb.dita"> 
+</topicref>
+<topicref  href="wmsa390_est_tot_emb.dita"> 
+</topicref>
+<topicref  href="wmsa390_excl_prod_emb.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="wmsa390_Parametros.dita"> 
+</topicref>
+<topicref  href="wmsa390_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

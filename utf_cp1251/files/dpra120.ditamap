@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Вес критерия продукта</title>
+<topicref navtitle="Вес критерия продукта"> 
+<topicref  href="dpra120_peso_criterio_produto.dita"> 
+</topicref>
+<topicref  href="dpra120_principais_campos_controles.dita"> 
+<topicref  href="dpra120_prod_desenv.dita"> 
+</topicref>
+<topicref  href="dpra120_criterio.dita"> 
+</topicref>
+<topicref  href="dpra120_peso_criteri.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dpra120_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

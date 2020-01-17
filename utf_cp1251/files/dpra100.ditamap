@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Разработанный продукт</title>
+<topicref navtitle="Разработанный продукт"> 
+<topicref  href="dpra100_produto_desenvolvido.dita"> 
+</topicref>
+<topicref  href="dpra100_acoes_relacionadas.dita"> 
+</topicref>
+<topicref  href="dpra100_principais_campos_controles.dita"> 
+<topicref  href="dpra100_prod_desenv.dita"> 
+</topicref>
+<topicref  href="dpra100_prod_destino.dita"> 
+</topicref>
+<topicref  href="dpra100_prototipo.dita"> 
+</topicref>
+<topicref  href="dpra100_estrategia.dita"> 
+</topicref>
+<topicref navtitle="Вес критерия"> 
+<topicref  href="dpra100_criterio.dita"> 
+</topicref>
+<topicref  href="dpra100_peso_criterio.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Конкурент"> 
+<topicref  href="dpra100_desc_produto.dita"> 
+</topicref>
+<topicref  href="dpra100_preco_concorr.dita"> 
+</topicref>
+</topicref>
+<topicref  href="dpra100_pasta_ficha_tecnica.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dpra100_tabelas.dita"> 
+</topicref>
+<topicref  href="dpra100_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

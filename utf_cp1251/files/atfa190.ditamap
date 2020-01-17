@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Менеджеры х активы</title>
+<topicref navtitle="Менеджеры х активы"> 
+<topicref  href="atfa190_responsavel_bens.dita"> 
+</topicref>
+<topicref  href="atfa190_opcoes.dita"> 
+</topicref>
+<topicref  href="atfa190_opcao_transferir.dita"> 
+</topicref>
+<topicref  href="atfa190_ocpao_limpa_historico.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa190_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

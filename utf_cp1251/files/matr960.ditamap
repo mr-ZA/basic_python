@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Сетка продуктов</title>
+<topicref navtitle="Сетка продуктов"> 
+<topicref  href="matr960_grades_de_produtos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="matr960_tabelas_2.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

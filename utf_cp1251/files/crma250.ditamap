@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Быстрые кампании</title>
+<topicref navtitle="Быстрые кампании"> 
+<topicref  href="crma250_campanhas_rapidas.dita"> 
+</topicref>
+<topicref  href="crma250_visoes_e_graficos.dita"> 
+</topicref>
+<topicref  href="crma250_atividades.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma250_anotacoes.dita"> 
+</topicref>
+<topicref  href="crma250_conexoes.dita"> 
+</topicref>
+<topicref  href="crma250_controle_de_acesso.dita"> 
+</topicref>
+<topicref  href="crma250_membros_da_campanha.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma250_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

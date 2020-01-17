@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Договоры</title>
+<topicref navtitle="Договоры"> 
+<topicref  href="teca250_contratos.dita"> 
+</topicref>
+<topicref  href="teca250_gera_pedidos_venda.dita"> 
+</topicref>
+<topicref  href="teca250_reajuste.dita"> 
+</topicref>
+<topicref navtitle="Модуль SIGATMS"> 
+<topicref  href="teca250_exemplo_contrato.dita"> 
+</topicref>
+<topicref  href="teca250_botao_tms_config_comp.dita"> 
+</topicref>
+<topicref  href="teca250_botao_tms_perfil_cliente.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="teca250_parametros.dita"> 
+</topicref>
+<topicref  href="teca250_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

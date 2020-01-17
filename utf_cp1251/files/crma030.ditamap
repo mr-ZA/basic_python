@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Журнал переноса счетов</title>
+<topicref navtitle="Журнал переноса счетов"> 
+<topicref  href="crma030_log_transf_contas.dita"> 
+</topicref>
+<topicref  href="crma030_controle_de_acesso.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma030_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

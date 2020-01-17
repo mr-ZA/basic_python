@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Журнал</title>
+<topicref navtitle="Журнал"> 
+<topicref  href="ctbr110_diario_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="ctbr110_diario_geral.dita"> 
+</topicref>
+</topicref>
+</map>

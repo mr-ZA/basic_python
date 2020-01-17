@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>История индексов</title>
+<topicref navtitle="История индексов"> 
+<topicref  href="cnta080_historico_de_indices.dita"> 
+</topicref>
+<topicref  href="cnta080_opcao_projetar.dita"> 
+</topicref>
+<topicref  href="cnta080_regressao_linear.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta080_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

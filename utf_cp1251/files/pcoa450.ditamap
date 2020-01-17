@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Внеоперационные транзакции</title>
+<topicref navtitle="Внеоперационные транзакции"> 
+<topicref  href="pcoa450_movimento_nao_operacional.dita"> 
+</topicref>
+<topicref  href="pcoa450_formulas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa450_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

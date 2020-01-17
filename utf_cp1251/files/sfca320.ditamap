@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Импорт аннотаций</title>
+<topicref navtitle="Импорт аннотаций"> 
+<topicref  href="sfca320_importacao_apontamento.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="sfca320_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

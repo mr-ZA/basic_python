@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Продукты</title>
+<topicref navtitle="Продукты"> 
+<topicref  href="mata010_produtos.dita"> 
+</topicref>
+<topicref  href="mata010_filtros.dita"> 
+</topicref>
+<topicref  href="mata010_incluindo_um_produto.dita"> 
+</topicref>
+<topicref  href="mata010_opcao_copia.dita"> 
+</topicref>
+<topicref  href="mata010_facilitador_para_manutencao_ca.dita"> 
+</topicref>
+<topicref  href="mata010_opcao_alternativos.dita"> 
+</topicref>
+<topicref  href="mata010_alteracoes_produto.dita"> 
+</topicref>
+<topicref  href="mata010_acompanhamento_de_compras.dita"> 
+</topicref>
+<topicref  href="mata010_integ_pcp_dpr.dita"> 
+</topicref>
+<topicref  href="mata010_anotacoes.dita"> 
+</topicref>
+<topicref  href="mata010_conexoes.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="mata010_campo.dita"> 
+</topicref>
+<topicref  href="mata010_pasta_cadastrais.dita"> 
+</topicref>
+<topicref  href="mata010_pasta_mrp_produto.dita"> 
+</topicref>
+<topicref  href="mata010_pasta_cq.dita"> 
+</topicref>
+<topicref  href="mata010_pasta_atendimento.dita"> 
+</topicref>
+<topicref  href="mata010_pasta_outros.dita"> 
+</topicref>
+<topicref  href="mata010_estoque_de_seguranca.dita"> 
+</topicref>
+<topicref  href="mata010_campo_apropriacao.dita"> 
+</topicref>
+<topicref  href="mata010_rastreabilidade.dita"> 
+</topicref>
+<topicref  href="mata010_contrato_de_parceria.dita"> 
+</topicref>
+<topicref  href="mata010_call_center.dita"> 
+</topicref>
+<topicref  href="mata010_potencia_de_lote.dita"> 
+</topicref>
+<topicref  href="mata010_fantasma.dita"> 
+</topicref>
+<topicref  href="mata010_controle_de_alcada.dita"> 
+</topicref>
+<topicref  href="mata010_enderecamento.dita"> 
+</topicref>
+<topicref  href="mata010_unidades_de_medidas.dita"> 
+</topicref>
+<topicref  href="mata010_controle_de_qualidade.dita"> 
+</topicref>
+<topicref  href="mata010_tolerancia.dita"> 
+</topicref>
+<topicref  href="mata010_prazo_de_entrega.dita"> 
+</topicref>
+<topicref  href="mata010_campo_quantidade_por_embalagem.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Специальные принципы"> 
+<topicref  href="mata010_tms.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Определения"> 
+<topicref  href="mata010_lote.dita"> 
+</topicref>
+<topicref  href="mata010_codigo_regiao_destino.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata010_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata010_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

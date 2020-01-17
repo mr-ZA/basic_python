@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Товар x зона складирования</title>
+<topicref navtitle="Товар x зона складирования"> 
+<topicref  href="dlga250_produtos_x_zonas_de_armazenagem.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlga250_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

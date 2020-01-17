@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Моделирование</title>
+<topicref navtitle="Моделирование"> 
+<topicref  href="pcoa200_simulacoes.dita"> 
+</topicref>
+<topicref  href="pcoa200_para_comparar_simulacoes.dita"> 
+</topicref>
+<topicref  href="pcoa200_para_gravar_uma_simulacao_como_revisao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa200_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Монитор услуг</title>
+<topicref navtitle="Монитор услуг"> 
+<topicref  href="wmsa330_monitor_de_servico.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="wmsa330_tabelas.dita"> 
+</topicref>
+<topicref  href="wmsa330_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

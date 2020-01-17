@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Структуры</title>
+<topicref navtitle="Структуры"> 
+<topicref  href="mata200_estruturas.dita"> 
+</topicref>
+<topicref  href="mata200_comp_estruturas.dita"> 
+</topicref>
+<topicref  href="mata200_estruturas_quant_neg.dita"> 
+</topicref>
+<topicref  href="mata200_subst_componentes_estrutura.dita"> 
+</topicref>
+<topicref  href="mata200_indice_perda_estrutura.dita"> 
+</topicref>
+<topicref navtitle="Обработка при управлении охраной окружающей среды"> 
+<topicref  href="mata200_sga.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata200_principais_campos_controles.dita"> 
+<topicref  href="mata200_tipo_estrutura.dita"> 
+</topicref>
+<topicref  href="mata200_estrutura_similar.dita"> 
+</topicref>
+<topicref  href="mata200_quantidade_base.dita"> 
+</topicref>
+<topicref  href="mata200_sequencia.dita"> 
+</topicref>
+<topicref  href="mata200_quantidade.dita"> 
+</topicref>
+<topicref  href="mata200_indice_perda.dita"> 
+</topicref>
+<topicref  href="mata200_quantidade_fixa_variavel.dita"> 
+</topicref>
+<topicref  href="mata200_grupo_opcionais.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata200_parametros.dita"> 
+</topicref>
+<topicref  href="mata200_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

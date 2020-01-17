@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>CFS. Отчет о движении наличности в BIRT</title>
+<topicref navtitle="CFS. Отчет о движении наличности в BIRT"> 
+<topicref  href="ctbr817_flujo_de_caja_birt.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbr817_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

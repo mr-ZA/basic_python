@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Меню портала</title>
+<topicref navtitle="Меню портала"> 
+<topicref  href="fata240_menu_dos_portais.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata240_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

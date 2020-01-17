@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проверка плана счетов</title>
+<topicref navtitle="Проверка плана счетов"> 
+<topicref  href="ctba170_valida_plano_de_contas.dita"> 
+</topicref>
+<topicref  href="ctba170_conta_superior.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba170_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

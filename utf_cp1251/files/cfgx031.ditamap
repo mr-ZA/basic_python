@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>База данных</title>
+<topicref navtitle="База данных"> 
+<topicref  href="libraries/cfgx031/cfgx031_dic_dados.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_regra_dep_campo.dita"> 
+</topicref>
+<topicref navtitle="Словарь"> 
+<topicref navtitle="Файлы"> 
+<topicref  href="libraries/cfgx031/cfgx031_arquivos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="База данных"> 
+<topicref  href="libraries/cfgx031/cfgx031_base_de_dados.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_tabelas_genericas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_parametros.dita"> 
+</topicref>
+<topicref navtitle="Вопросы"> 
+<topicref  href="libraries/cfgx031/cfgx031_perguntas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_editar_perguntas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_visualizar_perguntas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_mover_perguntas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_preview_de_perguntas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_excluir_perguntas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Запросы"> 
+<topicref  href="libraries/cfgx031/cfgx031_consultas_padrao.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_consulta_especifica.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_consulta_usuarios.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_consulta_grupo_usuarios.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_editar_consultas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_visualizar_consultas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_excluir_consultas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_preview_de_consultas.dita"> 
+</topicref>
+<topicref navtitle="Индексы запросов"> 
+<topicref  href="libraries/cfgx031/cfgx031_indices_de_consulta.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_editar_indice.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_excluir_indice.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Столбцы"> 
+<topicref  href="libraries/cfgx031/cfgx031_colunas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_editar_colunas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_excluir_colunas.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Возврат запроса"> 
+<topicref  href="libraries/cfgx031/cfgx031_retorno_de_consulta.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_editar_retorno.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx031/cfgx031_excluir_retorno.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Триггеры"> 
+<topicref  href="libraries/cfgx031/cfgx031_gatilhos.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</topicref>
+</map>

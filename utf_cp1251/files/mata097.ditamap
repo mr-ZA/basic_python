@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Публикация документа</title>
+<topicref navtitle="Публикация документа"> 
+<topicref  href="mata097_liberacao_de_documento.dita"> 
+</topicref>
+<topicref  href="mata097_opcao_superior.dita"> 
+</topicref>
+<topicref  href="mata097_opcao_transfere_superior.dita"> 
+</topicref>
+<topicref  href="mata097_opcao_ausencia_temporaria.dita"> 
+</topicref>
+<topicref  href="mata097_opcao_legenda.dita"> 
+</topicref>
+<topicref  href="mata097_campo_cont_aprovacao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata097_tabelas_utilizadas.dita"> 
+</topicref>
+<topicref  href="mata097_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref  href="mata097_liberacao_de_itens_documento.dita"> 
+</topicref>
+</map>

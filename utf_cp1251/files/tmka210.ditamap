@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Рабочие должности</title>
+<topicref navtitle="Рабочие должности"> 
+<topicref  href="tmka210_cargos_de_contatos.dita"> 
+</topicref>
+<topicref  href="tmka210_ativacao_e_inativacao_dos_regi.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="tmka210_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

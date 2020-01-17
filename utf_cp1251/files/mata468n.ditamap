@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Создание исходящих документов</title>
+<topicref navtitle="Создание исходящих документов"> 
+<topicref  href="mata468n_faturamento_automatico.dita"> 
+</topicref>
+<topicref  href="mata468n_faturar_consignados.dita"> 
+</topicref>
+<topicref  href="mata468n_impressao_de_faturas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata468n_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata468n_tabelas_utilizadas.dita"> 
+</topicref>
+<topicref  href="mata468n_lancamentos_padronizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в содержание)"> 
+<topicref  href="mata468n_gera_por.dita"> 
+</topicref>
+</topicref>
+</map>

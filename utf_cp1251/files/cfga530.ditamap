@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Права</title>
+<topicref navtitle="Права"> 
+<topicref  href="master_data/cfga530/cfga530_privilegios.dita"> 
+</topicref>
+</topicref>
+</map>

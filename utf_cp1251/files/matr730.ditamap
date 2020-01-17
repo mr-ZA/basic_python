@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Счет-проформа</title>
+<topicref navtitle="Счет-проформа"> 
+<topicref  href="matr730_int.dita"> 
+</topicref>
+<topicref  href="matr730_pre_nota_modelo_2.dita"> 
+</topicref>
+</topicref>
+</map>

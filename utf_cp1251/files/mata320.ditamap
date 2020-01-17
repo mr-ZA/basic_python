@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Стоимость пополнения</title>
+<topicref navtitle="Стоимость пополнения"> 
+<topicref  href="mata320_custo_de_reposicao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata320_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

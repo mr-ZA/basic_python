@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Конкуренты</title>
+<topicref navtitle="Конкуренты"> 
+<topicref  href="crma490_concorrentes.dita"> 
+</topicref>
+<topicref  href="crma490_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref  href="crma490_atividades.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="crma490_anotacoes.dita"> 
+</topicref>
+<topicref  href="crma490_conexoes.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma490_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

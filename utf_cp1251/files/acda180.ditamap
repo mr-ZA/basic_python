@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Контроль задач</title>
+<topicref navtitle="Контроль задач"> 
+<topicref  href="acda180_controle_tarefa.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="acda180_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

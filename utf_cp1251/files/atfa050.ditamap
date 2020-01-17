@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Ежемесячный расчет</title>
+<topicref navtitle="Ежемесячный расчет"> 
+<topicref  href="atfa050_correcao_e_depreciacao.dita"> 
+</topicref>
+<topicref  href="atfa050_calculos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa050_parametros.dita"> 
+</topicref>
+<topicref  href="atfa050_tabelas_atualizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

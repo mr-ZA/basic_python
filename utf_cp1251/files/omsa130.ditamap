@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Срок обслуживания</title>
+<topicref navtitle="Срок обслуживания"> 
+<topicref  href="omsa130_int.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa130_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

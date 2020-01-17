@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Обмен</title>
+<topicref navtitle="Обмен"> 
+<topicref  href="ctba150_cambio.dita"> 
+</topicref>
+<topicref  href="ctba150_cambio_moedas.dita"> 
+</topicref>
+<topicref  href="ctba150_projecao_moedas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba150_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="ctba150_inflacao_projetada.dita"> 
+</topicref>
+<topicref  href="ctba150_regressao_linear.dita"> 
+</topicref>
+</topicref>
+</map>

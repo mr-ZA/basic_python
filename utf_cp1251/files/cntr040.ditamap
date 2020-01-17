@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Бюллетень измерения услуги</title>
+<topicref navtitle="Бюллетень измерения услуги"> 
+<topicref  href="cntr040_boletim_medicao_de_servicos.dita"> 
+</topicref>
+<topicref  href="cntr040_parametros_do_relatorio_1.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cntr040_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Формулы</title>
+<topicref navtitle="Формулы"> 
+<topicref  href="libraries/cfgx019/cfgx019_formulas.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx019/cfgx019_elaborando_formulas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="libraries/cfgx019/cfgx019_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

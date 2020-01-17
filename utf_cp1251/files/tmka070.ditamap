@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Контакты</title>
+<topicref navtitle="Контакты"> 
+<topicref  href="tmka070_contatos.dita"> 
+</topicref>
+<topicref  href="tmka070_vinculando_contato.dita"> 
+</topicref>
+<topicref  href="tmka070_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="tmka070_parametros.dita"> 
+</topicref>
+<topicref  href="tmka070_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

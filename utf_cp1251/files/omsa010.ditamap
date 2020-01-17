@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Прайс-лист</title>
+<topicref navtitle="Прайс-лист"> 
+<topicref  href="omsa010_int.dita"> 
+</topicref>
+<topicref  href="omsa010_pesquisa_de_produtos.dita"> 
+</topicref>
+<topicref  href="omsa010_copiando_a_tabela_de_precos.dita"> 
+</topicref>
+<topicref  href="omsa010_reajustando_tabela_de_precos.dita"> 
+</topicref>
+<topicref  href="omsa010_alterando_a_tabela_de_precos.dita"> 
+</topicref>
+<topicref  href="omsa010_gerar.dita"> 
+</topicref>
+<topicref  href="omsa010_grade.dita"> 
+</topicref>
+<topicref  href="omsa010_anotacoes.dita"> 
+</topicref>
+<topicref  href="omsa010_conexoes.dita"> 
+</topicref>
+<topicref  href="omsa010_principais_campos_controles.dita"> 
+<topicref  href="omsa010_hora_inicial_hora_final.dita"> 
+</topicref>
+<topicref  href="omsa010_grupo.dita"> 
+</topicref>
+<topicref  href="omsa010_condicao_de_pagamento.dita"> 
+</topicref>
+<topicref  href="omsa010_tipo_de_horario.dita"> 
+</topicref>
+<topicref  href="omsa010_preco_base.dita"> 
+</topicref>
+<topicref  href="omsa010_preco_de_venda.dita"> 
+</topicref>
+<topicref  href="omsa010_valor_desconto.dita"> 
+</topicref>
+<topicref  href="omsa010_fator.dita"> 
+</topicref>
+<topicref  href="omsa010_estado.dita"> 
+</topicref>
+<topicref  href="omsa010_faixa.dita"> 
+</topicref>
+<topicref  href="omsa010_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa010_tabelas.dita"> 
+</topicref>
+<topicref  href="omsa010_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

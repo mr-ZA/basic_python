@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Типы бизнеса</title>
+<topicref navtitle="Типы бизнеса"> 
+<topicref  href="crma560_tipos_de_negocio.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma560_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

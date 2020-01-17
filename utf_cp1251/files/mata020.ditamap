@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Поставщики</title>
+<topicref navtitle="Поставщики"> 
+<topicref  href="mata020_fornecedores.dita"> 
+</topicref>
+<topicref  href="mata020_acoes_relacionadas.dita"> 
+</topicref>
+<topicref  href="mata020_facilitador_para_manutencao_ca.dita"> 
+</topicref>
+<topicref navtitle="Цели в зависимости от среды"> 
+<topicref  href="mata020_gestao_agricola.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Папки"> 
+<topicref  href="mata020_pasta_cadastrais.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_admfin.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_fiscais.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_compras.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_tms.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata020_principais_campos_e_controles.dita"> 
+<topicref  href="mata020_campo_codigo.dita"> 
+</topicref>
+<topicref  href="mata020_campo_banco.dita"> 
+</topicref>
+<topicref  href="mata020_campo_natureza.dita"> 
+</topicref>
+<topicref  href="mata020_campo_condpgto.dita"> 
+</topicref>
+<topicref  href="mata020_campo_conta.dita"> 
+</topicref>
+<topicref  href="mata020_campo_grupo_de_tributacao.dita"> 
+</topicref>
+<topicref  href="mata020_campo_prioridade.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_tms_fildest.dita"> 
+</topicref>
+<topicref  href="mata020_pasta_tms_awb.dita"> 
+</topicref>
+<topicref  href="mata020_campo_cod_favorec.dita"> 
+</topicref>
+<topicref  href="mata020_campo_editora.dita"> 
+</topicref>
+<topicref  href="mata020_b2b.dita"> 
+</topicref>
+<topicref  href="mata020_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref  href="mata020_dv_agencia.dita"> 
+</topicref>
+<topicref  href="mata020_dv_conta.dita"> 
+</topicref>
+<topicref  href="mata020_tipo_conta.dita"> 
+</topicref>
+<topicref  href="mata020_tp_cta_for.dita"> 
+</topicref>
+<topicref  href="mata020_forma_pagto.dita"> 
+</topicref>
+<topicref  href="mata020_comprovante.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata020_parametros.dita"> 
+</topicref>
+<topicref  href="mata020_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Баланс из текущего в итоговый</title>
+<topicref navtitle="Баланс из текущего в итоговый"> 
+<topicref  href="mata350_saldo_atual_para_final.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata350_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

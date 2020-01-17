@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Макеты</title>
+<topicref navtitle="Макеты"> 
+
+<topicref  href="master_data/cfga600/cfga600_layouts.dita"> 
+    <topicref  href="master_data/cfga600/cfga600_pasta_campos.dita"> 
+</topicref>
+    <topicref  href="master_data/cfga600/cfga600_pasta_variaveis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+    <topicref  href="master_data/cfga600/cfga600_parametros.dita"> 
+</topicref>
+    <topicref  href="master_data/cfga600/cfga600_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

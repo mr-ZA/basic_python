@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Основной план производства</title>
+<topicref navtitle="Основной план производства"> 
+<topicref  href="mata750_plano_mestre_de_producao.dita"> 
+</topicref>
+<topicref  href="mata750_opcao_importar_csv.dita"> 
+</topicref>
+<topicref  href="mata750_grade.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata750_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>M-Messenger</title>
+<topicref navtitle="M-Messenger"> 
+<topicref  href="mata045_m-messenger.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata045_tabelas.dita"> 
+</topicref>
+<topicref  href="mata045_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

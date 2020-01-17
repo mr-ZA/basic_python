@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/RU06D05"/></title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/RU06D05"/></navtitle>   
+        </topicmeta>
+        <topicref href="master_data/ru06d05/c_ru06d05.dita"/>
+        <topicref href="master_data/ru06d05/t_ru06d05.dita"/>
+        
+            <topicref navtitle="Технические данные">
+                <topicref href="master_data/ru06d05/r_ru06d05_tables.dita"/>                
+            </topicref>
+    </topicref>
+    
+    </map>

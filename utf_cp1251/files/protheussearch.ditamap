@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Поиск Protheus</title>
+<topicref navtitle="Поиск Protheus"> 
+<topicref  href="shared_content/framework/psearch_int.dita"> 
+</topicref>
+<topicref navtitle="Инфраструктура"> 
+<topicref  href="shared_content/framework/psearch_pre_requisitos.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_arquitetura.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_roteiro.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_estrutura.dita"> 
+</topicref>
+<topicref navtitle="Установка поиска Protheus"> 
+<topicref  href="shared_content/framework/psearch_instalando.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_instalando_protheus_search_windows.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_instalando_protheus_search_lin.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Мастер конфигурации сервера"> 
+<topicref  href="shared_content/framework/psearch_configurando_o_protheus_search.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_secao_servidor_interne.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_servidor_de_licencas.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_protheus_search.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_saindo_do_assistente.dita"> 
+</topicref>
+</topicref>
+<topicref  href="shared_content/framework/psearch_iniciando_o_server_pro.dita"> 
+</topicref>
+<topicref navtitle="Среда конфигурации"> 
+<topicref  href="shared_content/framework/psearch_ambiente_configurador.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_rotina_base_de_dados.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_rotina_configuracao.dita"> 
+</topicref>
+<topicref  href="shared_content/framework/psearch_rotina_reindexacao.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Использование «Поиска Protheus»"> 
+<topicref  href="shared_content/framework/psearch_utilizando_o_protheus.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Удаление «Поиска Protheus»"> 
+<topicref  href="shared_content/framework/psearch_removendo.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

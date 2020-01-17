@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Валюты учета</title>
+<topicref navtitle="Валюты учета"> 
+<topicref  href="ctba140_moedas_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba140_principais_campos_e_controles.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba140_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

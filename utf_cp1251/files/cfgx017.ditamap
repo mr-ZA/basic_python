@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Параметры</title>
+<topicref navtitle="Параметры"> 
+<topicref  href="libraries/cfgx017/cfgx017_parametros.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx017/cfgx017_pesquisar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx017/cfgx017_incluir.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx017/cfgx017_alterar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx017/cfgx017_visualizar.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx017/cfgx017_excluir.dita"> 
+</topicref>
+</topicref>
+</map>

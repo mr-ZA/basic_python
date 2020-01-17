@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Параметризованные бухгалтерские проводки – 2</title>
+<topicref navtitle="Параметризованные бухгалтерские проводки – 2"> 
+<topicref  href="ctba103_lanca_cont_param.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba103_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba103_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

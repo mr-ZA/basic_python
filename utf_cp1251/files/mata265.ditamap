@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Адресация продуктов</title>
+<topicref navtitle="Адресация продуктов"> 
+<topicref  href="mata265_enderecar_produtos.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata265_gerar_numeros_de_serie.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata265_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata265_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

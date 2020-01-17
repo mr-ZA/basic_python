@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="ru">
+    <booktitle>
+        <mainbooktitle><ph keyref="module_name"/></mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Sobieski Bruno</author>
+        <bookrights>
+            <copyrfirst>
+                <year>2019</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>2019</year>
+            </copyrlast>
+            <bookowner>
+                <organization>Национальная платформа</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <keydef keys="module_name">
+            <!--Вид документа-->
+            <topicmeta>
+                <keywords>
+                    <keyword>Запасы и затраты</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <notices><!-- placeholder --></notices>
+        <booklists>
+            <toc/>
+        </booklists>
+        <preface><!-- placeholder --></preface>
+</frontmatter>
+<chapter  href="sigaest_estoque_custos.dita"> 
+</chapter>
+<chapter  href="sigaest_fluxo_operacional.dita"> 
+</chapter>
+<chapter  href="sigaest_cadastros_iniciais.dita"> 
+</chapter>
+<chapter  href="sigaest_custos.dita"> 
+</chapter>
+<chapter  href="sigaest_engenharia_de_produtos.dita"> 
+</chapter>
+<chapter  href="sigaest_movimentacoes.dita"> 
+</chapter>
+<chapter  href="sigaest_producao.dita"> 
+</chapter>
+<chapter  href="sigaest_fechamento_de_estoque.dita"> 
+</chapter>
+<chapter  href="sigaest_calendario_contabil.dita"> 
+</chapter>
+<chapter  href="sigaest_configuracao.dita"> 
+<topicref  href="sigaest_parametros.dita"> 
+<topicref  href="sigaest_a.dita"> 
+</topicref>
+<topicref  href="sigaest_b.dita"> 
+</topicref>
+<topicref  href="sigaest_c.dita"> 
+</topicref>
+<topicref  href="sigaest_d.dita"> 
+</topicref>
+<topicref  href="sigaest_e.dita"> 
+</topicref>
+<topicref  href="sigaest_f.dita"> 
+</topicref>
+<topicref  href="sigaest_g.dita"> 
+</topicref>
+<topicref  href="sigaest_i.dita"> 
+</topicref>
+<topicref  href="sigaest_j.dita"> 
+</topicref>
+<topicref  href="sigaest_l.dita"> 
+</topicref>
+<topicref  href="sigaest_m.dita"> 
+</topicref>
+<topicref  href="sigaest_n.dita"> 
+</topicref>
+<topicref  href="sigaest_p.dita"> 
+</topicref>
+<topicref  href="sigaest_q.dita"> 
+</topicref>
+<topicref  href="sigaest_r.dita"> 
+</topicref>
+<topicref  href="sigaest_s.dita"> 
+</topicref>
+<topicref  href="sigaest_t.dita"> 
+</topicref>
+<topicref  href="sigaest_u.dita"> 
+</topicref>
+<topicref  href="sigaest_v.dita"> 
+</topicref>
+<topicref  href="sigaest_w.dita"> 
+</topicref>
+<topicref  href="sigaest_z.dita"> 
+</topicref>
+</topicref>
+<topicref  href="sigaest_tabelas.dita"> 
+</topicref>
+</chapter>
+<chapter navtitle="Обновления"> 
+<topicref navtitle="Файлы"> 
+<topicref navtitle="Продукты"> 
+<mapref href="./mata010.ditamap" format="ditamap"/>
+<mapref href="./mata180.ditamap" format="ditamap"/>
+<mapref href="./mata035.ditamap" format="ditamap"/>
+<mapref href="./agra045.ditamap" format="ditamap"/>
+<mapref href="./mata019.ditamap" format="ditamap"/>
+<mapref href="./mata210.ditamap" format="ditamap"/>
+<mapref href="./qiea030.ditamap" format="ditamap"/>
+<mapref href="./mata060.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Движения"> 
+<topicref navtitle="Налог"> 
+<mapref href="./mata080.ditamap" format="ditamap"/>
+<mapref href="./mata089.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Адресация"> 
+<mapref href="./mata015.ditamap" format="ditamap"/>
+<mapref href="./mata025.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Финансы"> 
+<mapref href="./mata090.ditamap" format="ditamap"/>
+<mapref href="./mata360.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Учет"> 
+<mapref href="./ctba180.ditamap" format="ditamap"/>
+<mapref href="./ctba080.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Разработка"> 
+<topicref navtitle="Структуры"> 
+<mapref href="./mata201.ditamap" format="ditamap"/>
+<mapref href="./mata256.ditamap" format="ditamap"/>
+<mapref href="./mata202.ditamap" format="ditamap"/>
+<mapref href="./mata200.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Сетка продуктов"> 
+<mapref href="./mata550.ditamap" format="ditamap"/>
+<mapref href="./mata551.ditamap" format="ditamap"/>
+<mapref href="./mata552.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Смарт-код"> 
+<mapref href="./mata093.ditamap" format="ditamap"/>
+<mapref href="./mata098.ditamap" format="ditamap"/>
+<mapref href="./mata099.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Балансы"> 
+<mapref href="./mata225.ditamap" format="ditamap"/>
+<mapref href="./mata220.ditamap" format="ditamap"/>
+<mapref href="./mata223.ditamap" format="ditamap"/>
+<mapref href="./mata222.ditamap" format="ditamap"/>
+<mapref href="./mata228.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Движения"> 
+<topicref navtitle="Налог"> 
+<mapref href="./mata101n.ditamap" format="ditamap"/>
+<mapref href="./mata102n.ditamap" format="ditamap"/>
+<mapref href="./mata462tn.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Внутренние операции"> 
+<topicref navtitle="Склад"> 
+<mapref href="./mata105.ditamap" format="ditamap"/>
+<mapref href="./mata106.ditamap" format="ditamap"/>
+<mapref href="./mata185.ditamap" format="ditamap"/>
+<mapref href="./mata107.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Адресация"> 
+<mapref href="./mata265.ditamap" format="ditamap"/>
+<mapref href="./mata805.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Отслеживание"> 
+<mapref href="./mata390.ditamap" format="ditamap"/>
+<mapref href="./mata275.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Производство"> 
+<mapref href="./mata650.ditamap" format="ditamap"/>
+<mapref href="./mata651.ditamap" format="ditamap"/>
+<mapref href="./mata652.ditamap" format="ditamap"/>
+<mapref href="./mata653.ditamap" format="ditamap"/>
+<mapref href="./mata250.ditamap" format="ditamap"/>
+<mapref href="./mata685.ditamap" format="ditamap"/>
+<mapref href="./mata700.ditamap" format="ditamap"/>
+<mapref href="./mata380.ditamap" format="ditamap"/>
+<mapref href="./mata381.ditamap" format="ditamap"/>
+<mapref href="./mata720.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Выпуск"> 
+<mapref href="./mata094.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Обработка"> 
+<mapref href="./ctbanfe.ditamap" format="ditamap"/>
+<mapref href="./mata271.ditamap" format="ditamap"/>
+<mapref href="./mata712.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="ACD"> 
+<topicref navtitle="Запасы"> 
+<mapref href="./acda030.ditamap" format="ditamap"/>
+<mapref href="./acda035.ditamap" format="ditamap"/>
+<mapref href="./acda050.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+</chapter>
+<chapter navtitle="Запросы"> 
+<topicref navtitle="Файлы"> 
+<mapref href="./mpview.ditamap" format="ditamap"/>
+<mapref href="./finc030.ditamap" format="ditamap"/>
+<mapref href="./matc010.ditamap" format="ditamap"/>
+<mapref href="./matc030.ditamap" format="ditamap"/>
+<mapref href="./matc050.ditamap" format="ditamap"/>
+<mapref href="./matc100.ditamap" format="ditamap"/>
+<mapref href="./matc015.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Отслеживаемость"> 
+<mapref href="./matc040.ditamap" format="ditamap"/>
+<mapref href="./mata245.ditamap" format="ditamap"/>
+<mapref href="./matc060.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Адресация"> 
+<mapref href="./mata226.ditamap" format="ditamap"/>
+<mapref href="./matc070.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="ППМ"> 
+<mapref href="./matc710.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Отчеты"> 
+<topicref navtitle="Реестры"> 
+<mapref href="./matr010.ditamap" format="ditamap"/>
+<mapref href="./matr181.ditamap" format="ditamap"/>
+<mapref href="./matr036.ditamap" format="ditamap"/>
+<mapref href="./matr018.ditamap" format="ditamap"/>
+<mapref href="./matr081.ditamap" format="ditamap"/>
+<mapref href="./matr089.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Разработка"> 
+<mapref href="./matr960.ditamap" format="ditamap"/>
+<mapref href="./matr551.ditamap" format="ditamap"/>
+<mapref href="./matr225.ditamap" format="ditamap"/>
+<mapref href="./matr875.ditamap" format="ditamap"/>
+<mapref href="./matr331.ditamap" format="ditamap"/>
+<mapref href="./matr400.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Балансы"> 
+<mapref href="./matr220.ditamap" format="ditamap"/>
+<mapref href="./matr260.ditamap" format="ditamap"/>
+<mapref href="./matr240.ditamap" format="ditamap"/>
+<mapref href="./matr989.ditamap" format="ditamap"/>
+<mapref href="./matr440.ditamap" format="ditamap"/>
+<mapref href="./matr290.ditamap" format="ditamap"/>
+<mapref href="./matr390.ditamap" format="ditamap"/>
+<mapref href="./matr350.ditamap" format="ditamap"/>
+<mapref href="./matr870.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Адресация"> 
+<mapref href="./matr275.ditamap" format="ditamap"/>
+<mapref href="./matr245.ditamap" format="ditamap"/>
+<mapref href="./matr255.ditamap" format="ditamap"/>
+<mapref href="./matr265.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Отслеживаемость"> 
+<mapref href="./matr435.ditamap" format="ditamap"/>
+<mapref href="./matr425.ditamap" format="ditamap"/>
+<mapref href="./matr850.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="В распоряжении третьей стороны"> 
+<mapref href="./matr480.ditamap" format="ditamap"/>
+<mapref href="./matr485.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Запасы"> 
+<mapref href="./matr270.ditamap" format="ditamap"/>
+<mapref href="./matr280.ditamap" format="ditamap"/>
+<mapref href="./matr287.ditamap" format="ditamap"/>
+<mapref href="./matr285.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Анализ"> 
+<topicref navtitle="Движения"> 
+</topicref>
+<topicref navtitle="Картотека"> 
+<mapref href="./matr420.ditamap" format="ditamap"/>
+<mapref href="./matr901.ditamap" format="ditamap"/>
+<mapref href="./matr911.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Производство"> 
+<mapref href="./matr820.ditamap" format="ditamap"/>
+<mapref href="./matr230.ditamap" format="ditamap"/>
+<mapref href="./matr235.ditamap" format="ditamap"/>
+<mapref href="./matr860.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Стоимость"> 
+<topicref navtitle="FIFO (в порядке поступления) и LIFO (в порядке, обратном поступлению)"> 
+<mapref href="./matr902.ditamap" format="ditamap"/>
+<mapref href="./matr851.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="По частям"> 
+<mapref href="./matr978.ditamap" format="ditamap"/>
+<mapref href="./matr979.ditamap" format="ditamap"/>
+<mapref href="./matr242.ditamap" format="ditamap"/>
+<mapref href="./matr903.ditamap" format="ditamap"/>
+<mapref href="./matr311.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Общий"> 
+<mapref href="./matr080.ditamap" format="ditamap"/>
+<mapref href="./omsr010.ditamap" format="ditamap"/>
+<mapref href="./matr430.ditamap" format="ditamap"/>
+<mapref href="./matr410.ditamap" format="ditamap"/>
+<mapref href="./matr170.ditamap" format="ditamap"/>
+<mapref href="./matr175.ditamap" format="ditamap"/>
+<mapref href="./matr015.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Прочее"> 
+<topicref navtitle="Файлы"> 
+<mapref href="./mata590.ditamap" format="ditamap"/>
+<mapref href="./mataimp.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Расчеты"> 
+<mapref href="./mata290.ditamap" format="ditamap"/>
+<mapref href="./mata176.ditamap" format="ditamap"/>
+<mapref href="./mata320.ditamap" format="ditamap"/>
+<mapref href="./mata330.ditamap" format="ditamap"/>
+<mapref href="./mata331.ditamap" format="ditamap"/>
+<mapref href="./mata338.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Обработка"> 
+<mapref href="./mata300.ditamap" format="ditamap"/>
+<mapref href="./mata215.ditamap" format="ditamap"/>
+<mapref href="./mata216.ditamap" format="ditamap"/>
+<mapref href="./mata190.ditamap" format="ditamap"/>
+<mapref href="./mata340.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Закрытие периодов"> 
+<mapref href="./mata350.ditamap" format="ditamap"/>
+<mapref href="./mata280.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Рабочий поток"> 
+<mapref href="./wfc001.ditamap" format="ditamap"/>
+<mapref href="./wfc002.ditamap" format="ditamap"/>
+<mapref href="./wfataskrmt.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+</bookmap>

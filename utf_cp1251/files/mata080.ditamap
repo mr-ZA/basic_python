@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Типы операций поступлений и вывоза (TIO)</title>
+<topicref navtitle="Типы операций поступлений и вывоза (TIO)"> 
+<topicref  href="mata080_tipos_entrada_saida.dita"> 
+</topicref>
+<topicref  href="mata080_consignacao_industrial.dita"> 
+</topicref>
+<topicref  href="mata080_pasta_cadastrais_tes.dita"> 
+</topicref>
+<topicref  href="mata080_pasta_impostos_tes.dita"> 
+</topicref>
+<topicref  href="mata080_pasta_outros.dita"> 
+</topicref>
+<topicref navtitle="Настройка переменных налогов"> 
+<topicref  href="mata080_configuracao_de_impostos_variaveis.dita"> 
+</topicref>
+<topicref  href="mata080_exemplos_de_configuracao_de_tes.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata080_principais_campos_e_controles.dita"> 
+<topicref  href="mata080_facilitador_para_manutencao_ca.dita"> 
+</topicref>
+<topicref navtitle="Ответственное хранение третьей стороны"> 
+<topicref  href="mata080_campo_poder_de_terceiros.dita"> 
+</topicref>
+<topicref  href="mata080_campo_podterc_exemp1.dita"> 
+</topicref>
+<topicref  href="mata080_campo_podterc_exempl2.dita"> 
+</topicref>
+<topicref  href="mata080_campo_podterc_exempl3.dita"> 
+</topicref>
+<topicref  href="mata080_campo_podterc_exempl4.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata080_trans_filial.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Примеры операций с TIO"> 
+<topicref  href="mata080_operacao_1_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao_2_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao_7_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao_9_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao10_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao11_bra.dita"> 
+</topicref>
+<topicref  href="mata080_operacao12_bra.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata080_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata080_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata080_pasta_outros2.dita"> 
+</topicref>
+</topicref>
+</map>

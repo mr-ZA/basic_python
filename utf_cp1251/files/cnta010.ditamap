@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Типы правки договора</title>
+<topicref navtitle="Типы правки договора"> 
+<topicref  href="cnta010_tipos_revisao_contrato.dita"> 
+</topicref>
+<topicref  href="cnta010_aditivo.dita"> 
+</topicref>
+<topicref  href="cnta010_reajustes.dita"> 
+</topicref>
+<topicref  href="cnta010_realinhamento.dita"> 
+</topicref>
+<topicref  href="cnta010_readequacao.dita"> 
+</topicref>
+<topicref  href="cnta010_paralisacao_e_reinicio.dita"> 
+</topicref>
+<topicref  href="cnta010_alteracao_de_clausulas.dita"> 
+</topicref>
+<topicref  href="cnta010_contabil.dita"> 
+</topicref>
+<topicref  href="cnta010_9_indice.dita"> 
+</topicref>
+<topicref  href="cnta010_10_fornecedor.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta010_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

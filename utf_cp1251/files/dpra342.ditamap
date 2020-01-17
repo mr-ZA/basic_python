@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Выпуск версии продукта</title>
+<topicref navtitle="Выпуск версии продукта"> 
+<topicref  href="dpra342_liberacao_versao_produto.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dpra342_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

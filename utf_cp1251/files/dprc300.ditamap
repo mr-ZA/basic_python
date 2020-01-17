@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>История утверждений/выпуска</title>
+<topicref navtitle="История утверждений/выпуска"> 
+<topicref  href="dprc300_historico_aprovacao_liberacao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dprc300_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

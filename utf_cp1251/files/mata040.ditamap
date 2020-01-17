@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Торговые представители</title>
+<topicref navtitle="Торговые представители"> 
+<topicref  href="mata040_vendedores.dita"> 
+</topicref>
+<topicref navtitle="Вкладки"> 
+<topicref  href="mata040_pasta_vendas.dita"> 
+</topicref>
+<topicref  href="mata040_pasta_handheld.dita"> 
+</topicref>
+<topicref  href="mata040_pastas_outros.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata040_principais_campos_controles.dita"> 
+<topicref  href="mata040_cod_usuario.dita"> 
+</topicref>
+<topicref  href="mata040_fornecedor.dita"> 
+</topicref>
+<topicref  href="mata040_cta_pag_comi.dita"> 
+</topicref>
+<topicref  href="mata040_comissao.dita"> 
+</topicref>
+<topicref  href="mata040_pago_na_emissao.dita"> 
+</topicref>
+<topicref  href="mata040_pago_na_baixa.dita"> 
+</topicref>
+<topicref  href="mata040_base_com_frete.dita"> 
+</topicref>
+<topicref  href="mata040_senha.dita"> 
+</topicref>
+<topicref  href="mata040_mensagem.dita"> 
+</topicref>
+<topicref  href="mata040_proximo_cliente.dita"> 
+</topicref>
+<topicref  href="mata040_proximo_pedido.dita"> 
+</topicref>
+<topicref  href="mata040_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata040_parametros.dita"> 
+</topicref>
+<topicref  href="mata040_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

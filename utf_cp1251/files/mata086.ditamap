@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Группы закупки</title>
+<topicref navtitle="Группы закупки"> 
+<topicref  href="mata086_grupo_de_compras.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata086_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata086_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

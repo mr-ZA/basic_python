@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="ru">
+    <booktitle>
+        <mainbooktitle><ph keyref="module_name"/></mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Sobieski Bruno</author>
+        <bookrights>
+            <copyrfirst>
+                <year>2019</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>2019</year>
+            </copyrlast>
+            <bookowner>
+                <organization>Национальная платформа</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <keydef keys="module_name">
+            <!--Вид документа-->
+            <topicmeta>
+                <keywords>
+                    <keyword>Управление взаимоотношениями с клиентами</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <notices><!-- placeholder --></notices>
+        <booklists>
+            <toc/>
+        </booklists>
+        <preface><!-- placeholder --></preface>
+</frontmatter>
+<chapter  href="sigacrm_crm.dita"> 
+</chapter>
+<chapter  href="sigacrm_integracao_com_o_gct.dita"> 
+</chapter>
+<chapter  href="sigacrm_area_de_trabalho.dita"> 
+</chapter>
+<chapter  href="sigacrm_visoes_e_graficos.dita"> 
+</chapter>
+<chapter  href="sigacrm_fluxo_operacional.dita"> 
+</chapter>
+<chapter navtitle="Конфигурации"> 
+<topicref  href="sigacrm_parametros.dita"> 
+<topicref  href="sigacrm_a.dita"> 
+</topicref>
+<topicref  href="sigacrm_c.dita"> 
+</topicref>
+<topicref  href="sigacrm_e.dita"> 
+</topicref>
+<topicref  href="sigacrm_f.dita"> 
+</topicref>
+<topicref  href="sigacrm_V.dita"> 
+</topicref>
+</topicref>
+</chapter>
+<chapter navtitle="Обновления"> 
+<topicref navtitle="Продажи"> 
+<topicref navtitle="Действия"> 
+<mapref href="./crma180.ditamap" format="ditamap"/>
+<mapref href="./crma410.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Учетные записи"> 
+<topicref navtitle="Управление учетными записями"> 
+<mapref href="./crma020.ditamap" format="ditamap"/>
+<mapref href="./crma020b.ditamap" format="ditamap"/>
+<mapref href="./crma030.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Продажи"> 
+<topicref navtitle="Цели"> 
+<mapref href="./crma480.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Мобильный"> 
+<mapref href="./crma570.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Прочие"> 
+<mapref href="./fata020.ditamap" format="ditamap"/>
+<mapref href="./fata030.ditamap" format="ditamap"/>
+<mapref href="./mata020.ditamap" format="ditamap"/>
+<mapref href="./crma500.ditamap" format="ditamap"/>
+<mapref href="./crma490.ditamap" format="ditamap"/>
+<mapref href="./crma510.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Маркетинг"> 
+<topicref navtitle="Кампании"> 
+<mapref href="./crma360.ditamap" format="ditamap"/>
+<mapref href="./crma370.ditamap" format="ditamap"/>
+<mapref href="./crma250.ditamap" format="ditamap"/>
+<mapref href="./tmka330.ditamap" format="ditamap"/>
+<mapref href="./tmka061.ditamap" format="ditamap"/>
+<mapref href="./crma340.ditamap" format="ditamap"/>
+<mapref href="./crma350.ditamap" format="ditamap"/>
+<mapref href="./crma530.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Управление"> 
+<topicref navtitle="Портфель"> 
+<mapref href="./mata010.ditamap" format="ditamap"/>
+<mapref href="./mata035.ditamap" format="ditamap"/>
+<mapref href="./mata180.ditamap" format="ditamap"/>
+<mapref href="./fata140.ditamap" format="ditamap"/>
+<mapref href="./fata150.ditamap" format="ditamap"/>
+<mapref href="./mata200.ditamap" format="ditamap"/>
+<mapref href="./qiea030.ditamap" format="ditamap"/>
+<mapref href="./agra045.ditamap" format="ditamap"/>
+<mapref href="./mata080.ditamap" format="ditamap"/>
+<mapref href="./tmka030.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Profile 360"> 
+<mapref href="./crma590.ditamap" format="ditamap"/>
+<mapref href="./crma600.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Управление территорией"> 
+<mapref href="./crma640.ditamap" format="ditamap"/>
+<mapref href="./crma650.ditamap" format="ditamap"/>
+<mapref href="./crma660.ditamap" format="ditamap"/>
+<mapref href="./crma670.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Бизнес"> 
+<topicref navtitle="Модели"> 
+<mapref href="./crma230.ditamap" format="ditamap"/>
+<mapref href="./crma280.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+<topicref navtitle="Сценарии продаж"> 
+<mapref href="./omsa010.ditamap" format="ditamap"/>
+<mapref href="./mata360.ditamap" format="ditamap"/>
+<mapref href="./fata080.ditamap" format="ditamap"/>
+<mapref href="./mata090.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Модели"> 
+<mapref href="./crma2302.ditamap" format="ditamap"/>
+<mapref href="./crma2802.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Конфигурация"> 
+<mapref href="./crma2202.ditamap" format="ditamap"/>
+<mapref href="./crma190a.ditamap" format="ditamap"/>
+<mapref href="./crma580.ditamap" format="ditamap"/>
+<mapref href="./tmka2102.ditamap" format="ditamap"/>
+<mapref href="./tmka2202.ditamap" format="ditamap"/>
+<mapref href="./crma010d.ditamap" format="ditamap"/>
+<mapref href="./fata0402.ditamap" format="ditamap"/>
+<mapref href="./crma560.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Знания"> 
+<mapref href="./crma130.ditamap" format="ditamap"/>
+<mapref href="./crma380.ditamap" format="ditamap"/>
+</topicref>
+</topicref>
+</chapter>
+<chapter navtitle="Запросы"> 
+<topicref navtitle="Продажи"> 
+<mapref href="./crma440.ditamap" format="ditamap"/>
+<mapref href="./crma080.ditamap" format="ditamap"/>
+<mapref href="./crma390.ditamap" format="ditamap"/>
+<mapref href="./crma010.ditamap" format="ditamap"/>
+<mapref href="./crma460.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+<chapter navtitle="Отчеты"> 
+<topicref navtitle="Продажи"> 
+<mapref href="./crma430.ditamap" format="ditamap"/>
+<mapref href="./fatr050.ditamap" format="ditamap"/>
+<mapref href="./crma420.ditamap" format="ditamap"/>
+<mapref href="./fatr020.ditamap" format="ditamap"/>
+<mapref href="./crma450.ditamap" format="ditamap"/>
+</topicref>
+<topicref navtitle="Колл-центр"> 
+<mapref href="./crmr030.ditamap" format="ditamap"/>
+<mapref href="./crmr010.ditamap" format="ditamap"/>
+<mapref href="./crmr040.ditamap" format="ditamap"/>
+</topicref>
+</chapter>
+</bookmap>

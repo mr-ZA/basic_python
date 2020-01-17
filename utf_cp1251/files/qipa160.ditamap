@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>План отбора образцов</title>
+<topicref navtitle="План отбора образцов"> 
+<topicref  href="qipa160_plano_amostragem.dita"> 
+</topicref>
+<topicref  href="qipa160_tamanho_da_amostra.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="qipa160_nqa.dita"> 
+</topicref>
+<topicref  href="qipa160_tamanho_lote_sup.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="qipa160_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

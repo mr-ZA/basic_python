@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>График доставки</title>
+<topicref navtitle="График доставки"> 
+<topicref  href="mata412_programacao_de_entrega.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata412_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

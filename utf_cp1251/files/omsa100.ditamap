@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Маршруты</title>
+<topicref navtitle="Маршруты"> 
+<topicref  href="omsa100_rotas.dita"> 
+</topicref>
+<topicref navtitle="Основные поля и средства контроля"> 
+<topicref  href="omsa100_Principais_Campos_e_Controles.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Примеры"> 
+<topicref  href="omsa100_exemplo1_rota_distri.dita"> 
+</topicref>
+<topicref  href="omsa100_exemplo2_rota_transf.dita"> 
+</topicref>
+<topicref  href="omsa100_exemplo3_rotagenerica.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa100_parametros.dita"> 
+</topicref>
+<topicref  href="omsa100_tab.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="omsa100_campo_codigo_origem.dita"> 
+</topicref>
+</topicref>
+</map>

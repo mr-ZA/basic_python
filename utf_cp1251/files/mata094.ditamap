@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Выпуск документов</title>
+<topicref navtitle="Выпуск документов"> 
+<topicref  href="mata094_liberacao_de_documentos.dita"> 
+</topicref>
+<topicref  href="mata094_entidades_contabeis.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata094_parametros.dita"> 
+</topicref>
+<topicref  href="mata094_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

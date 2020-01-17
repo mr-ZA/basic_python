@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проверка</title>
+<topicref navtitle="Проверка"> 
+<topicref  href="dlgv102_conferencia.dita"> 
+</topicref>
+<topicref  href="dlgv102_acoes_relacionadas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlgv102_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

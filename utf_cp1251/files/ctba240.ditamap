@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Скрипт консолидации</title>
+<topicref navtitle="Скрипт консолидации"> 
+<topicref  href="ctba240_roteiro_consolidacao.dita"> 
+</topicref>
+<topicref  href="ctba240_gerar_cadastro.dita"> 
+</topicref>
+<topicref  href="ctba240_cadastrando_um_roteiro.dita"> 
+</topicref>
+<topicref  href="ctba240_conceitos.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba240_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="ctba240_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

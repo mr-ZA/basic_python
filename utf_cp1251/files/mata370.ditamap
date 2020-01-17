@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Продукт х Клиент</title>
+<topicref navtitle="Продукт х Клиент"> 
+<topicref  href="mata370_produto_x_cliente.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata370_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

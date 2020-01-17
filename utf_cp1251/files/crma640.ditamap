@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Территориальные измерения</title>
+<topicref  href="crma640_dimensoes_territoriais.dita"> 
+<topicref  href="crma640_fluxo_configuracao_territorial.dita"> 
+</topicref>
+<topicref  href="crma640_fluxo_gestao_de_contas.dita"> 
+</topicref>
+<topicref  href="crma640_cadastro_de_rodizio.dita"> 
+</topicref>
+<topicref  href="crma640_excecao_territorial.dita"> 
+</topicref>
+<topicref  href="crma640_log_do_rodizio.dita"> 
+</topicref>
+</topicref>
+</map>

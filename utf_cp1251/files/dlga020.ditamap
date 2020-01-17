@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Стандарты</title>
+<topicref  href="dlga020_normas.dita"> 
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="dlga020_lastro_camada.dita"> 
+</topicref>
+</topicref>
+</map>

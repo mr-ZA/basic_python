@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Учетные конфигурации</title>
+<topicref navtitle="Учетные конфигурации"> 
+<topicref  href="ctba130_configuracoes_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba130_grupos_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba130_configuracao_de_livros.dita"> 
+</topicref>
+<topicref  href="ctba130_configuracao_de_custos.dita"> 
+</topicref>
+<topicref  href="ctba130_saldos_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba130_mascaras_contabeis.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba130_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="ctba130_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="ctba130_associacao_direta.dita"> 
+</topicref>
+<topicref  href="ctba130_associacao_plano_gerencial.dita"> 
+</topicref>
+<topicref  href="ctba130_associando_um_livro.dita"> 
+</topicref>
+<topicref  href="ctba130_criando_a_classificacao_contabil.dita"> 
+</topicref>
+<topicref  href="ctba130_detalhamento_tecnico.dita"> 
+</topicref>
+<topicref  href="ctba130_entidades_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba130_livros_contabeis.dita"> 
+</topicref>
+<topicref  href="ctba130_parametros_de_saldo.dita"> 
+</topicref>
+<topicref  href="ctba130_utilizando_segmentos_contabeis.dita"> 
+</topicref>
+</topicref>
+</map>

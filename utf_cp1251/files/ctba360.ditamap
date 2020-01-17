@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Сложные балансы</title>
+<topicref navtitle="Сложные балансы"> 
+<topicref  href="ctba360_saldos_compostos.dita"> 
+</topicref>
+<topicref navtitle="Таблицы"> 
+<topicref  href="ctba360_parametros.dita"> 
+</topicref>
+<topicref  href="ctba360_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

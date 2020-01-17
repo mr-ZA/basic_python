@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Заказ на покупку</title>
+<topicref navtitle="Заказ на покупку"> 
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata121_opcao_rastrear_contratos_bra.dita"> 
+</topicref>
+<topicref  href="mata121_rateio_bra.dita"> 
+</topicref>
+<topicref  href="mata121_pgto_antecip_adian_bra.dita"> 
+</topicref>
+<topicref  href="mata121_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata121_pedido_de_compra.dita"> 
+</topicref>
+<topicref  href="mata121_selecionando_solicitacao_de_compras.dita"> 
+</topicref>
+<topicref  href="mata121_selecionando_itens_de_uma_solicitacao_de_compras.dita"> 
+</topicref>
+<topicref  href="mata121_historico_das_alteracoes.dita"> 
+</topicref>
+<topicref  href="mata121_alerta_aviso_exclusao_do_pedido.dita"> 
+</topicref>
+<topicref  href="mata121_opcao_legenda.dita"> 
+</topicref>
+<topicref  href="mata121_grade.dita"> 
+</topicref>
+<topicref navtitle="Трекер"> 
+</topicref>
+<topicref  href="mata121_opcao_log_de_aprovacao.dita"> 
+</topicref>
+<topicref  href="mata121_cabecalho.dita"> 
+</topicref>
+<topicref  href="mata121_consulta_historico_do_produto.dita"> 
+</topicref>
+<topicref  href="mata121_filial_de_entrega.dita"> 
+</topicref>
+<topicref  href="mata121_itens.dita"> 
+</topicref>
+<topicref  href="mata121_rodape.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata121_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata121_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

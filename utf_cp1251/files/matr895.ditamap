@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Фактические x ожидаемые</title>
+<topicref  href="matr895_real_x_previsto.dita"> 
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="matr895_parametros.dita"> 
+</topicref>
+</topicref>
+</map>

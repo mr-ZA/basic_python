@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Бухгалтерские проводки</title>
+<topicref navtitle="Бухгалтерские проводки"> 
+<topicref  href="ctba101_lancamentos_contabeis_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_capa_de_lote_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_bloqueio_no_lancamento_contabi_bra.dita"> 
+</topicref>
+<topicref navtitle="Папки"> 
+<topicref  href="ctba101_pasta_lancamentos_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_pasta_conversoes_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_pasta_outras_informacoes_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_pasta_saldos_bra.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Проверка"> 
+<topicref  href="ctba101_validando_valores_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_validacao_obriga_bra.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Другие действия"> 
+<topicref  href="ctba101_copia_filial.dita"> 
+</topicref>
+</topicref>
+<topicref  href="ctba101_semaforo_para_contabilizacao_bra.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba101_tabelas_bra.dita"> 
+</topicref>
+<topicref  href="ctba101_parametros_bra.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Стандартные проводки (СП)</title>
+<topicref navtitle="Стандартные проводки (СП)"> 
+<topicref  href="ctba080_lanc_padronizados.dita"> 
+</topicref>
+<topicref  href="ctba080_selecao_de_multiplos_tipos_de.dita"> 
+</topicref>
+<topicref  href="ctba080_config_on_line_lanc_padronizados.dita"> 
+</topicref>
+<topicref  href="ctba080_tabela_ativo_fixo.dita"> 
+</topicref>
+<topicref  href="ctba080_tabela_compras.dita"> 
+</topicref>
+<topicref  href="ctba080_tab_estoque.dita"> 
+</topicref>
+<topicref  href="ctba080_tabela_faturamento.dita"> 
+</topicref>
+<topicref  href="ctba080_tab_financeiro1.dita"> 
+</topicref>
+<topicref  href="ctba080_tab_gpe.dita"> 
+</topicref>
+<topicref  href="ctba080_gestao_de_contratos.dita"> 
+</topicref>
+<topicref  href="ctba080_lp_viagens.dita"> 
+</topicref>
+<topicref  href="ctba080_difrenca_de_cambio_ang_col.dita"> 
+</topicref>
+<topicref navtitle="Коды и проводки"> 
+<topicref  href="ctba080_aceleracao_termino_deprec.dita"> 
+</topicref>
+<topicref  href="ctba080_ajuste_inventario.dita"> 
+</topicref>
+<topicref  href="ctba080_aplicacao_financeira.dita"> 
+</topicref>
+<topicref  href="ctba080_baixa_adiantamentos.dita"> 
+</topicref>
+<topicref  href="ctba080_baixa_automatica_contas_a_pagar.dita"> 
+</topicref>
+<topicref  href="ctba080_baixa_de_adiantamentos.dita"> 
+</topicref>
+<topicref  href="ctba080_baixa_de_bem.dita"> 
+</topicref>
+<topicref  href="ctba080_baixas_a_pagar.dita"> 
+</topicref>
+<topicref  href="ctba080_baixas_a_receber.dita"> 
+</topicref>
+<topicref  href="ctba080_baixa_com_rateio.dita"> 
+</topicref>
+<topicref  href="ctba080_cadastro_de_bens.dita"> 
+</topicref>
+<topicref  href="ctba080_caixinha.dita"> 
+</topicref>
+<topicref  href="ctba080_calculo_depreciacao.dita"> 
+</topicref>
+<topicref  href="ctba080_cheques_sobre_titulos.dita"> 
+</topicref>
+<topicref  href="ctba080_compensacao_contas_a_pagar.dita"> 
+</topicref>
+<topicref  href="ctba080_compensacao_contas_a_receber.dita"> 
+</topicref>
+<topicref  href="ctba080_compensacao_entre_carteiras.dita"> 
+</topicref>
+<topicref  href="ctba080_comunicacao_bancaria.dita"> 
+</topicref>
+<topicref  href="ctba080_contabilizacao_off_line_compras.dita"> 
+</topicref>
+<topicref  href="ctba080_contabilizacao_off_line_faturamento.dita"> 
+</topicref>
+<topicref  href="ctba080_contabilizacao_off_line_financeiro.dita"> 
+</topicref>
+<topicref  href="ctba080_contas_a_pagar.dita"> 
+</topicref>
+<topicref  href="ctba080_descalculo.dita"> 
+</topicref>
+<topicref  href="ctba080_documento_de_entrada.dita"> 
+</topicref>
+<topicref  href="ctba080_documento_de_saida.dita"> 
+</topicref>
+<topicref  href="ctba080_emprestimos.dita"> 
+</topicref>
+<topicref  href="ctba080_faturas_a_pagar.dita"> 
+</topicref>
+<topicref  href="ctba080_faturas_a_receber.dita"> 
+</topicref>
+<topicref  href="ctba080_geracao_de_cheques.dita"> 
+</topicref>
+<topicref  href="ctba080_implantacao_contas_a_receber.dita"> 
+</topicref>
+<topicref  href="ctba080_internos.dita"> 
+</topicref>
+<topicref  href="ctba080_movimentacao_bancaria.dita"> 
+</topicref>
+<topicref  href="ctba080_producao.dita"> 
+</topicref>
+<topicref  href="ctba080_recalculo_do_custo_medio.dita"> 
+</topicref>
+<topicref  href="ctba080_transferencia_de_contas_a_receber.dita"> 
+</topicref>
+<topicref  href="ctba080_transferencias.dita"> 
+</topicref>
+<topicref  href="ctba080_transferencias_transferencias_mod_2.dita"> 
+</topicref>
+<topicref  href="ctba080_variacao_monetaria.dita"> 
+</topicref>
+<topicref  href="ctba080_gestao_de_contratos_2.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba080_parametros.dita"> 
+</topicref>
+<topicref  href="ctba080_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

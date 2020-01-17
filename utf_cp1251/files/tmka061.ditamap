@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Список контактов</title>
+<topicref navtitle="Список контактов"> 
+<topicref  href="tmka061_lista_de_contato.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="tmka061_gerando_listas_de_contatos.dita"> 
+</topicref>
+<topicref  href="tmka061_lista_automatica.dita"> 
+</topicref>
+<topicref  href="tmka061_gerando_lista_de_contatos_com_assistente.dita"> 
+</topicref>
+</topicref>
+<topicref  href="tmka061_opcao_alterar.dita"> 
+</topicref>
+<topicref  href="tmka061_opcao_excluir.dita"> 
+</topicref>
+<topicref  href="tmka061_opcao_imprimir.dita"> 
+</topicref>
+<topicref  href="tmka061_opcao_transferencia.dita"> 
+</topicref>
+<topicref  href="tmka061_opcao_copiar.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="tmka061_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="tmka061_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="tmka061_website.dita"> 
+</topicref>
+<topicref  href="tmka061_pendencia.dita"> 
+</topicref>
+<topicref  href="tmka061_cross_posting.dita"> 
+</topicref>
+<topicref  href="tmka061_mala_direta.dita"> 
+</topicref>
+<topicref  href="tmka061_fax.dita"> 
+</topicref>
+<topicref  href="tmka061_voz.dita"> 
+</topicref>
+<topicref  href="tmka061_janela_lista_aut_contato.dita"> 
+</topicref>
+<topicref  href="tmka061_legenda.dita"> 
+</topicref>
+<topicref  href="tmka061_lista_de_contato_selecione_entidade.dita"> 
+</topicref>
+<topicref  href="tmka061_janela_lista_de_contatos_manual.dita"> 
+</topicref>
+<topicref  href="tmka061_janela_lista_automa_entidade.dita"> 
+</topicref>
+</topicref>
+</map>

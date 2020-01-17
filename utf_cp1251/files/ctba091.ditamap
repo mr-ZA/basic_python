@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Обслуживание мнемоники</title>
+<topicref navtitle="Обслуживание мнемоники"> 
+<topicref  href="ctba91_mantenimiento_a_mnemonicos.dita"> 
+</topicref>
+<topicref  href="ctba91_principales_campos_y_controles.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba91_tablas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

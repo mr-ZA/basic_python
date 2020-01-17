@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_trma020" xml:lang="ru">
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/TRMA020"/></title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/TRMA020"/></navtitle>
+        </topicmeta>
+        <topicref href="master_data/trma020/c_trma020.dita">
+            <topicref navtitle="Вкладки">
+                <topicref href="master_data/trma020/c_trma020_t_position_data.dita"/>
+                <topicref href="master_data/trma020/c_trma020_t_evaluation_factors.dita"/>
+                <topicref href="master_data/trma020/c_trma020_t_courses.dita"/>
+                <topicref href="master_data/trma020/c_trma020_t_skills.dita"/>
+                <topicref href="master_data/trma020/c_trma020_t_capacities.dita"/>
+            </topicref>
+            <topicref navtitle="Основные поля и элементы">
+                <topicref href="master_data/trma020/c_q3_descdet_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_dhabili_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_drelint_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_dresp_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_cc_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_grupo_f.dita"/>
+                <topicref href="master_data/trma020/c_q3_tabela_f.dita"/>
+            </topicref>
+            <topicref href="master_data/trma020/t_trma020.dita">
+                <topicref href="master_data/trma020/t_trma020_copy_option.dita"/>
+            </topicref>
+            <topicref navtitle="Технические данные">
+                <topicref href="master_data/trma020/r_trma020_tables.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

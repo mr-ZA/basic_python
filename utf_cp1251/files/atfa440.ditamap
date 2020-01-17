@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Обзор AVP</title>
+<topicref navtitle="Обзор AVP"> 
+<topicref  href="atfa440_revisar_avp.dita"> 
+</topicref>
+<topicref  href="atfa440_aprovacao_alteracao_avp_imobilizados.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa440_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

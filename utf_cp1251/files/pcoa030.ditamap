@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проводки по процессу</title>
+<topicref navtitle="Проводки по процессу"> 
+<topicref  href="pcoa030_lpprocess.dita"> 
+</topicref>
+<topicref navtitle="Интеграции"> 
+<topicref  href="pcoa030_integracao_com_gestao_de_contr.dita"> 
+</topicref>
+<topicref  href="pcoa030_integracao_gestao_projetos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa030_tab.dita"> 
+</topicref>
+<topicref  href="pcoa030_funcoes_para_processos_especificos.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

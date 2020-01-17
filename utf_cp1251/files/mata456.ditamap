@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Выпуск по кредиту и запасам</title>
+<topicref  href="mata456_liberacao_de_credito_e_estoque.dita"> 
+<topicref  href="mata456_liberacao_de_credito_e_estoque.dita"> 
+</topicref>
+<topicref  href="mata456_liberacao_de_credito_e_estoque_manual.dita"> 
+</topicref>
+<topicref  href="mata456_liberacao_de_credito_e_estoque_automatica.dita"> 
+</topicref>
+<topicref  href="mata456_fluxo_da_liberacao_de_pedidos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata456_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

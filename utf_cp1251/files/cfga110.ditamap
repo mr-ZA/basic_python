@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Правила рабочего потока</title>
+<topicref navtitle="Правила рабочего потока"> 
+<topicref  href="master_data/cfga110/cfga110_regras_workflow.dita"> 
+</topicref>
+<topicref  href="master_data/cfga110/cfga110_integ_wf_protheus_ecm.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="master_data/cfga110/cfga110_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

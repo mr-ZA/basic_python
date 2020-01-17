@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проводки</title>
+<topicref navtitle="Проводки"> 
+<topicref  href="pcoa310_lancamentos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa310_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

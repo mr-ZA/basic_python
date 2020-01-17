@@ -38,16 +38,15 @@ def find(name):
         print(result)
 
 def main():
-    global name, type_a
+    global name, type_a, table
+    table = [None] * 100000
+
+    print("Enter name and type of the animal to hash it: ")
+    name = input()
+    type_a = input()
 
     push(name, type_a)
     find(name)
-
-table = [None] * 100000
-
-print("Enter name and type of the animal to hash it: ")
-name = input()
-type_a = input()
 
 if __name__ == '__main__':
     main()

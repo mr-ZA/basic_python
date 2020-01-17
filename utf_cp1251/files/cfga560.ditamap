@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Профиль пользователя</title>
+<topicref navtitle="Профиль пользователя"> 
+<topicref  href="master_data/cfga560/cfga560_configurar_papel.dita"> 
+</topicref>
+<topicref navtitle="Папки"> 
+<topicref  href="master_data/cfga560/cfga560_interface.dita"> 
+</topicref>
+<topicref  href="master_data/cfga560/cfga560_botoes.dita"> 
+</topicref>
+<topicref  href="master_data/cfga560/cfga560_campos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga560/cfga560_toolbar.dita"> 
+</topicref>
+<topicref  href="master_data/cfga560/cfga560_browse.dita"> 
+</topicref>
+<topicref  href="master_data/cfga560/cfga560_fitros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

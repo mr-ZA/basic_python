@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Связанные транзакции</title>
+<topicref navtitle="Связанные транзакции"> 
+<topicref  href="pcoa440_movimento_relacionado.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa440_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

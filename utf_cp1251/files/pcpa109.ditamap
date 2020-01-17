@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Параметры</title>
+<topicref navtitle="Параметры"> 
+<topicref  href="pcpa109_parametros.dita"> 
+</topicref>
+<topicref  href="pcpa109_ordem_producao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcpa109_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

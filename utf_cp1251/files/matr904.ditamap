@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Переменные налоги</title>
+<topicref navtitle="Переменные налоги"> 
+<topicref  href="matr904_impostos_variaveis_bra.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="matr904_tabelas_bra.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Хранилище изображений</title>
+<topicref navtitle="Хранилище изображений"> 
+<topicref  href="repositorio_int.dita"> 
+</topicref>
+<topicref  href="repositorio_operacional.dita"> 
+</topicref>
+<topicref  href="repositorio_procedimentos.dita"> 
+</topicref>
+</topicref>
+</map>

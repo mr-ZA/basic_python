@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Отслеживание учета</title>
+<topicref navtitle="Отслеживание учета"> 
+<topicref  href="ctbc661_rastreamento_contabil.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbc661_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

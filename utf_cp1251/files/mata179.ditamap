@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Центр закупок</title>
+<topicref navtitle="Центр закупок"> 
+<topicref  href="mata179_central_de_compras.dita"> 
+</topicref>
+<topicref  href="mata179_calculo.dita"> 
+</topicref>
+<topicref  href="mata179_central_compras_exibicao.dita"> 
+</topicref>
+<topicref  href="mata179_central_de_compras_efetivacao.dita"> 
+</topicref>
+<topicref  href="mata179_pasta_filtrar_mix.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata179_tabelas.dita"> 
+</topicref>
+<topicref  href="mata179_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

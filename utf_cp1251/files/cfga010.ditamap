@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>График</title>
+<topicref navtitle="График"> 
+<topicref  href="master_data/cfga010/cfga010_int.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_procedimentos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_configuracao_de_agents.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_cadastro_de_agendamentos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_monitor_de_servicos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_monitor_de_agents.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_monitor_de_agendamentos.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_importacao_de_registros.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_monitor_de_integracao_com_erps.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_limpeza_das_tabelas_utilizadas.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_recepcao_bancaria.dita"> 
+</topicref>
+<topicref  href="master_data/cfga010/cfga010_limpeza_transacoes_efetuadas.dita"> 
+</topicref>
+</topicref>
+</map>

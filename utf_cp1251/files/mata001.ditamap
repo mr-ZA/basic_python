@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Матрица поставок</title>
+<topicref navtitle="Матрица поставок"> 
+<topicref  href="mata001_matriz_de_abastecimento.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata001_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

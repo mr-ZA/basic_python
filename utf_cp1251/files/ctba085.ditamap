@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Точки входа</title>
+<topicref navtitle="Точки входа"> 
+<topicref  href="ctba085_pontos_de_lancamento.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba085_tabelas2.dita"> 
+</topicref>
+</topicref>
+</map>

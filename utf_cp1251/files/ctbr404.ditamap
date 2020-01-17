@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Главная книга ссылочного плана счетов</title>
+<topicref navtitle="Главная книга ссылочного плана счетов"> 
+<topicref  href="ctbr404_razao_plano_referencial.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbr404_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

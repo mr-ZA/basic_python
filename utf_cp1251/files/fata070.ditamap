@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Структура продаж</title>
+<topicref navtitle="Структура продаж"> 
+<topicref  href="fata070_estrutura_de_vendas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="fata070_tabelas.dita"> 
+</topicref>
+<topicref  href="fata070_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

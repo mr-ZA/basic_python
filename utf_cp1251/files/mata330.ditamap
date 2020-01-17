@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Средняя стоимость</title>
+<topicref navtitle="Средняя стоимость"> 
+<topicref  href="mata330_custo_medio.dita"> 
+</topicref>
+<topicref  href="mata330_apuracao_documentos_entrada_saida_threads_custo_medio.dita"> 
+</topicref>
+<topicref  href="mata330_recalculo_custo_medio.dita"> 
+</topicref>
+<topicref  href="mata330_exemplo_func_custo_partes.dita"> 
+</topicref>
+<topicref  href="mata330_custo_fifo_lifo.dita"> 
+</topicref>
+<topicref  href="mata330_custo_medio_historico.dita"> 
+</topicref>
+<topicref  href="mata330_valorizacao_da_mao_de_obra.dita"> 
+</topicref>
+<topicref navtitle="Средняя стоимость для склада"> 
+<topicref  href="mata330_custo_medio_por_armazem.dita"> 
+</topicref>
+<topicref  href="mata330_armazem_on_line.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Средняя стоимость для филиала"> 
+<topicref  href="mata330_custo_medio_por_filial.dita"> 
+</topicref>
+<topicref  href="mata330_filial_on_line.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Средняя стоимость для компании"> 
+<topicref  href="mata330_custo_medio_por_empresa.dita"> 
+</topicref>
+<topicref  href="mata330_empresa_on_line.dita"> 
+</topicref>
+<topicref  href="mata330_contabilizacao_por_threads.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata330_parametros.dita"> 
+</topicref>
+<topicref  href="mata330_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

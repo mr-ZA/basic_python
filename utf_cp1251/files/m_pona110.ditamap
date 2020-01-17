@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title><ph conref="shared_content/r_routines_list.dita#r_routines_list/PONA110"/></title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/PONA110"
+                /></navtitle>
+        </topicmeta>
+        <topicref href="pona110/c_pona110.dita">
+            <topicref navtitle="Основные поля и элементы">
+                <topicref href="pona110/r_pona110_fields_type.dita"/>
+                <topicref href="pona110/r_pona110_fields_shift.dita"/>
+                <topicref href="pona110/r_pona110_fields_from_to_hours.dita"/>
+            </topicref>
+            <topicref href="pona110/t_pona110.dita"/>
+            <topicref navtitle="Технические данные">
+                <topicref href="pona110/r_pona110_tables.dita"/>
+                <topicref href="pona110/r_pona110_parameters.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

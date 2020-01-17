@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Прогноз продаж</title>
+<topicref navtitle="Прогноз продаж"> 
+<topicref  href="mata700_int.dita"> 
+</topicref>
+<topicref  href="sigacom_grade.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata700_tabelas.dita"> 
+</topicref>
+<topicref  href="mata700_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Спецификации</title>
+<topicref navtitle="Спецификации"> 
+<topicref  href="qipa010_especificacoes.dita"> 
+</topicref>
+<topicref  href="qipa010_especificacoes_produto.dita"> 
+</topicref>
+<topicref  href="qipa010_especificacoes_de_grupo_de_produtos.dita"> 
+</topicref>
+<topicref  href="qipa010_bloqueio_lib.dita"> 
+</topicref>
+<topicref  href="qipa010_duplicar.dita"> 
+</topicref>
+<topicref  href="qipa010_legenda.dita"> 
+</topicref>
+<topicref  href="qipa010_exclusao_de_especificacoes.dita"> 
+</topicref>
+<topicref  href="qipa010_formulas.dita"> 
+</topicref>
+<topicref navtitle="Сценарии операций"> 
+<topicref  href="qipa010_roteiro_op.dita"> 
+</topicref>
+<topicref  href="qipa010_operacoes.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Папка спецификаций"> 
+<topicref  href="qipa010_pasta_especificacoes.dita"> 
+</topicref>
+<topicref  href="qipa010_pasta_fam_instr.dita"> 
+</topicref>
+<topicref  href="qipa010_pasta_nc.dita"> 
+</topicref>
+</topicref>
+<topicref  href="qipa010_botao_vis_doc.dita"> 
+</topicref>
+<topicref  href="qipa010_pasta_rastreabilidade.dita"> 
+</topicref>
+<topicref  href="qipa010_pasta_obs_operacao.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/средства контроля"> 
+<topicref  href="qipa010_roteiro.dita"> 
+</topicref>
+<topicref  href="qipa010_recursos.dita"> 
+</topicref>
+<topicref  href="qipa010_formula_setup.dita"> 
+</topicref>
+<topicref  href="qipa010_op_obrigatoria.dita"> 
+</topicref>
+<topicref  href="qipa010_seq_obrigatoria.dita"> 
+</topicref>
+<topicref  href="qipa010_laudo_obrigatorio.dita"> 
+</topicref>
+<topicref  href="qipa010_formula.dita"> 
+</topicref>
+<topicref  href="qipa010_plano_amostragem.dita"> 
+</topicref>
+<topicref  href="qipa010_revisao.dita"> 
+</topicref>
+<topicref  href="qipa010_ensaio_obrigatorio.dita"> 
+</topicref>
+<topicref  href="qipa010_shelf-life.dita"> 
+</topicref>
+<topicref  href="qipa010_tipo_shelf-life.dita"> 
+</topicref>
+<topicref  href="qipa010_nqa.dita"> 
+</topicref>
+<topicref  href="qipa010_metodo.dita"> 
+</topicref>
+<topicref  href="qipa010_minimo_maximo.dita"> 
+</topicref>
+<topicref  href="qipa010_afi.dita"> 
+</topicref>
+<topicref  href="qipa010_afs.dita"> 
+</topicref>
+<topicref  href="qipa010_lic.dita"> 
+</topicref>
+<topicref  href="qipa010_lsc.dita"> 
+</topicref>
+<topicref  href="qipa010_nominal.dita"> 
+</topicref>
+<topicref  href="qipa010_unidade_medida.dita"> 
+</topicref>
+<topicref  href="qipa010_unidade_amostra.dita"> 
+</topicref>
+<topicref  href="qipa010_tipo_conversao_1.dita"> 
+</topicref>
+<topicref  href="qipa010_fator_conv.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="qipa010_tabelas.dita"> 
+</topicref>
+<topicref  href="qipa010_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="qipa010_ensaios.dita"> 
+</topicref>
+</topicref>
+</map>

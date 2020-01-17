@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Специалисты по закупкам</title>
+<topicref navtitle="Специалисты по закупкам"> 
+<topicref  href="mata087_compradores.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata087_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata087_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

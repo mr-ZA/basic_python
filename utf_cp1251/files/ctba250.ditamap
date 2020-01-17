@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Реестр привязок</title>
+<topicref navtitle="Реестр привязок"> 
+<topicref  href="ctba250_cadastro_amarracao.dita"> 
+</topicref>
+<topicref  href="ctba250_como_utilizar_uma_amarracao.dita"> 
+</topicref>
+<topicref  href="ctba250_regras_e_contra_regras.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba250_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba250_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

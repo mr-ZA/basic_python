@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Объем</title>
+<topicref navtitle="Объем"> 
+<topicref  href="wmsv080_volume.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Таблицы"> 
+<topicref  href="wmsv080_tabela.dita"> 
+</topicref>
+</topicref>
+</map>

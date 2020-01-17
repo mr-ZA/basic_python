@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Конфигуратор параметров</title>
+<topicref navtitle="Конфигуратор параметров"> 
+<topicref  href="modules/sigacfg/cfgbixc8_config_parametros.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_endereco_staging_area.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_conf_moedas_tab_fato.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_consolidacao_de_moedas.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc08_macrorregiao.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc08_familia_comercial.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc08_unidade_de_medida.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_tempo_de_cargo.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_tempo_casa.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_faixa_etaria.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_faixa_salarial.dita"> 
+</topicref>
+    <topicref  href="modules/sigacfg/cfgbixc8_mapeamento_contas_contabil.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+    <topicref  href="modules/sigacfg/cfgbixc8_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

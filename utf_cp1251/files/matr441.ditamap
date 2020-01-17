@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Разрешение на доставку</title>
+<topicref navtitle="Разрешение на доставку"> 
+<topicref  href="matr441_autorizacao_de_entrega_por_contrato_parceria.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="matr441_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

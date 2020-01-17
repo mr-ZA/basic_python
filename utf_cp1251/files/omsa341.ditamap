@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Финансовый возврат</title>
+<topicref navtitle="Финансовый возврат"> 
+<topicref  href="omsa341_int.dita"> 
+</topicref>
+<topicref  href="omsa341_para_realizar_o_retorno_financeiro.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="omsa341_parametros.dita"> 
+</topicref>
+<topicref  href="omsa341_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="omsa341_botao_baixa_automatica.dita"> 
+</topicref>
+<topicref  href="omsa341_pasta__compensacao.dita"> 
+</topicref>
+<topicref  href="omsa341_pasta_baixa_simples.dita"> 
+</topicref>
+<topicref  href="omsa341_pasta_liquidacao.dita"> 
+</topicref>
+</topicref>
+</map>

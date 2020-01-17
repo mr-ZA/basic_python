@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проект бюджета</title>
+<topicref navtitle="Проект бюджета"> 
+<topicref  href="pcoa016_projeto_orcamentario.dita"> 
+</topicref>
+<topicref  href="pcoa016_opcao_editar.dita"> 
+</topicref>
+<topicref  href="pcoa016_vinculando_dados.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa016_parametros.dita"> 
+</topicref>
+<topicref  href="pcoa016_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

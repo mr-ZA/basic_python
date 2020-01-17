@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Курсы валют</title>
+    <topicref>
+        <topicmeta>
+            <navtitle><ph conref="shared_content/r_routines_list.dita#r_routines_list/RU06T01"/></navtitle>   
+        </topicmeta>
+        <topicref href="master_data/mata090/c_mata090.dita"/>
+        <topicref href="transactions/ru06t01/t_ru06t01.dita"/>
+        
+            <topicref navtitle="Технические данные">
+                <topicref href="transactions/ru06t01/r_ru06t01_tables.dita"/>
+                <topicref href="transactions/ru06t01/r_ru06t01_parameters.dita"/>
+            </topicref>
+    </topicref>
+ 
+    </map>

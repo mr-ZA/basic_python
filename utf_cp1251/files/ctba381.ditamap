@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Денежные изменения</title>
+<topicref navtitle="Денежные изменения"> 
+<topicref  href="ctba381_var_monetaria_ctba381.dita"> 
+</topicref>
+<topicref  href="ctba381_conceitos.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba381_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba381_lancamentos_padronizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

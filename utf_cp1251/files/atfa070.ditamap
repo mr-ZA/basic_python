@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Отмена ежемесячного расчета</title>
+<topicref navtitle="Отмена ежемесячного расчета"> 
+<topicref  href="atfa070_descalculo_mensal.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa070_tabelas_atualizadas.dita"> 
+</topicref>
+<topicref  href="atfa070_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

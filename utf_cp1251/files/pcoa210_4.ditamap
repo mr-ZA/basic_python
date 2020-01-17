@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Ограничение доступа к административному представлению</title>
+<topicref navtitle="Ограничение доступа к административному представлению"> 
+<topicref  href="pcoa210_4_exclusao_de_acesso_a_visao_gerencial.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa210_4_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

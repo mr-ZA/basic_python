@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Меню</title>
+<topicref navtitle="Меню"> 
+<topicref  href="libraries/cfgx013/cfgx013_menus.dita"> 
+<topicref  href="libraries/cfgx013/cfgx013_menus_de_outros_diretorios.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_remover_diretorio_de_menus.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_incluir_opcoes_de_menu.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_alterar_a_ordem_de_exibicao.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_criar_grupo_ou_submenu.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_criar_item_ou_opcao.dita"> 
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_alterar_configuracao_de_item.dita"> 
+</topicref>
+</topicref>
+<topicref  href="libraries/cfgx013/cfgx013_menus_sigaacv.dita"> 
+</topicref>
+</topicref>
+</map>

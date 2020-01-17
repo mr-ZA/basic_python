@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Выпуск по запасам</title>
+<topicref navtitle="Выпуск по запасам"> 
+<topicref  href="mata455_liberacao_de_estoque.dita"> 
+</topicref>
+<topicref  href="mata455_liberacao_de_estoque_automatica_.dita"> 
+</topicref>
+<topicref  href="mata455_botao_selecao_de_lotes.dita"> 
+</topicref>
+<topicref  href="mata455_liberacao_de_estoque_manual.dita"> 
+</topicref>
+<topicref  href="mata455_liberacao_de_pedidos_quando_o_estoque_esta_em_poder_de_terceiros.dita"> 
+</topicref>
+<topicref  href="mata455_opcao_nova_liberacao.dita"> 
+</topicref>
+<topicref  href="mata455_fluxo_de_liberacao_de_pedidos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata455_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata455_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

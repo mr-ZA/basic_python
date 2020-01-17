@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Передача на погрузочную площадку</title>
+<topicref navtitle="Передача на погрузочную площадку"> 
+<topicref  href="dlgv101_transferencia_doca.dita"> 
+</topicref>
+<topicref  href="dlgv101_acoes_relacionadas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="dlgv101_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

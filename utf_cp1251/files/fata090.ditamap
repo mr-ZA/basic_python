@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Правила премий</title>
+<topicref navtitle="Правила премий"> 
+<topicref  href="fata090_regras_de_bonificacao.dita"> 
+</topicref>
+<topicref  href="fata090_copiando_regras_de_bonificacao.dita"> 
+</topicref>
+<topicref  href="fata090_principais_campos_e_controles.dita"> 
+<topicref  href="fata090_produto_cabecalho.dita"> 
+</topicref>
+<topicref  href="fata090_produto.dita"> 
+</topicref>
+<topicref  href="fata090_quantidade.dita"> 
+</topicref>
+<topicref  href="fata090_tipo_de_bonificacao.dita"> 
+</topicref>
+<topicref  href="fata090_tipo_de_horario.dita"> 
+</topicref>
+<topicref  href="fata090_lote.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="fata090_tabelas.dita"> 
+</topicref>
+<topicref  href="fata090_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

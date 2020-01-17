@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Уведомление о входящей доставке</title>
+<topicref navtitle="Уведомление о входящей доставке"> 
+<topicref  href="mata102n_remito_de_entrada.dita"> 
+</topicref>
+<topicref  href="mata102n_rateio.dita"> 
+</topicref>
+<topicref  href="mata102n_remito_de_beneficiamento.dita"> 
+</topicref>
+<topicref  href="mata102n_retorno_beneficiamento.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata102n_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref  href="mata102n_remito_normal.dita"> 
+<topicref  href="mata102n_pedido_de_compra.dita"> 
+</topicref>
+<topicref  href="mata102n_itens_do_pedido_de_compra.dita"> 
+</topicref>
+<topicref  href="mata102n_documento_original.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata102n_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="mata102n_lancamentos_padronizados_remitos_compras.dita"> 
+</topicref>
+<topicref  href="mata102n_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="mata102n_notas_do_rodape.dita"> 
+</topicref>
+</topicref>
+</map>

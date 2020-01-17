@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Статистика группы</title>
+<topicref navtitle="Статистика группы"> 
+<topicref  href="ctbc040_estatistica_grupos.dita"> 
+</topicref>
+<topicref  href="ctbc040_botoes_da_barra_de_ferramentas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbc040_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

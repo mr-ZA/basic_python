@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Создание спроса</title>
+<topicref navtitle="Создание спроса"> 
+<topicref  href="mata295_gerar_demanda.dita"> 
+</topicref>
+<topicref  href="mata295_parametrizacao.dita"> 
+</topicref>
+<topicref  href="mata295_exemplo.dita"> 
+</topicref>
+</topicref>
+</map>

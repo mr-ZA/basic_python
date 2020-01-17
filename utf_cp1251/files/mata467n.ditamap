@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Выставление счета-фактуры</title>
+<topicref navtitle="Выставление счета-фактуры"> 
+<topicref  href="mata467n_nota_fiscal_manual.dita"> 
+</topicref>
+<topicref  href="mata467n_botao_consulta_estoque.dita"> 
+</topicref>
+<topicref  href="mata467n_consultando_lotes.dita"> 
+</topicref>
+<topicref  href="mata467n_pastas_do_rodape.dita"> 
+</topicref>
+<topicref  href="mata467n_impressao_de_faturas.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata467n_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata467n_tabelas.dita"> 
+</topicref>
+<topicref  href="mata467n_parametros.dita"> 
+</topicref>
+<topicref  href="mata467n_lancamentos_padronizados.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

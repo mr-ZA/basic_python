@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>План резервов</title>
+<topicref navtitle="План резервов"> 
+<topicref  href="atfr490_planej_provisao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfr490_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

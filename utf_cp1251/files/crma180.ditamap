@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Действия</title>
+<topicref navtitle="Действия"> 
+<topicref  href="crma180_atividades.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Другие функции"> 
+<topicref  href="crma180_controle_de_acesso.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma180_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</map>

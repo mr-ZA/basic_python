@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Общий отчет об остановке</title>
+<topicref navtitle="Общий отчет об остановке"> 
+<topicref  href="sfca317_apont_parada_geral.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="sfca317_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

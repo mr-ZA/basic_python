@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Возмещаемая стоимость</title>
+<topicref navtitle="Возмещаемая стоимость"> 
+<topicref  href="atfa380_valor_recuperavel.dita"> 
+</topicref>
+<topicref  href="atfa380_opcao_efetivar.dita"> 
+</topicref>
+<topicref navtitle="Основные поля/элементы управления"> 
+<topicref  href="atfa380_valor_venda.dita"> 
+</topicref>
+<topicref  href="atfa380_valor_original.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Импорт/экспорт данных"> 
+<topicref  href="atfa380_imp_exp_dados.dita"> 
+</topicref>
+<topicref  href="atfa380_importacao_dados.dita"> 
+</topicref>
+<topicref  href="atfa380_exportacao_dados.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa380_tabelas.dita"> 
+</topicref>
+<topicref  href="atfa380_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

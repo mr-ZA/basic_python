@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Учет средней стоимости</title>
+<topicref navtitle="Учет средней стоимости"> 
+<topicref  href="mata331_contabilizacao_do_custo_medio.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata331_parametros.dita"> 
+</topicref>
+<topicref  href="mata331_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

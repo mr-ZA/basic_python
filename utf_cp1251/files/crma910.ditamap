@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Бизнес-правила</title>
+<topicref navtitle="Бизнес-правила"> 
+<topicref  href="crma910_regras_comercializacao.dita"> 
+</topicref>
+</topicref>
+</map>

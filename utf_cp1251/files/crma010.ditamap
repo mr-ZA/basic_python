@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Прогноз продаж</title>
+<topicref navtitle="Прогноз продаж"> 
+<topicref  href="crma010_previsao_de_vendas.dita"> 
+</topicref>
+</topicref>
+</map>

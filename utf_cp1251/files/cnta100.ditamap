@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Договор</title>
+<topicref navtitle="Договор"> 
+<topicref  href="cnta100_contrato.dita"> 
+</topicref>
+<topicref  href="cnta100_botao_da_barra_de_ferramentas.dita"> 
+</topicref>
+<topicref  href="cnta100_avaliacao_de_fornecedores.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_situacao.dita"> 
+</topicref>
+<topicref  href="cnta100_legenda.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_acesso.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_avaliacao.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_baixa_de_retencao.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_est_retencao.dita"> 
+</topicref>
+<topicref  href="cnta100_opcao_adiantamento.dita"> 
+</topicref>
+<topicref  href="cnta100_aviso_do_termino_do_contrato.dita"> 
+</topicref>
+<topicref navtitle="Основные поля и средства контроля"> 
+<topicref  href="cnta100_usuario_aval.dita"> 
+</topicref>
+<topicref  href="cnta100_controle_de_documentos.dita"> 
+</topicref>
+<topicref navtitle="Вкладка «Регистрационные данные»"> 
+<topicref  href="cnta100_pasta_cadastrais.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="Примеры"> 
+<topicref  href="cnta100_transacoes_do_sistema.dita"> 
+</topicref>
+<topicref  href="cnta100_outros_exemplos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cnta100_parametros.dita"> 
+</topicref>
+<topicref  href="cnta100_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

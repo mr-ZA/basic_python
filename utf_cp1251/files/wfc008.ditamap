@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Очереди доставки эл. почты</title>
+<topicref navtitle="Очереди доставки эл. почты"> 
+<topicref  href="master_data/wfc008/wfc008_filas_envio_email.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="master_data/wfc008/wfc008_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проверка проводок</title>
+<topicref navtitle="Проверка проводок"> 
+<topicref  href="ctba355_verificacao1.dita"> 
+</topicref>
+<topicref  href="ctba355_legenda.dita"> 
+</topicref>
+<topicref  href="ctba355_principais_campos.dita"> 
+</topicref>
+<topicref navtitle="Параметры"> 
+<topicref  href="ctba355_conciliar.dita"> 
+</topicref>
+<topicref  href="ctba355_analise_detalhada.dita"> 
+</topicref>
+<topicref  href="ctba355_visualizar_lancamento.dita"> 
+</topicref>
+<topicref  href="ctba355_configurar_colunas.dita"> 
+</topicref>
+<topicref  href="ctba355_estornar.dita"> 
+</topicref>
+<topicref  href="ctba355_imprimir.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Поток"> 
+<topicref  href="ctba355_fluxos_conferencia_lancamentos.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba355_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

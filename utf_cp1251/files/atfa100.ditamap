@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Проверка целостности данных</title>
+<topicref navtitle="Проверка целостности данных"> 
+<topicref  href="atfa100_verifica_integridade.dita"> 
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Список договоров</title>
+<topicref navtitle="Список договоров"> 
+<topicref  href="matr952_relacao_de_contratos.dita"> 
+</topicref>
+<topicref navtitle="Таблицы"> 
+<topicref  href="matr952_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

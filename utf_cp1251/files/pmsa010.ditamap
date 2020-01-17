@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Состав</title>
+<topicref navtitle="Состав"> 
+<topicref  href="pmsa010_composicao.dita"> 
+</topicref>
+<topicref  href="pmsa010_copia.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pmsa010_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(ранее скрытые темы, не включенные в содержание)"> 
+<topicref  href="pmsa010_despesas.dita"> 
+</topicref>
+<topicref  href="pmsa010_itens.dita"> 
+</topicref>
+<topicref  href="pmsa010_subcomposicoes.dita"> 
+</topicref>
+</topicref>
+</map>

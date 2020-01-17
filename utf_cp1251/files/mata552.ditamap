@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Кривая характеристик</title>
+<topicref navtitle="Кривая характеристик"> 
+<topicref  href="mata552_curva_de_caracteristicas.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata552_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

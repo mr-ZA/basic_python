@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Категория продуктов</title>
+<topicref navtitle="Категория продуктов"> 
+<topicref  href="fata140_categoria_produtos.dita"> 
+</topicref>
+<topicref  href="fata140_bloqueio_de_categorias.dita"> 
+</topicref>
+<topicref  href="fata140_ativacao_e_inativacao_de_regis.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="fata140_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

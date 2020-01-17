@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Списания</title>
+<topicref navtitle="Списания"> 
+<topicref  href="atfa036_cadastro_de_baixas.dita"> 
+</topicref>
+<topicref  href="atfa036_lanc_padronizados.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="atfa036_tracker_contabil.dita"> 
+</topicref>
+<topicref  href="atfa036_visualizar_ativo.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="atfa036_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

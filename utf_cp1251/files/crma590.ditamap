@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Программы Profile 360</title>
+<topicref navtitle="Программы Profile 360"> 
+<topicref  href="crma590_rotinas_do_perfil_360.dita"> 
+</topicref>
+<topicref  href="crma590_fluxo_do_processo.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="crma590_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

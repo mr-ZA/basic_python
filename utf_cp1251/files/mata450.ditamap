@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Кредитный анализ по заказу на продажу</title>
+<topicref navtitle="Кредитный анализ по заказу на продажу"> 
+<topicref  href="mata450_analise_de_credito_por_pedidos_liberacao_de_credito.dita"> 
+</topicref>
+<topicref  href="mata450_liberacao_de_credito_manual.dita"> 
+</topicref>
+<topicref  href="mata450_liberacao_de_credito_automatica.dita"> 
+</topicref>
+<topicref  href="mata450_fluxo_da_liberacao_de_pedidos.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata450_tabelas.dita"> 
+</topicref>
+<topicref  href="mata450_parametros_da_rotina.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

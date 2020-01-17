@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Внутренние движения</title>
+<topicref navtitle="Внутренние движения"> 
+<topicref  href="mata240_internos.dita"> 
+</topicref>
+<topicref  href="mata240_requisicao_manual_para_op.dita"> 
+</topicref>
+<topicref  href="mata240_requisicao_normal_para_consumo.dita"> 
+</topicref>
+<topicref  href="mata240_rateio_por_frota.dita"> 
+</topicref>
+<topicref  href="mata240_rateio_por_veiculo.dita"> 
+</topicref>
+<topicref navtitle="Связанные функции"> 
+<topicref  href="mata240_tracker_contabil.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata240_parametros.dita"> 
+</topicref>
+<topicref  href="mata240_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в содержание)"> 
+</topicref>
+</map>

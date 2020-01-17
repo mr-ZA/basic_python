@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Перенос баланса</title>
+<topicref navtitle="Перенос баланса"> 
+<topicref  href="mata280_virada_de_saldos.dita"> 
+</topicref>
+<topicref  href="mata280_parametros_da_rotina.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="mata280_parametros.dita"> 
+</topicref>
+<topicref  href="mata280_tabelas_2.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

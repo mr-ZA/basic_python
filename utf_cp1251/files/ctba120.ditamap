@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Внешнее распределение</title>
+<topicref navtitle="Внешнее распределение"> 
+<topicref  href="ctba120_rateios_externos.dita"> 
+</topicref>
+<topicref  href="ctba120_executando.dita"> 
+</topicref>
+<topicref  href="ctba120_como_montar_o_lp.dita"> 
+</topicref>
+<topicref  href="ctba120_executando_o_rateio_externo.dita"> 
+</topicref>
+<topicref navtitle="Другие действия"> 
+<topicref  href="ctba120_importar.dita"> 
+</topicref>
+<topicref  href="ctba120_log_proc.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctba120_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,24 +1,32 @@
+import time
+
 # heap_size = 5, root_index = 5, 4 ... 0
 def heapify(nums, heap_size, root_index):
     # Предположим, что индекс самого большого элемента является корневым индексом
     largest = root_index    # 5, 4
-    left_child = (2 * root_index) + 1   # 11, 9
-    right_child = (2 * root_index) + 2  # 12, 10
 
-    # Если левый потомок корня является допустимым индексом, а элемент больше
-    # чем текущий самый большой элемент, то обновляем самый большой элемент
-    if left_child < heap_size and nums[left_child] > nums[largest]:
-        largest = left_child
+    if root_index * 2 + 1 >= len(nums):
+        print("No leafs from parent with such index = [{}], pass".format(root_index))
+        return
 
-    # Делайте то же самое для right_child
-    if right_child < heap_size and nums[right_child] > nums[largest]:
-        largest = right_child
+    else:
+        left_child = (2 * root_index) + 1
+        right_child = (2 * root_index) + 2
 
-    # Если самый большой элемент больше не является корневым элементом, меняем их местами
-    if largest != root_index:
-        nums[root_index], nums[largest] = nums[largest], nums[root_index]
-        # Heapify the new root element to ensure it's the largest
-        heapify(nums, heap_size, largest)
+        # Если левый потомок корня является допустимым индексом, а элемент больше
+        # чем текущий самый большой элемент, то обновляем самый большой элемент
+        if left_child < heap_size and nums[left_child] > nums[largest]:
+            largest = left_child
+
+        # Делайте то же самое для right_child
+        if right_child < heap_size and nums[right_child] > nums[largest]:
+            largest = right_child
+
+        # Если самый большой элемент больше не является корневым элементом, меняем их местами
+        if largest != root_index:
+            nums[root_index], nums[largest] = nums[largest], nums[root_index]
+            # Heapify the new root element to ensure it's the largest
+            heapify(nums, heap_size, largest)
 
 def heap_sort(nums):
     n = len(nums)
@@ -37,4 +45,5 @@ def heap_sort(nums):
 # Проверяем, что все работает
 random_list_of_nums = [35, 12, 43, 8, 51]
 heap_sort(random_list_of_nums)
+
 print (random_list_of_nums)

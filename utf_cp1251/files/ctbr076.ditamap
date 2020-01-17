@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>История изменений</title>
+<topicref navtitle="История изменений"> 
+<topicref  href="ctbr076_historico_alter.dita"> 
+</topicref>
+<topicref navtitle="Техническая информация"> 
+<topicref  href="ctbr076_tabelas_utilizadas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

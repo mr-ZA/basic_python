@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Отслеживание договора</title>
+<topicref navtitle="Отслеживание договора"> 
+<topicref  href="cntc010_rastreador_de_contratos_1.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="cntc010_parametros_da_rotina.dita"> 
+</topicref>
+<topicref  href="cntc010_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Точки входа интеграции</title>
+<topicref navtitle="Точки входа интеграции"> 
+<topicref  href="pcoa041_ptos_lanc_integracao.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="pcoa041_tabelas.dita"> 
+</topicref>
+<topicref  href="pcoa041_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

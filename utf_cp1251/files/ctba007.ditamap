@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Вспомогательные бухгалтерские данные</title>
+<topicref navtitle="Вспомогательные бухгалтерские данные"> 
+<topicref  href="ctba007_dados_auxiliares.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctba007_tabelas.dita"> 
+</topicref>
+<topicref  href="ctba007_parametros.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>

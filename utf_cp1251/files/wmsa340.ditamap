@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Пополнение</title>
+<topicref navtitle="Пополнение"> 
+<topicref  href="wmsa340_reabastecimento.dita"> 
+</topicref>
+</topicref>
+<topicref navtitle="(Ранее скрытые темы, не включенные в TOC)"> 
+<topicref  href="wmsa340_tabelas.dita"> 
+</topicref>
+</topicref>
+</map>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="ru">
+    <title>Вертикальный анализ</title>
+<topicref navtitle="Вертикальный анализ"> 
+<topicref  href="ctbr540_analise_vertical.dita"> 
+</topicref>
+<topicref navtitle="Технические данные"> 
+<topicref  href="ctbr540_tabelas.dita"> 
+</topicref>
+</topicref>
+</topicref>
+</map>
