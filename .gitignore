@@ -1,2 +1,3 @@
 algos_structures/tries/file_handler/payload_program/full/*
 algos_structures/tries/file_handler/payload_program/tres/*
+*.pyc
