@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 def desc_bubblesort(lst):
-    for x in range (len (lst)):               # 0 - 4
-        for j in range (x + 1, len(lst)):     # 1 - 4
+    for x in range (len (lst)):               # [0____], [1____]
+        for j in range (x + 1, len(lst)):     # [1 - 4], [2 - 4]
             if lst[j] > lst[x]:
                 temp = lst[j]
                 lst[j] = lst[x]
