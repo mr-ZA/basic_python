@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>Параметры управленческого учета</title>
-<topicref navtitle="Параметры управленческого учета"> 
-<topicref  href="modules/sigacfg/cfgsetctag_par_ctas_gerencias.dita"> 
-</topicref>
-</topicref>
-</map>

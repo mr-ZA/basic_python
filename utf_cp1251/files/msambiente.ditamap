@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>MSAMBIENTE</title>
-<topicref navtitle="MSAMBIENTE"> 
-<topicref  href="shared_content/framework/msambiente_msambiente.dita"> 
-</topicref>
-</topicref>
-</map>

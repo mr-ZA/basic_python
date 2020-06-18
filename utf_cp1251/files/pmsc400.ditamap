@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>Просмотр диаграммы Ганта</title>
-<topicref navtitle="Просмотр диаграммы Ганта"> 
-<topicref  href="pmsc400_visual_gantt.dita"> 
-</topicref>
-</topicref>
-</map>

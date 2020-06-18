@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>Отключить</title>
-<topicref navtitle="Отключить"> 
-<topicref  href="master_data/apcfg60d/apcfg60d_desativar.dita"> 
-</topicref>
-</topicref>
-</map>

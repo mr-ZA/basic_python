@@ -1,3 +1,4 @@
+
 # def myFunc(n):
 #     return lambda a: a * n
 

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>Хранилище изображений</title>
-<topicref navtitle="Хранилище изображений"> 
-    <topicref  href="libraries/cfgx012/cfgx012_imagens.dita"/> 
-    <topicref  href="libraries/cfgx012/cfgx012_tabelas.dita"/> 
-</topicref>
-</map>

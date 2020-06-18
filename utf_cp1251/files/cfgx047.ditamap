@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
-    <title>Файл журнала запросов</title>
-<topicref navtitle="Файл журнала запросов"> 
-<topicref  href="libraries/cfgx047/cfgx047_consulta_arquivo_de_log.dita"> 
-</topicref>
-</topicref>
-</map>

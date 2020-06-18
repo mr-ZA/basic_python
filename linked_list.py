@@ -18,13 +18,13 @@ def print_forward(node):
 
 # Печать элементов в обратном порядке
 def print_backward(list):
-    if list == None : return
+    if list == None : return    # return unloads stack to
 
     # First element
-    head = list
+    head = list     # here saves values (1, 2, 3 - last iter) then all of them unloads after return -> (3, 2, 1)
 
     # Element after first
-    tail = list.next
+    tail = list.next    # here saves values (2, 3, None) then all of them unloads -> (None, 3, 2)
 
     print_backward(tail)
 
