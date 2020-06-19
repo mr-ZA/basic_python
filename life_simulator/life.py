@@ -99,16 +99,9 @@ class Game():
 
             self.matrix_new.append(row2)
 
-        try:
-            print(len(self.matrix_new))
-            if self.matrix_new[3071]:
-                print(self.matrix_new[3071])
-        except:
-            print("[ERROR] such element doesn't exist in matrix of elements..")
-
         print("New matrix of format: [\n\t\t\t\t\t\t[{номер_ЯЧ: [коордX, коордY]}]\n\t\t\t\t\t\t[{номер_ЯЧ: [коордX, коордY]}]\n\n\t\t\t\t\t]")
 
-    def get_neighbours(self, cell):
+    def get_neighbours(self, arg_cell: list):
         """
             Вернуть список соседних клеток для клетки `cell`.
 
@@ -127,127 +120,162 @@ class Game():
                 Список соседних клеток.
         """
 
-        for matn in self.matrix_new:
-            for x, y in matn:
+        for string_matrix in self.matrix_new:
+            for cell_one in string_matrix:
+                if arg_cell == cell_one:
+                    x = cell_one[0]
+                    y = cell_one[1]
                 
-                # частный случай левой верхней клетки:
-                if x == 0 and y == 0:
-                    return [
-                        [x + 0, y + (self.cell_height -1)],
-                        [x, y + 1],
-                        [x + (self.cell_width -1), y],
-                        [x + 1, y],
-                        [x + (self.cell_width -1), y + (self.cell_height -1)],
-                        [x + 1, y + 1],
-                        [999],
-                        [999]
-                    ]
+                    # частный случай левой верхней клетки:
+                    if x == 0 and y == 0:
+                        return [
+                            [x + 0, y + (self.cell_height -1)],
+                            [x, y + 1],
+                            [x + (self.cell_width -1), y],
+                            [x + 1, y],
+                            [x + (self.cell_width -1), y + (self.cell_height -1)],
+                            [x + 1, y + 1],
+                            [999],
+                            [999]
+                        ]
 
-                # частный случай правой верхней клетки:
-                elif x == self.cell_width -1 and y == 0:
-                    return [
-                        [x, y + (self.cell_height -1)],
-                        [x, y + 1],
-                        [x - 1, y],
-                        [x - (self.cell_width -1), y - 0],
-                        [999],
-                        [999],
-                        [x - (self.cell_width -1), y + (self.cell_height -1)],
-                        [x - 1, y + 1]
-                    ]
+                    # частный случай правой верхней клетки:
+                    elif x == self.cell_width -1 and y == 0:
+                        return [
+                            [x, y + (self.cell_height -1)],
+                            [x, y + 1],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y - 0],
+                            [999],
+                            [999],
+                            [x - (self.cell_width -1), y + (self.cell_height -1)],
+                            [x - 1, y + 1]
+                        ]
 
-                # частный случай левой нижней клетки:
-                elif x == 0 and y == (self.cell_height - 1):
-                    return [
-                        [x, y - 1],
-                        [x - 0, y - (self.cell_height -1)],
-                        [x + (self.cell_width -1), y + 0],
-                        [x + 1, y + 0],
-                        [999],
-                        [999],
-                        [x + 1, y - 1],
-                        [x + (self.cell_width -1), y - (self.cell_height -1)]
-                    ]
+                    # частный случай левой нижней клетки:
+                    elif x == 0 and y == (self.cell_height - 1):
+                        return [
+                            [x, y - 1],
+                            [x - 0, y - (self.cell_height -1)],
+                            [x + (self.cell_width -1), y + 0],
+                            [x + 1, y + 0],
+                            [999],
+                            [999],
+                            [x + 1, y - 1],
+                            [x + (self.cell_width -1), y - (self.cell_height -1)]
+                        ]
 
-                # частный случай правой нижней клетки:
-                elif x == (self.cell_width -1) and y == (self.cell_height - 1):
-                    return [
-                        [x, y - 1],
-                        [x - 0, y - (self.cell_height - 1)],
-                        [x - 1, y],
-                        [x - (self.cell_width -1), y - 0],
-                        [x - 1, y - 1],
-                        [x - (self.cell_width -1), y + (self.cell_height -1)],
-                        [999],
-                        [999]
-                    ]
+                    # частный случай правой нижней клетки:
+                    elif x == (self.cell_width -1) and y == (self.cell_height - 1):
+                        return [
+                            [x, y - 1],
+                            [x - 0, y - (self.cell_height - 1)],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y - 0],
+                            [x - 1, y - 1],
+                            [x - (self.cell_width -1), y - (self.cell_height -1)],
+                            [999],
+                            [999]
+                        ]
 
-                # общий частный случай для левого стобца без 3 левых соседей (y = 0, y = cell_height - 1 -> частные случаи)
-                elif x == 0 and y > 0 and y < (self.cell_height - 1):
-                    return [
-                        [x, y -1],
-                        [x, y +1],
-                        [x + (self.cell_width -1), y - 0],
-                        [x +1, y],
-                        [999],
-                        [x +1, y +1],
-                        [x +1, y -1],
-                        [999]
-                    ]
+                    # общий частный случай для левого стобца без 3 левых соседей (y = 0, y = cell_height - 1 -> частные случаи)
+                    elif x == 0 and y > 0 and y < (self.cell_height - 1):
+                        return [
+                            [x, y -1],
+                            [x, y +1],
+                            [x + (self.cell_width -1), y - 0],
+                            [x +1, y],
+                            [999],
+                            [x +1, y +1],
+                            [x +1, y -1],
+                            [999]
+                        ]
 
-                # общий частный случай для верхнего столбца без верхних соседей
-                elif x > 0 and x < (self.cell_width - 1) and y == 0:
-                    return [
-                        [x, y + (self.cell_height -1)],
-                        [x, y +1],
-                        [x -1, y],
-                        [x +1, y],
-                        [999],
-                        [x +1, y +1],
-                        [999],
-                        [x -1, y +1]
-                    ]
+                    # общий частный случай для верхнего столбца без верхних соседей
+                    elif x > 0 and x < (self.cell_width - 1) and y == 0:
+                        return [
+                            [x, y + (self.cell_height -1)],
+                            [x, y +1],
+                            [x -1, y],
+                            [x +1, y],
+                            [999],
+                            [x +1, y +1],
+                            [999],
+                            [x -1, y +1]
+                        ]
 
-                # общий частный случай для правого столбца без правых соседей
-                elif x == (self.cell_width -1) and y > 0 and y < (self.cell_height -1):
-                    return [
-                        [x, y + (self.cell_height - 1)],
-                        [x, y + 1],
-                        [x - 1, y],
-                        [x - (self.cell_width -1), y],
-                        [x -1, y -1],
-                        [999],
-                        [999],
-                        [x -1, y +1]
-                    ]
+                    # общий частный случай для правого столбца без правых соседей
+                    elif x == (self.cell_width -1) and y > 0 and y < (self.cell_height -1):
+                        return [
+                            [x, y -1],
+                            [x, y + 1],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y],
+                            [x -1, y -1],
+                            [999],
+                            [999],
+                            [x -1, y +1]
+                        ]
 
-                # общий частный случай для нижнего  столбца без нижних соседей
-                elif y == (self.cell_height -1) and x > 0 and x < (self.cell_width -1):
-                    return [
-                        [x, y -1],
-                        [x, y - (self.cell_height - 1)],
-                        [x -1, y],
-                        [x +1, y],
-                        [x - 1, y - 1],
-                        [999],
-                        [x +1, y -1],
-                        [999]
-                    ]
+                    # общий частный случай для нижнего  столбца без нижних соседей
+                    elif y == (self.cell_height -1) and x > 0 and x < (self.cell_width -1):
+                        return [
+                            [x, y -1],
+                            [x, y - (self.cell_height - 1)],
+                            [x -1, y],
+                            [x +1, y],
+                            [x - 1, y - 1],
+                            [999],
+                            [x +1, y -1],
+                            [999]
+                        ]
 
-                # общий случай для основных клеток [наконец-то :)]
+                    # общий случай для основных клеток [наконец-то :)]
+                    else:
+                        return [
+                            [x, y -1],
+                            [x, y +1],
+                            [x -1, y],
+                            [x +1, y],
+                            [x -1, y -1],
+                            [x +1, y +1],
+                            [x +1, y -1],
+                            [x -1, y +1]
+                        ]
                 else:
-                    return [
-                        [x, y -1],
-                        [x, y +1],
-                        [x -1, y],
-                        [x +1, y],
-                        [x -1, y -1],
-                        [x +1, y +1],
-                        [x +1, y -1],
-                        [x -1, y +1]
-                    ]
+                    pass
 
 
+    def neighbours_handling(self):
+        # ____DBG____
+        #print(self.matrix_new[0])  # 0 строка
+        #print(self.matrix_new[0][3])  # 0 строка, 3 ячейка
+        #neighbours_dbg = self.get_neighbours(self.matrix_new[0][3])
+        #print(neighbours_dbg)
+
+
+        neighbours = []
+        neigh_counter = 0
+        # for every cell in new coordinate type matrix
+        for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+            for cell in range(len(self.matrix_new[string_coord_matrix])):
+                neighbours = self.get_neighbours(self.matrix_new[string_coord_matrix][cell])
+                neigh_counter = 0
+
+                for n in range(len(neighbours)):
+                    if neighbours[n][0] == 999:
+                        continue
+                    x_cord, y_cord = neighbours[n][0], neighbours[n][1]
+                    #   test = self.matrix[y_cord][x_cord+1]
+
+                    if self.matrix[y_cord][x_cord] == 1:
+                        neigh_counter += 1
+
+                # accordance to rules of simulation
+                if neigh_counter < 2 or neigh_counter > 3:
+                    pygame.draw.rect(self.screen, pygame.Color('white'), (cell * 10, string_coord_matrix * 10, 9, 9))
+
+        return
 
     def run(self) -> None:
         pygame.init()
@@ -256,19 +284,22 @@ class Game():
 
         running = True
 
+        self.draw_lines()
+        pygame.display.flip()
+        self.matrix = self.create_grid(True)
+        self.draw_cells()
+        self.new_matrix_coord()
+        clock.tick(self.speed)
+
         while running:
             for event in pygame.event.get():
-                if event.type == False:
+                if event.type == pygame.QUIT:   # if [x] pressed
                     running = False
-
-            self.draw_lines()
-            pygame.display.flip()
-            self.matrix = self.create_grid(True)
-            self.draw_cells()
-            self.new_matrix_coord()
-            clock.tick(self.speed)
-
-            self.get_neighbours()
+                else:
+                    # не зватает метода переопределения матрицы живых/не живых после первой итерации
+                    self.neighbours_handling()
+                    pygame.display.flip()
+                    time.sleep(0.1)
 
         pygame.quit()
 
