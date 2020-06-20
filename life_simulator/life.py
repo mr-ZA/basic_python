@@ -5,7 +5,7 @@ import numpy
 import time
 
 class Game():
-    def __init__(self, width: int=640, height: int=480, cz: int=10, speed: int=10) -> None:
+    def __init__(self, width: int=1024, height: int=768, cz: int=10, speed: int=10) -> None:
         self.width = width
         self.height = height
         self.cell_size = cz
@@ -17,6 +17,10 @@ class Game():
         # Quantity of cells in hor and vert
         self.cell_width = self.width // self.cell_size      # кол-во клеток в ширину
         self.cell_height = self.height // self.cell_size    # кол-во клеток в длину
+
+        # Coordinates of neighbours for update in next generation
+        self.coord_update_dead = []
+        self.coord_update_reborn = []
 
     def draw_lines(self) -> None:
         self.screen.fill(pygame.Color("white"))
@@ -253,29 +257,58 @@ class Game():
         #neighbours_dbg = self.get_neighbours(self.matrix_new[0][3])
         #print(neighbours_dbg)
 
-
-        neighbours = []
-        neigh_counter = 0
-        # for every cell in new coordinate type matrix
+        # for every cell in new coordinate type matrix (current entity, no matter alive or dead)
         for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
             for cell in range(len(self.matrix_new[string_coord_matrix])):
                 neighbours = self.get_neighbours(self.matrix_new[string_coord_matrix][cell])
-                neigh_counter = 0
+                neigh_counter_dead = 0
+                neigh_counter_reborn = 0
 
                 for n in range(len(neighbours)):
                     if neighbours[n][0] == 999:
                         continue
+
+                    # coordinates for getting state of the neighbour cell
                     x_cord, y_cord = neighbours[n][0], neighbours[n][1]
-                    #   test = self.matrix[y_cord][x_cord+1]
 
-                    if self.matrix[y_cord][x_cord] == 1:
-                        neigh_counter += 1
+                    if self.matrix[string_coord_matrix][cell] == 1 and self.matrix[y_cord][x_cord] == 1:
+                        neigh_counter_dead += 1
 
-                # accordance to rules of simulation
-                if neigh_counter < 2 or neigh_counter > 3:
+                    if self.matrix[string_coord_matrix][cell] == 0 and self.matrix[y_cord][x_cord] == 1:
+                        neigh_counter_reborn += 1
+
+                # accordance to rules of simulation for dead cells
+                if neigh_counter_dead < 2 or neigh_counter_dead > 3:
+                    self.coord_update_dead.append(self.matrix_new[string_coord_matrix][cell])
                     pygame.draw.rect(self.screen, pygame.Color('white'), (cell * 10, string_coord_matrix * 10, 9, 9))
 
+                # accordance to rules of simulation for re-born entity
+                if neigh_counter_reborn == 3:
+                    self.coord_update_reborn.append(self.matrix_new[string_coord_matrix][cell])
+                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (cell * 10, string_coord_matrix * 10, 9, 9))
+
         return
+
+    def re_gen_matrix(self):
+
+        def re_gen_matrix_dead():
+            for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+                for cell in range(len(self.matrix_new[string_coord_matrix])):
+                    for cud in self.coord_update_dead:
+                        if self.matrix_new[string_coord_matrix][cell] == cud:
+                            self.matrix[string_coord_matrix][cell] = 0
+
+
+        def re_gen_matrix_reborn():
+            for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+                for cell in range(len(self.matrix_new[string_coord_matrix])):
+                    for cur in self.coord_update_reborn:
+                        if self.matrix_new[string_coord_matrix][cell] == cur:
+                            self.matrix[string_coord_matrix][cell] = 1
+
+
+        re_gen_matrix_dead()
+        re_gen_matrix_reborn()
 
     def run(self) -> None:
         pygame.init()
@@ -296,10 +329,10 @@ class Game():
                 if event.type == pygame.QUIT:   # if [x] pressed
                     running = False
                 else:
-                    # не зватает метода переопределения матрицы живых/не живых после первой итерации
                     self.neighbours_handling()
                     pygame.display.flip()
-                    time.sleep(0.1)
+
+                    self.re_gen_matrix()
 
         pygame.quit()
 
