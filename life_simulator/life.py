@@ -2,10 +2,31 @@ import pygame
 import random
 from pprint import pprint as pp
 import numpy
-import time
+import threading
+
+class hThread (threading.Thread):
+    def __init__(self, name, counter, flag_f, obj_game):
+        threading.Thread.__init__(self)
+
+        self.threadID = counter
+        self.name = name
+        self.counter = counter
+        self.flag_function = flag_f
+        self.obj_game = obj_game
+        self.threadLock = threading.Lock()
+
+    def run(self):
+        # Получить блокировку для синхронизации потока
+        self.threadLock.acquire()
+        print("Starting " + self.name + str(self.counter))
+        self.obj_game.re_gen_matrix(self.flag_function)
+
+        # Снять блокировку для следующего потока
+        self.threadLock.release()
+        print("Exiting " + self.name + str(self.counter))
 
 class Game():
-    def __init__(self, width: int=1024, height: int=768, cz: int=10, speed: int=10) -> None:
+    def __init__(self, width: int=640, height: int=480, cz: int=10, speed: int=100) -> None:
         self.width = width
         self.height = height
         self.cell_size = cz
@@ -84,16 +105,14 @@ class Game():
         for i in range(0, self.cell_height):
             for z in range(0, self.cell_width):
                 if self.matrix[i][z] == 1:
-                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (z * 10, i * 10, 9, 9))
+                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (z * self.cell_size, i * self.cell_size, 9, 9))
                     pygame.display.flip()
                 if self.matrix[i][z] == 0:
-                    pygame.draw.rect(self.screen, pygame.Color('white'), (z * 10, i * 10, 9, 9))
+                    pygame.draw.rect(self.screen, pygame.Color('white'), (z * self.cell_size, i * self.cell_size, 9, 9))
                     pygame.display.flip()
-        time.sleep(1)
 
     def new_matrix_coord(self):
         self.matrix_new = []
-        number_of_cell = 0      # 640x480 -> 64x48 = 3072(cells)
 
         for num_y, column in enumerate(self.matrix):
             row2 = []
@@ -277,7 +296,7 @@ class Game():
                     if self.matrix[string_coord_matrix][cell] == 0 and self.matrix[y_cord][x_cord] == 1:
                         neigh_counter_reborn += 1
 
-                # accordance to rules of simulation for dead cells
+                # accordance to rules of simulation for dead entity
                 if neigh_counter_dead < 2 or neigh_counter_dead > 3:
                     self.coord_update_dead.append(self.matrix_new[string_coord_matrix][cell])
                     pygame.draw.rect(self.screen, pygame.Color('white'), (cell * 10, string_coord_matrix * 10, 9, 9))
@@ -289,14 +308,17 @@ class Game():
 
         return
 
-    def re_gen_matrix(self):
-
+    def re_gen_matrix(self, flag_priority):
+        """
+        flag_priority: divide call for threading
+        """
         def re_gen_matrix_dead():
             for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
                 for cell in range(len(self.matrix_new[string_coord_matrix])):
                     for cud in self.coord_update_dead:
                         if self.matrix_new[string_coord_matrix][cell] == cud:
                             self.matrix[string_coord_matrix][cell] = 0
+                            break
 
 
         def re_gen_matrix_reborn():
@@ -305,10 +327,13 @@ class Game():
                     for cur in self.coord_update_reborn:
                         if self.matrix_new[string_coord_matrix][cell] == cur:
                             self.matrix[string_coord_matrix][cell] = 1
+                            break
 
+        if flag_priority == 1:
+            re_gen_matrix_dead()
 
-        re_gen_matrix_dead()
-        re_gen_matrix_reborn()
+        if flag_priority == 2:
+            re_gen_matrix_reborn()
 
     def run(self) -> None:
         pygame.init()
@@ -328,11 +353,37 @@ class Game():
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:   # if [x] pressed
                     running = False
-                else:
-                    self.neighbours_handling()
-                    pygame.display.flip()
 
-                    self.re_gen_matrix()
+                self.neighbours_handling()
+                pygame.display.flip()
+
+                # ____old way to re-generate(update) entity states in self.matrix structure
+                self.re_gen_matrix(1)
+                self.re_gen_matrix(2)
+                clock.tick(self.speed)
+
+                # re-generate Matrix in Threads (optimize)
+                # obj_with_attrs = self
+                # threads_list = []
+                #
+                # thread1 = hThread("Thread", 1, 1, obj_with_attrs)
+                # thread2 = hThread("Thread", 2, 2, obj_with_attrs)
+                #
+                # thread1.start()
+                # thread2.start()
+                #
+                # threads_list.append(thread1)
+                # threads_list.append(thread2)
+                #
+                # for t in threads_list:
+                #     t.join()
+                #
+                # if threading.active_count() <= 1:
+                #     clock.tick(self.speed)
+                #     continue
+                # else:
+                #     break
+                #_________________________________________#
 
         pygame.quit()
 
