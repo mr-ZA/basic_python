@@ -2,10 +2,31 @@ import pygame
 import random
 from pprint import pprint as pp
 import numpy
-import time
+import threading
+
+class hThread (threading.Thread):
+    def __init__(self, name, counter, flag_f, obj_game):
+        threading.Thread.__init__(self)
+
+        self.threadID = counter
+        self.name = name
+        self.counter = counter
+        self.flag_function = flag_f
+        self.obj_game = obj_game
+        self.threadLock = threading.Lock()
+
+    def run(self):
+        # Получить блокировку для синхронизации потока
+        self.threadLock.acquire()
+        print("Starting " + self.name + str(self.counter))
+        self.obj_game.re_gen_matrix(self.flag_function)
+
+        # Снять блокировку для следующего потока
+        self.threadLock.release()
+        print("Exiting " + self.name + str(self.counter))
 
 class Game():
-    def __init__(self, width: int=640, height: int=480, cz: int=10, speed: int=10) -> None:
+    def __init__(self, width: int=640, height: int=480, cz: int=10, speed: int=100) -> None:
         self.width = width
         self.height = height
         self.cell_size = cz
@@ -17,6 +38,10 @@ class Game():
         # Quantity of cells in hor and vert
         self.cell_width = self.width // self.cell_size      # кол-во клеток в ширину
         self.cell_height = self.height // self.cell_size    # кол-во клеток в длину
+
+        # Coordinates of neighbours for update in next generation
+        self.coord_update_dead = []
+        self.coord_update_reborn = []
 
     def draw_lines(self) -> None:
         self.screen.fill(pygame.Color("white"))
@@ -80,16 +105,14 @@ class Game():
         for i in range(0, self.cell_height):
             for z in range(0, self.cell_width):
                 if self.matrix[i][z] == 1:
-                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (z * 10, i * 10, 9, 9))
+                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (z * self.cell_size, i * self.cell_size, 9, 9))
                     pygame.display.flip()
                 if self.matrix[i][z] == 0:
-                    pygame.draw.rect(self.screen, pygame.Color('white'), (z * 10, i * 10, 9, 9))
+                    pygame.draw.rect(self.screen, pygame.Color('white'), (z * self.cell_size, i * self.cell_size, 9, 9))
                     pygame.display.flip()
-        time.sleep(1)
 
     def new_matrix_coord(self):
         self.matrix_new = []
-        number_of_cell = 0      # 640x480 -> 64x48 = 3072(cells)
 
         for num_y, column in enumerate(self.matrix):
             row2 = []
@@ -99,15 +122,9 @@ class Game():
 
             self.matrix_new.append(row2)
 
-        try:
-            if self.matrix_new[3072]:
-                print(self.matrix_new[3072])
-        except:
-            print("[ERROR] such element doesn't exist in matrix of elements..")
-
         print("New matrix of format: [\n\t\t\t\t\t\t[{номер_ЯЧ: [коордX, коордY]}]\n\t\t\t\t\t\t[{номер_ЯЧ: [коордX, коордY]}]\n\n\t\t\t\t\t]")
 
-    def get_neighbours(self):
+    def get_neighbours(self, arg_cell: list):
         """
             Вернуть список соседних клеток для клетки `cell`.
 
@@ -126,72 +143,197 @@ class Game():
                 Список соседних клеток.
         """
 
-        for matn in self.matrix_new:
-            for x, y in matn:
+        for string_matrix in self.matrix_new:
+            for cell_one in string_matrix:
+                if arg_cell == cell_one:
+                    x = cell_one[0]
+                    y = cell_one[1]
+                
+                    # частный случай левой верхней клетки:
+                    if x == 0 and y == 0:
+                        return [
+                            [x + 0, y + (self.cell_height -1)],
+                            [x, y + 1],
+                            [x + (self.cell_width -1), y],
+                            [x + 1, y],
+                            [x + (self.cell_width -1), y + (self.cell_height -1)],
+                            [x + 1, y + 1],
+                            [999],
+                            [999]
+                        ]
 
-                # частный случай левой верхней клетки:
-                if x == 0 and y == 0:
-                    return [
-                        [x + 0, y + (self.cell_height -1)],
-                        [x, y + 1],
-                        [x + (self.cell_width -1), y],
-                        [x + 1, y],
-                        [x + (self.cell_width -1), y + (self.cell_height -1)],
-                        [x + 1, y + 1],
-                        [999],
-                        [999]
-                    ]
+                    # частный случай правой верхней клетки:
+                    elif x == self.cell_width -1 and y == 0:
+                        return [
+                            [x, y + (self.cell_height -1)],
+                            [x, y + 1],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y - 0],
+                            [999],
+                            [999],
+                            [x - (self.cell_width -1), y + (self.cell_height -1)],
+                            [x - 1, y + 1]
+                        ]
 
-                # частный случай правой верхней клетки:
-                elif x == self.cell_width -1 and y == 0:
-                    return [
-                        [x, y + (self.cell_height -1)],
-                        [x, y + 1],
-                        [x - 1, y],
-                        [x - (self.cell_width -1), y - 0],
-                        [999],
-                        [999],
-                        [x - (self.cell_width -1), y + (self.cell_height -1)],
-                        [x - 1, y + 1]
-                    ]
+                    # частный случай левой нижней клетки:
+                    elif x == 0 and y == (self.cell_height - 1):
+                        return [
+                            [x, y - 1],
+                            [x - 0, y - (self.cell_height -1)],
+                            [x + (self.cell_width -1), y + 0],
+                            [x + 1, y + 0],
+                            [999],
+                            [999],
+                            [x + 1, y - 1],
+                            [x + (self.cell_width -1), y - (self.cell_height -1)]
+                        ]
 
-                # частный случай левой нижней клетки:
-                elif x == 0 and y == (self.cell_height - 1):
-                    return [
-                        [x, y - 1],
-                        [x - 0, y - (self.cell_height -1)],
-                        [x + (self.cell_width -1), y + 0],
-                        [x + 1, y + 0],
-                        [999],
-                        [999],
-                        [x + 1, y - 1],
-                        [x + (self.cell_width -1), y - (self.cell_height -1)]
-                    ]
+                    # частный случай правой нижней клетки:
+                    elif x == (self.cell_width -1) and y == (self.cell_height - 1):
+                        return [
+                            [x, y - 1],
+                            [x - 0, y - (self.cell_height - 1)],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y - 0],
+                            [x - 1, y - 1],
+                            [x - (self.cell_width -1), y - (self.cell_height -1)],
+                            [999],
+                            [999]
+                        ]
 
-                # частный случай правой нижней клетки:
-                elif x == (self.cell_width -1) and y == (self.cell_height - 1):
-                    return [
-                        [x, y - 1],
-                        [x - 0, y - (self.cell_height - 1)],
-                        [x - 1, y],
-                        [x - (self.cell_width -1), y - 0],
-                        [x - 1, y - 1],
-                        [x - (self.cell_width -1), y + (self.cell_height -1)],
-                        [999],
-                        [999]
-                    ]
+                    # общий частный случай для левого стобца без 3 левых соседей (y = 0, y = cell_height - 1 -> частные случаи)
+                    elif x == 0 and y > 0 and y < (self.cell_height - 1):
+                        return [
+                            [x, y -1],
+                            [x, y +1],
+                            [x + (self.cell_width -1), y - 0],
+                            [x +1, y],
+                            [999],
+                            [x +1, y +1],
+                            [x +1, y -1],
+                            [999]
+                        ]
 
-                # общий частный случай для левого стобца без 3 левых соседей (y = 0, y = cell_height - 1 -> частные случаи)
-                elif x == 0 and y > 0 and y < (self.cell_height - 1):
-                    return [
-                        [x, y -1],
-                        [x, y +1],
-                        [x - (self.cell_width -1), y - 0],
-                        [x +1, y],
-                        
-                    ]
+                    # общий частный случай для верхнего столбца без верхних соседей
+                    elif x > 0 and x < (self.cell_width - 1) and y == 0:
+                        return [
+                            [x, y + (self.cell_height -1)],
+                            [x, y +1],
+                            [x -1, y],
+                            [x +1, y],
+                            [999],
+                            [x +1, y +1],
+                            [999],
+                            [x -1, y +1]
+                        ]
+
+                    # общий частный случай для правого столбца без правых соседей
+                    elif x == (self.cell_width -1) and y > 0 and y < (self.cell_height -1):
+                        return [
+                            [x, y -1],
+                            [x, y + 1],
+                            [x - 1, y],
+                            [x - (self.cell_width -1), y],
+                            [x -1, y -1],
+                            [999],
+                            [999],
+                            [x -1, y +1]
+                        ]
+
+                    # общий частный случай для нижнего  столбца без нижних соседей
+                    elif y == (self.cell_height -1) and x > 0 and x < (self.cell_width -1):
+                        return [
+                            [x, y -1],
+                            [x, y - (self.cell_height - 1)],
+                            [x -1, y],
+                            [x +1, y],
+                            [x - 1, y - 1],
+                            [999],
+                            [x +1, y -1],
+                            [999]
+                        ]
+
+                    # общий случай для основных клеток [наконец-то :)]
+                    else:
+                        return [
+                            [x, y -1],
+                            [x, y +1],
+                            [x -1, y],
+                            [x +1, y],
+                            [x -1, y -1],
+                            [x +1, y +1],
+                            [x +1, y -1],
+                            [x -1, y +1]
+                        ]
+                else:
+                    pass
 
 
+    def neighbours_handling(self):
+        # ____DBG____
+        #print(self.matrix_new[0])  # 0 строка
+        #print(self.matrix_new[0][3])  # 0 строка, 3 ячейка
+        #neighbours_dbg = self.get_neighbours(self.matrix_new[0][3])
+        #print(neighbours_dbg)
+
+        # for every cell in new coordinate type matrix (current entity, no matter alive or dead)
+        for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+            for cell in range(len(self.matrix_new[string_coord_matrix])):
+                neighbours = self.get_neighbours(self.matrix_new[string_coord_matrix][cell])
+                neigh_counter_dead = 0
+                neigh_counter_reborn = 0
+
+                for n in range(len(neighbours)):
+                    if neighbours[n][0] == 999:
+                        continue
+
+                    # coordinates for getting state of the neighbour cell
+                    x_cord, y_cord = neighbours[n][0], neighbours[n][1]
+
+                    if self.matrix[string_coord_matrix][cell] == 1 and self.matrix[y_cord][x_cord] == 1:
+                        neigh_counter_dead += 1
+
+                    if self.matrix[string_coord_matrix][cell] == 0 and self.matrix[y_cord][x_cord] == 1:
+                        neigh_counter_reborn += 1
+
+                # accordance to rules of simulation for dead entity
+                if neigh_counter_dead < 2 or neigh_counter_dead > 3:
+                    self.coord_update_dead.append(self.matrix_new[string_coord_matrix][cell])
+                    pygame.draw.rect(self.screen, pygame.Color('white'), (cell * 10, string_coord_matrix * 10, 9, 9))
+
+                # accordance to rules of simulation for re-born entity
+                if neigh_counter_reborn == 3:
+                    self.coord_update_reborn.append(self.matrix_new[string_coord_matrix][cell])
+                    pygame.draw.rect(self.screen, pygame.Color('magenta'), (cell * 10, string_coord_matrix * 10, 9, 9))
+
+        return
+
+    def re_gen_matrix(self, flag_priority):
+        """
+        flag_priority: divide call for threading
+        """
+        def re_gen_matrix_dead():
+            for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+                for cell in range(len(self.matrix_new[string_coord_matrix])):
+                    for cud in self.coord_update_dead:
+                        if self.matrix_new[string_coord_matrix][cell] == cud:
+                            self.matrix[string_coord_matrix][cell] = 0
+                            break
+
+
+        def re_gen_matrix_reborn():
+            for string_coord_matrix in range(len(self.matrix_new)):  # we need 47 strings, cause len of matrix = 48
+                for cell in range(len(self.matrix_new[string_coord_matrix])):
+                    for cur in self.coord_update_reborn:
+                        if self.matrix_new[string_coord_matrix][cell] == cur:
+                            self.matrix[string_coord_matrix][cell] = 1
+                            break
+
+        if flag_priority == 1:
+            re_gen_matrix_dead()
+
+        if flag_priority == 2:
+            re_gen_matrix_reborn()
 
     def run(self) -> None:
         pygame.init()
@@ -200,19 +342,48 @@ class Game():
 
         running = True
 
+        self.draw_lines()
+        pygame.display.flip()
+        self.matrix = self.create_grid(True)
+        self.draw_cells()
+        self.new_matrix_coord()
+        clock.tick(self.speed)
+
         while running:
             for event in pygame.event.get():
-                if event.type == False:
+                if event.type == pygame.QUIT:   # if [x] pressed
                     running = False
 
-            self.draw_lines()
-            pygame.display.flip()
-            self.matrix = self.create_grid(True)
-            self.draw_cells()
-            self.new_matrix_coord()
-            clock.tick(self.speed)
+                self.neighbours_handling()
+                pygame.display.flip()
 
-            self.get_neighbours()
+                # ____old way to re-generate(update) entity states in self.matrix structure
+                self.re_gen_matrix(1)
+                self.re_gen_matrix(2)
+                clock.tick(self.speed)
+
+                # re-generate Matrix in Threads (optimize)
+                # obj_with_attrs = self
+                # threads_list = []
+                
+                # thread1 = hThread("Thread", 1, 1, obj_with_attrs)
+                # thread2 = hThread("Thread", 2, 2, obj_with_attrs)
+                
+                # thread1.start()
+                # thread2.start()
+                
+                # threads_list.append(thread1)
+                # threads_list.append(thread2)
+                
+                # for t in threads_list:
+                #     t.join()
+                
+                # if threading.active_count() <= 1:
+                #     clock.tick(self.speed)
+                #     continue
+                # else:
+                #     break
+                #_________________________________________#
 
         pygame.quit()
 
