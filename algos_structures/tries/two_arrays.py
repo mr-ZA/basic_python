@@ -1,4 +1,4 @@
-from Python.tries.file_handler.file_handling import *
+from file_handling import *
 import time
 
 class Trie_main:
