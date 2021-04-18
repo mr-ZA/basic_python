@@ -9,8 +9,10 @@ def fib(n):
        return fib(n-1) + fib(n-2)
 
 def main():
-    n = input()
-    print (fib (int(n)))
+    nums = int(input())
+
+    for n in range(nums):
+        print (fib(n))
 
 if __name__ == '__main__':
     main()

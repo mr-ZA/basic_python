@@ -1,5 +1,4 @@
 def get_secret(list, secret):
-
     low = 0
     step = 0
     high = len(list) - 1       # 0..4      # 0..6
